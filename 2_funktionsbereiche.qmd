@@ -1,0 +1,177 @@
+---
+lightbox: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Was sind Funktionsbereiche? {#funktionsbereiche}
+
+Was die betriebswirtschaftlichen Funktionsbereiche in einem Unternehmen sind, kann durch folgende Metapher eines Hauses erklärt werden: In dem Haus, dem Haus der BWL, gibt es verschiedene Aufgaben- und Funktionsbereiche, die es in einem Unternehmen generell zu organisieren gilt. Dabei handelt es sich z.B. um die einzelnen Abteilungen bzw. einzelnen Aufgabenbereiche, in denen sich jede Einrichtung aufgliedert, unabhängig davon, ob Sie für Leitung- oder für fachliche Teilaufgaben in einer Einrichtung zuständig sind. Mit anderen Worten sind das die *allgemeinen betriebswirtschaftlichen Aufgabenstellungen*, die auch in jeder Sozialeinrichtung vorhanden sein müssen (vgl. [Abb. 1](#figure21)).
+
+![Abb. 21: Haus der BWL (eigene Darstellung)](images/figure21.png){#figure21}
+
+Das Fundament bilden die sozialen betriebswirtschaftlichen Grundlagen. Hierauf wurde bereits weiter oben eingegangen und die Grundzusammenhänge wurden schon erarbeitet.
+
+In der Mitte des Hauses steht die rote Säule, einerseits das *interne und externe Rechnungswesen* und andererseits das *Controlling*. Diese Bereiche stellen die Hard Facts und damit gewissermaßen die zahlenmäßige Informationsbasis für wirtschaftliche Zusammenhänge innerhalb der Einrichtung dar. Die *Finanzierung* wiederum ergänzt das Ganze, um eine Übersicht zu den zur Verfügung stehenden finanziellen Mitteln, die eventuell beschafft oder hinsichtlich ihrer Verwendung geprüft werden müssen, zu bieten.
+
+Dann gibt es die *Organisationstheorie und Organisationsentwicklung* zu betrachten. Das ist derjenige Teil, der sich mit den organisations- und arbeitswissenschaftlichen Zusammenhängen beschäftigt. Dabei geht es um die Frage, wer welche Aufgabe innerhalb einer Einrichtung hat, wie sie strukturiert werden kann und wie Prozesse verändert werden können.
+
+Das *Personalmanagement* beschäftigt sich mit der Frage, wie Personen innerhalb von Einrichtungen geleitet, motiviert und geführt werden und sich weiterentwickeln können.
+
+Zurück zur Metapher: Das Haus hat noch Balkons: auf der linken Seite ist das *Sozialmarketing* zu finden. Das Sozialmarketing ist ein spezifisches Marketing, was sich mit sozialen Einrichtungen beschäftigt. Dabei kommen die allgemeinen Grundlagen aus der Betriebswirtschaftslehre, die sich mit dem Marketing von Unternehmen beschäftigen, zur Anwendung. Die allgemeinen Marketinggrundlagen müssen aber übertragen und ggf. modifiziert werden, um sie in sozialen Einrichtungen auch nutzen zu können.
+
+Dann gibt es das *Qualitätsmanagement*. Dieses hat das Ziel, die Professionalität und Qualität der Ziele und Ergebnisse sowie Strukturen und Prozesse zu überprüfen. Des Weiteren gibt es das *Projektmanagement* und auch das *Change-Management*. Hier geht es um die Frage der sinnvollen Durchführung von Projekten, deren Planung und Umsetzung sowie deren Evaluierung und um die erfolgreiche Organisationsentwicklung.
+
+Schließlich gibt es noch den Bereich der *Evaluation und Wirkungsmessung*. Das ist der Bereich, der sich mit der Wirkung von Leistungen beschäftigt. Nicht nur im finanziellen Sinne, sondern ganz im Gegenteil wird die Frage gestellt, welcher Beitrag geleistet wird, damit die Qualität, also die Lebensqualität der Klient\*innen verbessert wird. Gleichzeitig stellt sich auch die Frage, wie möglicherweise Einfluss darauf genommen werden kann, dass es in dem jeweiligen Stadtteil oder der Region zu einer Verbesserung kommt. Wirkungsmessung in diesem Zusammenhang bezieht sich auf die sozialen Wirkungen. Dies sind nicht zwingend monetäre, sondern gerade auch die gesellschaftlichen Veränderungen, die erzielt wurden: entweder durch die Tätigkeit der Sozialarbeitenden oder durch sozialpädagogische Maßnahmen selbst.
+
+Das Dach des Hauses könnte eigentlich auch der Keller sein: Hier verbirgt sich das Aufgabenfeld *Existenzgründung und Selbstständigkeit*. Es ist deswegen auf das Dach gesetzt worden, weil hier alle Grundlagen, die vorher genannt wurden, zum Zuge kommen: Wenn eine Einrichtung gegründet und dann die Finanzplanung gemacht werden soll, braucht es die Finanzierung und das Rechnungswesen. Gleichzeitig bedarf es auch der Kenntnisse des Personalwesens, Wissen über die Strukturierung der Organisation und von einschlägigen rechtlichen Rahmenbedingungen. Die anderen Maßnahmen, wie zum Beispiel das Marketing, sind erforderlich, um überhaupt die Zielgruppe näher zu bestimmen, den Markt einzuschätzen und auch die Wettbewerber kennenzulernen. Das verstehen wir unter dem Haus der BWL.
+
+# 2. Rechnungswesen
+
+## 2.1 Überblick zum Rechnungswesen {#berblick-zum-rechnungswesen}
+
+Das Rechnungswesen wird auch als betriebliches Rechnungswesen bezeichnet und hat die Aufgabe, die wirtschaftlichen Zusammenhänge in der Einrichtung darzustellen. Hierbei sind vier Teile dieses Rechnungswesens zu erörtern. Es gibt zwar noch weitere Teile, aber es soll hier erstmal des Überblicks Willen um diese vier Teile gehen (vgl. im Folgenden [@nv4b5afhcwm]).
+
+1. Teil: Finanzierung
+
+Die Finanzierung bzw. das Finanzmanagement ist eine zukunftsbezogene Aufgabe mit dem Ziel, alle in der Einrichtung verfügbaren bzw. zu akquirierenden Mittel zu verwalten bzw. die Zahlungsströme zu steuern. Dadurch muss sich sodann die Zahlungsfähigkeit bestimmen lassen. Sie lässt sich zum Beispiel mithilfe einer Liquiditätsplanung ermitteln. Dabei werden die Einzahlungen den Auszahlungen gegenübergstellt und so lässt sich relativ schnell erfassen, ob zusätzliche Finanzierungsmittel notwendig sind oder ob schon mit den erwarteten Einzahlungen alle Rechnungen beglichen werden können. Investitionsrechnung beschäftigen sich mit der Frage, inwieweit sich Investitionen rentieren.
+
+Wenn bspw. ein Gebäude und ein Grundstück erworben und gebaut werden soll, dann müssen entsprechende finanzielle Mittel dafür aufgenommen werden, z. B. durch einen Kredit. Die Frage, die sich sodann stellt, ist, ab wann sich die eingesetzten Mittel tatsächlich rentiert haben, also ab wann wieder positive Zahlen geschrieben werden. Bei der Finanzierung geht es allgemein darum, wo bestimmte Mittel herkommen, nämlich aus der Innenfinanzierung, der Außenfinanzierung, der Eigen- oder Fremdfinanzierung. Hierbei wird danach unterschieden, ob eigene Mittel (bspw. Einlagen von Gesellschaftern/durch Gewinnrücklagen) oder ob Fremdmittel (bspw. Aufnahme eines Darlehens bei einer Bank) eingesetzt werden.
+
+2. Teil: Finanzbuchhaltung
+
+Die Finanzbuchhaltung ist zeitraumbezogen und vergangenheitsorientiert, womit gemeint ist, dass alles systematisch aufbereitet ist. Alle Geschäftsvorfälle während eines Geschäftsjahres sind zu dokumentieren und werden in Vorbereitung auf einen Jahresabschluss am Ende des Jahres erledigt. Zum Inhalt des Jahresabschlusses: Es muss eine Bilanz aufgestellt werden, welche die Gegenüberstellung von Vermögen und Kapital darstellt. Darüber hinaus kann es noch andere Bestandteile geben, wie z. B. die Gewinn- und Verlustrechnung. Hier werden die Erträge und die Aufwendungen gegenübergstellt und somit gewissermaßen der Erfolg am Ende des Jahres ermittelt: ein Gewinn oder Verlust.
+
+3. Teil: Kosten- und Leistungsrechnung
+
+Zur Abgrenzung: Die Finanzbuchhaltung wird auch als externes Rechnungswesen bezeichnet, die Kosten- und Leistungsrechnung als internes Rechnungswesen. Was ist der Unterschied? Die Finanzbuchhaltung muss gesetzlichen Auflagen folgen: dem Handels- und Steuerrecht. Danach müssen entsprechend auch die Bilanz und die Gewinn- und Verlustrechnungen erstellt werden. Bei der Kosten- und Leistungsrechnung haben wir diese rechtlichen Verpflichtungen im Regelfall nicht; es gibt Ausnahmen wie z. B. für Pflegeeinrichtungen und Krankenhäuser. Im internen Rechnungswesen, welches gegenwarts- und zukunftsbezogen ist, müssen die tatsächlich angefallenen Kosten und Leistungen erfasst werden. Dies sind die im jeweiligen Unternehmen entstandenen Kosten und Leistungen. Diese sind in Einzel- und Gemeinkosten zu unterscheiden: Einzelkosten lassen sich direkt zu den jeweiligen Kostenträgern zuordnen, Gemeinkosten nur indirekt. Es handelt sich dabei um allgemeine Kosten wie z. B. Verwaltungskosten. Die Ermittlung der Selbstkosten -- das ist das übergeordnete Ziel -- geben Auskunft darüber, welche Gesamtkosten in einer Einrichtung entstanden sind.
+
+4. Teil: Controlling und Planungswesen 
+
+Dieser Bereich stellt ebenso wie das interne Rechnungswesen eine gegenwarts- bzw. zukunftsbezogene Aufgabe dar. Hier geht es darum, Planabweichungen möglichst rechtzeitig und früh zu identifizieren. Hierzu werden insbesondere Budgets verwendet, um festzustellen, ob zwischen den tatsächlich angefallenen und den geplanten Kosten eine Abweichung vorliegt. Die Budgetierung und die anderen Instrumente dienen letztlich dazu, eine Wirtschaftlichkeitsüberprüfung zu ermöglichen sowie die Kosten und Gewinne innerhalb der Einrichtung zu steuern. Budgets sind häufig mehrstufig und beinhalten Kostenstellen für die einzelnen Teile der Einrichtung. Das Controlling dient also allgemein der Steuerung des Unternehmens. Kurzum: das Controlling und Planungswesen ist gewissermaßen die praktische Umsetzung der verschiedenen Zahlen, die im Rahmen der Kosten- und Leistungsrechnung, Finanzbuchhaltung und im Finanzmanagement ermittelt worden sind.
+
+## 2.2 Die Finanzströme eines Unternehmens {#die-finanzstrme-eines-unternehmens}
+
+Bei der Betrachtung der Finanzströme eines Unternehmens ergibt sich meist ein komplexes Bild, wie in der folgenden Abbildung dargestellt. Dabei steht das Unternehmen in der Mitte und es gibt verschiedene Stakeholder, die am Unternehmen beteiligt sind oder mit diesem in verschiedenen finanziellen Beziehungen stehen, wie z. B. die Gesellschafter der Einrichtung, die Finanzmärkte, die Absatzmärkte und den Staat.
+
+Die *Gesellschafter* haben bei Gründung der Einrichtung eine Einlage geleistet und haben sich dadurch an der Gründung finanziell beteiligt. Sie haben einen Anspruch darauf, dass sie an den Gewinnen bzw. Dividenden und Einnahmen beteiligt werden. Wenn sie ihre Einlage zurückrufen wollen, haben sie ggf. auch einen Anspruch darauf, das Kapital zurückerstattet zu bekommen.
+
+An den Finanzmärkten kann eine *Fremdfinanzierung* zum Beispiel durch Kredite und durch Darlehen aufgenommen werden. Dafür haben die Banken oder Kreditinstitute dann ein Anspruch darauf, mindestens die Tilgung zurückzuerhalten. Dies kann schrittweise oder auch als Ganzes geschehen und zusätzlich haben sie noch Zinsen vereinbart, die zu zahlen sind.
+
+Demgegenüber können auch *Geldanlagen am Finanzmarkt*** **gemacht werden, z. B. auf einem Geldmarkt- oder ein Sparkonto. Dafür können dann, wenn die finanzielle Lage und die Märkte es hergeben, entsprechend Guthabenzinsen erwirtschaftet werden.
+
+Des Weiteren gibt es noch die Austauschbeziehungen mit dem *Staat*. Bei Gründung eines Unternehmens gibt es verschiedene Investitionszuschüsse, bei Bauprojekten z. B., oder andere Zuwendungen aus öffentlichen Mitteln, wie z. B. von Bund, Land und Kommune. Durch Projektmittel, die finanziert werden, oder mit den Leistungsträgern können auch Leistungsentgelte vereinbart werden. Das sind Einnahmen, die dem Unternehmen eine Refinanzierung ihrer Kosten ermöglichen. Darüber hinaus muss das Unternehmen aber dennoch -- wie alle anderen Unternehmen -- Abgaben leisten: u. a. für Sozialversicherungen, Steuern und gegebenenfalls auch Gebühren.
+
+Gegenüber den *Absatzmärkten* gibt es ebenso eine Austauschbeziehung. Dazu zählen u. a. die Klient\*innen bzw. allgemein Konsument\*innen für hergestellte Güter oder angebotene Dienstleistungen. Und diese können Privatzahlungen leisten oder es werden andere Einnahmen generiert. Das können bspw. Umsätze aus dem Verkauf von Anlagevermögen oder eines nicht mehr genutzten Fahrzeugs sein.
+
+*Lieferantenkredite* sind ebenfalls eine Finanzierungsmöglichkeit, eine Form der Fremdfinanzierung. Das ist der Fall, wenn ein Lieferant eine Rechnung gestellt hat und diese Rechnung erst nach einer gewissen Zeit (auf ein Zahlungsziel hin), z. B. nach 14 Tagen, beglichen werden muss. In der Zwischenzeit können die eingekauften Waren verwendet werden, auch wenn noch kein Cent dafür ausgegeben wurde. Des Weiteren gibt es laufende *Auszahlungen und Anschaffungen*. Darunter fallen Forderungen, die gegenüber den Absatzmärkten bzw. den Kunden und Klient\*innen bestehen.
+
+## 2.3 Kostenrechnung, Kostenstellenrechnung und Kostenträgerrechnung {#kostenrechnung-kostenstellenrechnung-und-kostentrgerrechnung}
+
+Schließlich wagen wir noch einen kurzen Blick in das *interne Rechnungswesen*, welches auch als Kosten- und Leistungsrechnung verstanden wird. Die Kosten- und Leistungsrechnung hat die Aufgaben, die Wirtschaftlichkeit der Einrichtung zu überprüfen. Diese wird auf unterschiedlichen sog. Rechnungsstufen unterschieden (vgl. [Abbildung 2](#n64xsme4d2f)).[^1]
+
+![](https://assets.pubpub.org/vfyeuwmr/01662728911824.png){#n64xsme4d2f}
+
+Kostenrechnungsstufen im internen Rechnungswesen (Trummer, o.J.). Quelle: https://www.modu-learn.de/wordpress/wp-complete/uploads/2017/07/kostenanalyse-basis-neu.png
+
+Die *Kostenartenrechnung* versucht, alle Kostenarten zu ermitteln, , d. h. sie geht der Frage nach, welche Kosten insgesamt in der Einrichtung anfallen. Dies sind z. B. Personalausgaben oder auch Abschreibungen. In der *Kostenstellenrechnung* gilt es zu ermitteln, wo diese Kosten angefallen sind: in der Kindertagesgruppe, im Einkauf, bei der Geschäftsleitung, in der Öffentlichkeitsarbeit oder an sonstigen Stellen. Die *Kostenträgerrechnung* beschäftigt sich mit der Frage, wo die Kosten anfallen, also für welche Produkte und Dienstleistungen. Da stellt sich die Frage, wie hoch die Kosten sind, die im Rahmen einer Beratungsstunde, einer Betreuungsstunde oder ganz allgemein im Rahmen eines Tagessatzes angefallen sind. Darunter lassen sich alle Personalkosten fassen, also alle Sachkosten, die in unterschiedlichen Kostenstellen angefallen sind. Sodann lässt sich problemlos feststellen, wie „teuer" eine Dienstleistung tatsächlich ist.
+
+## 2.4 Phasen des Controllings
+
+Im Controlling, wie vorangehend bereits ausgeführt, geht es um die Aufgabe, klar zu planen und entsprechende Abweichungen frühzeitig festzustellen, um daraus Maßnahmen abzuleiten. Hier sei ein Modell von Bachmann ([@nc30sbonint]) angeführt, der sich mit den verschiedenen Phasen des Controllings beschäftigt (vgl. [Abbildung 3](#nkryrxsrdoi)).
+
+![](https://assets.pubpub.org/t0dbivl9/41662729340205.png){#nkryrxsrdoi}
+
+Phasen des Controllings nach Bachmann (2008, S. 9)
+
+Neben dem Controlling müssen am Anfang erstmal eine *Umweltanalyse sowie unternehmensinterne Analysen* durchgeführt werden, um herauszufinden, mit welchen Stakeholdern überhaupt eine Verbindung besteht. Es sind die Rahmenbedingungen der jeweiligen Situation zu beschreiben. Anschließend wird daraus ganz allgemein die Zielstellung für die Einrichtung herausgearbeitet, sodass dies zum Beispiel in einem *strategischen Plan* von Jahr zu Jahr erneuert werden kann.
+
+Nach Festlegung der Zielstellungen geht es in der nächsten Phase um die *Planung* einer konkreten Wirtschaftsperiode. Dies kann bspw. im Rahmen von Budgets oder mithilfe der Budgetierung getan werden, um damit alle Kosten und Leistungen der Einrichtung geteilt oder nach den Einrichtungsteilen gegliedert zu ermitteln.
+
+Schließlich müssen im Laufe des Jahres die verschiedenen tatsächlich angefallenen Kosten erfasst werden. Diese sind tabellarisch im Budget zu erfassen. Mit diesem Wissen ausgestattet ist man in der Lage, die *Kontrollmaßnahmen* durchzuführen, ob sich bspw. Abweichungen ergeben haben oder ob überhaupt Abweichungen entstanden sind.\
+\
+Sofern *Abweichungen* entstanden sind, muss überlegt werden, ob diese vor dem Hintergrund definierter Toleranzgrenzen tolerierbar ist. Wenn eine Kostenstelle leicht überzogen wurde, müssen nicht gleich die härtesten Maßnahmen, wie z. B. ein Kostenstopp für alle zukünftigen Anschaffungen ausgesprochen werden. Lohnsteigerungen im Umfang von 2 bis 4 % sind beispielsweise etwas Normales. Dies kann sich durch Tarifveränderungen oder eine Steigerung der Sozialabgaben ergeben haben.
+
+Wenn allerdings die Toleranzgrenzen überschritten sind, dann müssen entsprechende Veränderungsmaßnahmen eingeleitet werden. Dazu dient die letzte Phase der *Steuerung*. Hier müssen Korrekturmaßnahmen eingeleitet werden, damit die Ziele, die ursprünglich gesetzt worden sind, auch erreicht werden können.
+
+An der Seite sind verschiedene Pfeile erkennbar, die andeuten sollen, dass hier verschiedene *Feedbackprozesse* möglich sind. In der ersten Phase widmet man sich kurzgesagt der *Planung*. Die zweite Phase fragt danach, wie kontrolliert werden kann und *Abweichungen* ermittelt werden können. In der dritten Phase beschäftigt man sich mit den verschiedenen *Handlungsempfehlungen* und Instrumenten, die aufgetretenen Abweichungen wieder zu korrigieren.
+
+# 3. Personalmanagement
+
+Management ganz allgemein bedeutet: eine zielorientierte Gestaltung und Steuerung von Organisationen. Beim Personalmanagement bzw. in der Personalwirtschaft geht es darum, die Einrichtung durch Maßnahmen zu gestalten, die darauf abzielen, einerseits neues Personal zu gewinnen, das Personal zu verwalten bzw. zu erfassen und andererseits auch für die Personalentwicklung der Mitarbeitenden aufzukommen (z.B. [@nrtjm97qih3]). Das muss hinsichtlich wirtschaftlicher, sozialer und auch individueller Zielsetzung geschehen. Es gibt ein umfangreiches Aufgabenpaket für das Personalmanagement (vgl. [Abbildung 4](#n45gkp3brht)).
+
+![](https://assets.pubpub.org/05ijap80/51662729509857.png){#n45gkp3brht}
+
+Aufgabenfelder des Personalmanagements (in Anlehnung an Hölzle 2006, S.18)
+
+Zunächst gibt es die Bedarfsplanung. Mit *Bedarfsplanung* ist gemeint, dass man sich Gedanken machen muss, wer mit welchen Kompetenzen in welchen Betriebsteilen zukünftig eingeplant werden soll. Das erfordert die regelmäßige Erfassung von Personalstatistiken und das Sammeln von personenbezogenen Daten (*Bedarfsanalyse*). Die Beschaffung -- der Begriff kommt aus der Produktionswirtschaft -- meint hier die Akquise von Personal. Das kann von außen geschehen, das kann aber auch intern geschehen. Außen wäre beispielsweise die Stellenanzeige, intern eine Umsetzung oder Veränderung von Arbeitsverträgen.
+
+Die *Einsatzplanung* beschäftigt sich mit der Aufgabe, kurz- bzw. mittelfristig Dienstpläne zu erstellen. Längerfristig ist die Einsatzplanung zum Beispiel dazu wichtig, um Karrierewege planen zu können.
+
+Schließlich sind gelegentlich noch *Entlassungen* und *Freisetzungen* durchzuführen. Für das Personalmanagement gesprochen, handelt es sich bei Entlassungen um die Trennung von Mitarbeitenden. Freisetzung ist ein Sammelbegriff dafür, dass es alternative Maßnahmen gibt, die möglicherweise eine Entlassung verhindern können oder vermeiden lassen, wie z. B. innerbetriebliche Versetzungen, auch Umschulungen für eine andere Stelle, Kurzarbeit oder auch Urlaub und Sonderurlaub.
+
+Es gibt im Personalmanagement noch die Aufgabenbereiche der *Führung* und *Entwicklung*. Mit Führung ist gemeint, dass jede Leitungskraft selbst reflektieren muss und entsprechendes Wissen, Fähigkeiten und Erfahrungen besitzen muss, ein Team zu leiten, eine Einrichtung zu leiten und Mitarbeitende zu motivieren. Sie muss auch selbst in der Lage sein, das eigene Leitungshandeln zu hinterfragen. Entwicklungsaufgaben ergeben sich durch die Personalentwicklung in den Einrichtungen, d. h. Kompetenzen müssen ständig weiterentwickelt und durch geeignete Maßnahmen gewährleistet werden. Darunter fallen z. B. Personalweiterbildungen.
+
+Das Personalmanagement kann einerseits in einen *quantitativen* Teil
+(das sind die ersten fünf aufgeführten Bereiche) und in
+einen *qualitativen* Teil unterteilt werden (z. B. [@n4hpw9pibzk]).
+
+# 4. Organisationsentwicklung und Change-Management
+
+Zu diesem Funktionsbereich sei ein Modell der Organisationsentwicklung bzw. des Change-Managements von Kurt Lewin angeführt. Dieser hat ein Drei-Phasen-Modell entwickelt, welches mit der Metapher des Auftauens und Einfrierens von Organisationsstrukturen argumentiert (vgl. [Abbildung 5](#nchy9c5htdb)).
+
+![](https://assets.pubpub.org/l1gepr8k/11662729833424.png){#nchy9c5htdb}
+
+Organisationsentwicklung und Change-Management nach Kurt Lewins 3-Phasen-Modell (eigene Darstellung)
+
+In der ersten Phase, dem *Unfreezing*, geht es grundsätzlich darum, den Bedarf und die Situation zu klären. Es muss ermittelt werden, was verändert werden muss, wie dieser Prozess geplant werden kann, unter welchen Umständen Mitarbeitende mitgenommen werden können und mit welchen Widerständen ggf. gerechnet werden muss.
+
+In der *Moving*-Phase geht es darum, offen zu kommunizieren, was genau die Veränderung ist. Die Veränderungsprozesse müssen umgesetzt, Widerstände behandelt und das Team regelmäßig einbezogen werden. Es sind Fragestellungen und die dazugehörigen Lösungen zu entwickeln. Letztendlich sollte regelmäßig über den aktuellen Stand in Großgruppenveranstaltungen informiert werden.
+
+In der *Refreezing*-Phase, dem Einfrieren, müssen die geänderten Strukturen gefestigt werden. Es werden die neuen gefundenen Strukturen und definierten Prozesse verankert. Das dient dazu, nachhaltig mit den neuen Arbeitsstrukturen zu arbeiten und gegebenenfalls Anpassungsqualifikationen durchzuführen. Wenn die Maßnahme erfolgreich umgesetzt wurde, gilt es natürlich auch zum Schluss, den Erfolg zu feiern.
+
+# 5. Sozio-Marketing
+
+Schließlich gibt es noch den betriebswirtschaftlichen Funktionsbereich des Marketings bzw. das *Sozio-Marketing*, also das Marketing sozialer Einrichtungen.
+
+*Marketing* ist zusammengefasst der Aufgabenbereich, der sich damit beschäftigt, die jeweiligen Dienstleistungen und Produkte einerseits hinsichtlich ihrer Qualität zu entwickeln und Werte zu schaffen sowie andererseits zu kommunizieren sowie Kunden anzubieten und diese Austauschbeziehung zu managen.
+
+Nach Harald Christa ([@temp_id_8210362084416365]) ist *Sozio-Marketing* „auf eine konkrete Organisation der sozialen Arbeit bzw. der Wohlfahrtspflege bezogen", „umfasst weit mehr als rein kommunikationspolitische Facetten", „Anwendung der Denkweisen undInstrumente des Marketings in und für soziale Organisationen" ([@temp_id_8210362084416365]). Mithin stellt sich die Aufgabe, die allgemeinen betriebswirtschaftlichen Grundlagen des Marketings auf soziale Einrichtungen zu übersetzen.
+
+Im Folgenden soll beispielhaft der** ***Vier-Felder-Marketingmix*, ein bekanntes Instrument des Marketings, vorgestellt werden. Dies ist dazu geeignet, verschiedene Aufgaben bzw. Handlungsfelder des Marketings zusammenzufassen, wobei unterschieden wird zwischen Leistungspolitik, Preispolitik, Distributionspolitik und Kommunikationspolitik (vgl. [Abbildung 6](#n6h1vota8im)).
+
+![](https://assets.pubpub.org/jv3t3guk/61662730302126.png){#n6h1vota8im}
+
+Marketing-Mix (eigene Darstellung)
+
+In der *Leistungspolitik* geht es um die Frage, welche Leistungen überhaupt angeboten werden. Es muss ermittelt werden, wie die marktgerechte Ausgestaltung der Leistung aussieht und welche Aussagen sich von der Erhebung der Klient\*innen- sowie Kundenbedarfe ergeben. Das ist notwendig, um ermitteln zu können, ob die Qualität entsprechend gut ist, sodass die Erwartungen der Kunden befriedigt werden. Des Weiteren ist in Umwelt- oder Umfeldanalysen zu erforschen, wie sich das Produkt bzw. die Dienstleistung von anderen unterscheidet. Eventuell ließe sich eine Qualitäts- oder Kostenführerschaft übernehmen. Schließlich ist in der Leistungspolitik auch eine „Unique selling proposition" (USP) von Bedeutung; ein Alleinstellungsmerkmal der Einrichtung muss herausgearbeitet werden.
+
+In der *Preispolitik* geht es um die Frage, wie der Preis gestaltet wird und wie sich Preise realisieren lassen. Darauf haben wir in der Sozialwirtschaft weniger Einfluss, weil die Preise festgelegt sind, wenn wir beispielsweise an die Leistungsentgelte denken, wobei diese Entgelte im Regelfall feststehen. Nichtsdestotrotz müssen die Preise dahingehend kalkuliert werden, wie z. B. durch eine Kostenanalyse soll ein Überblick über die Kostenstruktur ermittelt werden. So muss ermittelt werden, wie teuer eine Beratungsstunde oder ein Tagessatz ist. Wenn diese Berechnung erfolgt ist, kann man in die Leistungsentgeltverhandlungen gehen und den notwendigen Preis verlangen, damit alle Kosten der Einrichtung gedeckt werden können. Es gibt ganz unterschiedliche Wege zur Preisfindung. Hier wurde das Modell der Kostenorientierung vorgestellt. Man kann sich aber auch bspw. bei der Kalkulation von Weiterbildungen an der Konkurrenz orientieren. Man kann sich auch anhand der Nachfrage orientieren, also dem Nutzer der jeweiligen Dienstleistungen. Darüber hinaus gibt es noch das Target Costing, also die ziel- und nutzenorientierte Ermittlung von Kosten bzw. Preisen. Die letztgenannten Verfahren sind eher im Weiterbildungs- bzw. allgemein im Bildungsbereich passend.
+
+Die *Distributionspolitik* fragt danach, auf welchem Wege die Leistungen zum Kunden gebracht werden. Es gibt sog. Absatzmittler wie z. B. Schuldnerberatungen, die manchmal ein erster Anlaufpunkt für Menschen in besonderen, finanziellen wie persönlichen Lebenslagen sind. Sie können Menschen an andere Beratungen verweisen. Darüber hinaus gibt es die Meinungsführer („Influencer"). Das sind diejenigen meinungsbildenden Personen, die die Einrichtung kennen und weiterempfehlen. Das können beispielsweise Selbsthilfegruppen, Elternrat und Elterngruppen, aber auch andere Vereinigungen bzw. Wohlfahrtsverbände sein, die auf unsere Einrichtung hinweisen. Die Standortwahl ist ebenso ein Aspekt in Distributionspolitik. Es ist dabei zu analysieren, wo sich die Einrichtung befindet: in einer Randlage oder im Stadtzentrum. Davon hängt ab, welche Personen sie erreichen kann. Schließlich sind die Öffnungszeiten sowie die Erreichbarkeit mit öffentlichen Verkehrsmitteln entscheidend.
+
+Den letzten großen Teil des Marketing-Mix stellt die *Kommunikationspolitik* dar. Hier geht es um die Frage, wie die Leistungen kommuniziert werden können, sodass sie dann entweder die gesamte Bevölkerung erreichen oder gezielt einzelne Gruppen ansprechen. Es geht um die Erhöhung des Bekanntheitsgrades der Einrichtung in der Öffentlichkeitsarbeit. Im Rahmen der Werbung müssen die unterschiedlichen Kanäle und Medien gewählt werden: ob über Social Media, über Werbung, über direkten Kontakt oder über eine Website. Herausgearbeitet werden muss, mit welcher Botschaft man die Personen erreicht, die man ansprechen will.
+
+# 6. Weitere Funktionsbereiche
+
+Abschließend ist ein Überblick über weitere Funktionsbereiche zu geben, gewissermaßen die Balkone und das Dach des Hauses der BWL. Hierzu erfolgt nur eine sehr sporadische Zusammenfassung in der folgenden Abbildung. All diese Bereiche, die hier aufgeführt sind, haben eine separate Veranstaltung im Laufe Ihres Studiums.
+
+![](https://assets.pubpub.org/pfylyzzh/61662730410057.png){#ncqvwzzylnh}
+
+Überblick weitere Bereich des Bildungsmanagements (eigene Darstellung)
+
+Das *Projektmanagement*, darauf wurde bereits eingegangen, hat die Aufgabe, Projekte zu steuern bzw. das Projektteam zu führen. Dabei handelt es sich um befristete Maßnahmen. Am Anfang muss man sich Gedanken über die Ziele zum Projekt machen. Es muss ein Plan entwickelt werden, dieser umgesetzt sowie durchgeführt werden. Zum Schluss werden die Ergebnisse veröffentlicht bzw. daraus ergibt sich möglicherweise ein neues Thema, was in einem anderen Projekt umgesetzt werden kann. Die smarte Zielformulierung kann hier als Instrument eingesetzt werden. Ebenso können Charts dazu dienen, einen Projektplan zu entwickeln, aus dem hervorgeht, zu welchem Zeitpunkt wann wer welche Tätigkeiten übernimmt. Flussdiagramme sind hilfreich, um Prozesse zu beschreiben. Zudem sind Protokolle von Meetings anzufertigen.
+
+Das *Qualitätsmanagement* hat die Aufgabe, Prozesse, Strukturen und Ergebnisse regelmäßig zu überprüfen. Es bildet gewissermaßen einen Garanten, um Standardisierung oder Professionalisierung zu ermöglichen. In dessen Rahmen ist regelmäßig danach zu fragen, wie sich die Kundenzufriedenheit darstellt und ob sich diese verändert hat. Umfassend muss geprüft werden, wie die gesamte Einrichtung noch effektiver und produktiver werden kann. Dazu gibt es verschiedene Modelle wie z. B. das EFQM-Modell oder die DIN-ISO-Norm. Im Bereich der Sozial- und Gesundheitswirtschaft gibt es noch zahlreiche andere Modelle und Instrumente, die eingesetzt werden können. Im Qualitätsmanagement werden verschiedene Maßnahmen festgelegt, Prozesse beschrieben und dokumentiert, zudem sollte auch ein Qualitätsmanagement-Handbuch entstehen.
+
+Die *Evaluation bzw. Wirkungsmessung* fragt danach, wie die Aktivitäten und Ergebnisse, die sich im Rahmen der Tätigkeiten ergeben haben, bewertet werden können. Zu ermitteln ist, was die Wirkungen sind, die sich daraus ergeben und welche Effekte sich auf sozialer, organisationaler und möglicherweise kommunaler sowie Sozialraumebene ergeben. Sie dienen dazu, Lernerfolge, Bildungsbedarf und -veränderung sowie Kompetenzentwicklungen abzubilden. In diesem Bereich nutzt man Methoden der qualitativen und quantitativen Sozialforschung, um genau diese Ergebnisbewertungen vorzunehmen. Die Evaluation hat das Ziel, herauszufinden, wie die Ergebnisse der jeweiligen Maßnahme gegenüber ihren Zielen zu einer wirkungsvollen Veränderung geführt haben. Die formative Evaluation beschäftigt sich mit der schrittweisen und begleitenden Evaluation und versucht, im Prozess eines Programms, einer Maßnahme oder eines Projektes entsprechend durch Feedback und Reflexionsmöglichkeiten auf den Verlauf von Monitoring- und Controlling-Maßnahmen Einfluss zu nehmen. Die summative Evaluation ermittelt die Wirkung nach Abschluss der Maßnahme.
+
+Die *Evaluation bzw. Wirkungsmessung* fragt danach, wie die Aktivitäten und Ergebnisse, die sich im Rahmen der Tätigkeiten ergeben haben, bewertet werden können. Zu ermitteln ist, was die Wirkungen sind, die sich daraus ergeben und welche Effekte sich auf sozialer, organisationaler und möglicherweise kommunaler sowie Sozialraumebene ergeben. Sie dienen dazu, Lernerfolge, Bildungsbedarf und -veränderung sowie Kompetenzentwicklungen abzubilden. In diesem Bereich nutzt man Methoden der qualitativen und quantitativen Sozialforschung, um genau diese Ergebnisbewertungen vorzunehmen. Die Evaluation hat das Ziel, herauszufinden, wie die Ergebnisse der jeweiligen Maßnahme gegenüber ihren Zielen zu einer wirkungsvollen Veränderung geführt haben. Die formative Evaluation beschäftigt sich mit der schrittweisen und begleitenden Evaluation und versucht, im Prozess eines Programms, einer Maßnahme oder eines Projektes entsprechend durch Feedback und Reflexionsmöglichkeiten auf den Verlauf von Monitoring- und Controlling-Maßnahmen Einfluss zu nehmen. Die summative Evaluation ermittelt die Wirkung nach Abschluss der Maßnahme.
+
+In dieser Grundlagenveranstaltung wurden ausgewählte Funktionsbereiche dargestellt, die in jeder Einrichtung eine Rolle spielen, unabhängig davon, ob es sich um eine soziale oder um eine erwerbswirtschaftliche Einrichtung im weitesten Sinne handelt.
+
+[^1]: Die Abbildung wurde aus folgender Publikation übernommen: Trummer,     F. (o.J.). Von Kostenarten bis Kostenträger: Definitionen, Beispiele     und Zusammenhänge. In *MODUlearn* \[Blog\].     https://www.modu-learn.de/verstehen/rechnungswesen/kostenanalyse/
+
+    Die Abbildung wurde aus folgender Publikation übernommen: Trummer,     F. (o.J.). Von Kostenarten bis Kostenträger: Definitionen, Beispiele     und Zusammenhänge. In *MODUlearn* \[Blog\].     https://www.modu-learn.de/verstehen/rechnungswesen/kostenanalyse/
+

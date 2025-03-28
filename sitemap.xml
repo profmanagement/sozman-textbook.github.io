@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/about.html</loc>
-    <lastmod>2025-03-28T10:28:02.022Z</lastmod>
+    <loc>https://profmanagement.quarto.org/sozman/index.html</loc>
+    <lastmod>2025-03-28T09:54:12.000Z</lastmod>
   </url>
   <url>
-    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/index.html</loc>
-    <lastmod>2025-03-28T10:28:02.022Z</lastmod>
+    <loc>https://profmanagement.quarto.org/sozman/1_einfuehrung.html</loc>
+    <lastmod>2025-03-18T12:36:52.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://profmanagement.quarto.org/sozman/references.html</loc>
+    <lastmod>2024-09-02T07:59:42.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://profmanagement.quarto.org/sozman/Grundlagen-des-Sozialmanagements.pdf</loc>
+    <lastmod>2025-03-28T11:01:41.922Z</lastmod>
   </url>
 </urlset>

@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-# Betriebswirtschaftliche Funktionsbereiche {#funktionsbereiche}
+# Funktionsbereiche {#funktionsbereiche}
 
 Was die betriebswirtschaftlichen Funktionsbereiche in einem Unternehmen
 sind, kann durch folgende Metapher eines Hauses erklärt werden: In dem
@@ -268,7 +268,7 @@ wie „teuer" eine Dienstleistung tatsächlich ist.
 Im Controlling, wie vorangehend bereits ausgeführt, geht es um die
 Aufgabe, klar zu planen und entsprechende Abweichungen frühzeitig
 festzustellen, um daraus Maßnahmen abzuleiten. Hier sei ein Modell von
-Bachmann ([@bachmann2008]) angeführt, der sich mit den verschiedenen
+Bachmann [@bachmann2008] angeführt, der sich mit den verschiedenen
 Phasen des Controllings beschäftigt (vgl. [Abb. 2.3](#figure23)).
 
 ![Abb. 2.3: Phasen des Controllings nach [@bachmann2008, S. 9]

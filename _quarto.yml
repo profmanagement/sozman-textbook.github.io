@@ -16,8 +16,8 @@ book:
   back-to-top-navigation: true
   downloads: pdf
   search: true
-  site-url: https://profmanagement.quarto.org/sozman
-  repo-url: https://github.com/AtlasOfLivingAustralia/cleaning_data
+  site-url: https://maik-arnold.github.io/sozman-textbook.github.io/
+  repo-url: https://github.com/maik-arnold/sozman-textbook.github.io
   margin-header: _fathom.html
   image: images/sozialmanagement_cover.png
   image-alt: "OER Textbook Sozialmanagement"
@@ -51,6 +51,10 @@ book:
     chapters:
      - 1_einfuehrung.qmd
      - 2_funktionsbereiche.qmd
+     - 3_organisation.qmd
+  - part: Anhang
+    chapters:
+     - references.qmd
 #    - 1_exploring/inspect.qmd
 #    - 1_exploring/summarise.qmd
 #  - part: 2_general-cleaning/1_intro.qmd
@@ -65,8 +69,7 @@ book:
 #    - 3_ecological-cleaning/taxonomic-validation.qmd
 #    - 3_ecological-cleaning/geospatial-investigation.qmd
 #    - 3_ecological-cleaning/geospatial-cleaning.qmd
-  appendices: 
-   - references.qmd
+#  appendices: 
 #  - 4_appendices/where-to-get-data.qmd
 #  - 4_appendices/big-data.qmd
 #  - 4_appendices/data-scope.qmd

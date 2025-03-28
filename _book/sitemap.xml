@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://profmanagement.quarto.org/sozman/index.html</loc>
-    <lastmod>2025-03-28T09:54:12.000Z</lastmod>
+    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/index.html</loc>
+    <lastmod>2025-03-28T16:33:09.500Z</lastmod>
   </url>
   <url>
-    <loc>https://profmanagement.quarto.org/sozman/1_einfuehrung.html</loc>
-    <lastmod>2025-03-28T12:31:59.000Z</lastmod>
+    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/1_einfuehrung.html</loc>
+    <lastmod>2025-03-28T16:38:46.261Z</lastmod>
   </url>
   <url>
-    <loc>https://profmanagement.quarto.org/sozman/2_funktionsbereiche.html</loc>
-    <lastmod>2025-03-28T12:56:03.000Z</lastmod>
+    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/2_funktionsbereiche.html</loc>
+    <lastmod>2025-03-28T15:52:35.361Z</lastmod>
   </url>
   <url>
-    <loc>https://profmanagement.quarto.org/sozman/references.html</loc>
-    <lastmod>2025-03-28T11:14:36.619Z</lastmod>
+    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/3_organisation.html</loc>
+    <lastmod>2025-03-28T15:52:21.390Z</lastmod>
   </url>
   <url>
-    <loc>https://profmanagement.quarto.org/sozman/Grundlagen-des-Sozialmanagements.pdf</loc>
-    <lastmod>2025-03-28T12:59:31.617Z</lastmod>
+    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/references.html</loc>
+    <lastmod>2025-03-28T11:14:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maik-arnold.github.io/sozman-textbook.github.io/Grundlagen-des-Sozialmanagements.pdf</loc>
+    <lastmod>2025-03-28T16:38:53.560Z</lastmod>
   </url>
 </urlset>

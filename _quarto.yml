@@ -1,19 +1,125 @@
 project:
-  type: website
+  type: book
+  output-dir: _book
+  resources: 
+    - "*.png"
+    - "*.jpeg"
+    - "*.jfif"
+    - "*.svg"
 
-website:
-  title: "sozman-textbook.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+book:
+  title: "Grundlagen des Sozialmanagements"
+  subtitle: "Begriffe - Konzepte - Ansätze"
+  favicon: images/sozialmanagement_cover.png
+  reader-mode: true
+  page-navigation: true
+  back-to-top-navigation: true
+  downloads: pdf
+  search: true
+  site-url: https://profmanagement.quarto.org/sozman
+  repo-url: https://github.com/AtlasOfLivingAustralia/cleaning_data
+  margin-header: _fathom.html
+  image: images/sozialmanagement_cover.png
+  image-alt: "OER Textbook Sozialmanagement"
+  open-graph: 
+    image: images/sozialmanagement_cover.png
+    image-alt: "OER Textbook Sozialmanagement"
+  twitter-card: 
+    image: images/sozialmanagement_cover.png
+    image-alt: "OER Textbook Sozialmanagement"
+    card-style: summary_large_image
+  sidebar:
+    logo: images/Logo2.png
+
+  page-footer:
+    border: true
+    left: |
+      Grundlagen des Sozialmanagmeent ist Teil von <a href="https://profmanagement.quarto.org/sozman">![](/images/Logo2.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+    center: |
+      <a href="https://www.hs-nordhausen.de">![](images/HSN-Logo-wide-color_ohne-WR.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>. This work is licensed under a [CC-BY-NC-ND 4.0 Int License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+  cover-image: images/sozialmanagement_cover.png
+
+  chapters:
+  - index.qmd
+#  - preface.qmd
+#  - introduction.qmd
+#  - data-in-this-book.qmd
+  - part: 1_grundlagen/0_intro.qmd
+    chapters:
+     - 1_einfuehrung.qmd
+#    - 2_funktionsbereiche.qmd
+#    - 1_exploring/inspect.qmd
+#    - 1_exploring/summarise.qmd
+#  - part: 2_general-cleaning/1_intro.qmd
+#    chapters:
+#    - 2_general-cleaning/column-names-and-classes.qmd
+#    - 2_general-cleaning/duplicates.qmd
+#    - 2_general-cleaning/missing-values.qmd
+#    - 2_general-cleaning/strings.qmd
+#    - 2_general-cleaning/dates.qmd
+#  - part: 3_ecological-cleaning/1_intro.qmd
+#    chapters:
+#    - 3_ecological-cleaning/taxonomic-validation.qmd
+#    - 3_ecological-cleaning/geospatial-investigation.qmd
+#    - 3_ecological-cleaning/geospatial-cleaning.qmd
+  appendices:
+#  - 4_appendices/where-to-get-data.qmd
+#  - 4_appendices/big-data.qmd
+#  - 4_appendices/data-scope.qmd
+#  - 4_appendices/joins.qmd
+#  - 4_appendices/reproducible-workflows.qmd
+#  - 4_appendices/git.qmd
+#  - packages.qmd
+  - references.qmd
+
+bibliography: 
+  - references.bib
+  - data-cleaning-book-references.bib
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    mainfont: Roboto
+    monofont: Fira Code
+    highlight-style: arrow
+    monobackgroundcolor: "#F7F7F7"
+    theme: 
+      - theme.css
+      - theme.scss
+      - lumen
+  pdf:
+    title: "PDF Shiny New Title (version 0.1)"
+    documentclass: book
+    geometry:
+      - a4paper
+      - left=1.25in
+      - right=1.25in
+      - top=1.00in
+      - bottom=1.00in
+      - textwidth=5.25in
+      - textheight=8.75in
+    # Old geometry for 8-10-format
+    # geometry:
+    #   - paperwidth=8.00in
+    #   - paperheight=10.00in
+    #   - left=1.25in
+    #   - textwidth= 5.25in
+    #   - top=1.00in
+    #   - textheight=8.25in
+      #- showframe
+#    include-in-header: preamble.tex
+#    include-before-body: first.tex
+#    include-after-body: backcover.tex
     toc: true
+    colorlinks: true
+    fig-width: 5
+    fig-height: 5
+    fig-align: left
+    keep-tex: true
 
-
+execute:
+  code-annotations: hover
+  number-depth: 3
 

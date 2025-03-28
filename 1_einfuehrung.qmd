@@ -10,10 +10,10 @@ editor:
 In diesem einführenden Kapitel wird zunächst anhand einer sog. Fachlandkarte auf das Themenfeld Sozialmanagement und Sozialwirtschaft eingegangen. Im Anschluss folgt ein Überblick zur Geschichte und statistischen Einordnung dieses Arbeitsfeldes bzw. gesellschaftlichen Sektors, den wir als Sozialwirtschaft bezeichnen. Außerdem müssen verschiedene Begriffsabgrenzungen vorgenommen werden, wie z. B. zwischen *Sozialmanagement* und *Non-Profit-Management* [vgl. z. B. @Wohrle2017], und auch muss darauf eingegangen werden, was Organisationen der Sozialwirtschaft von Non-Profit-Organisationen unterscheidet.
 
 Das Sozialmanagement lässt sich anhand einer Fachlandkarte untergliedern. Eine Fachlandkarte wird in der Hochschuldidaktik genutzt, um komplexe Zusammenhänge übersichtlich darzustellen und um damit Lernenden in ein komplexes Arbeits-, Themen- und Forschungsfeld einzuführen [vgl. z. B. @Ritter-Mamczek2016]. Im Folgenden wird der Versuch unternommen, auf einer „Schatzkarte" die verschiedenen Provinzen des
-[Sozialmanagements](https://de.wikipedia.org/wiki/Sozialmanagement "null") zusammenzufassen und zu entdecken (vgl. [Abb. 1](#figure1)).
+[Sozialmanagements](https://de.wikipedia.org/wiki/Sozialmanagement "null") zusammenzufassen und zu entdecken (vgl. [Abb. 1.1](#figure11)).
 
-![Abb. 1: Fachlandkarte Sozialmanagement [@Arnold2022a, [CC-BY
-4.0](https://figshare.com/articles/figure/Social_Work_Management_Subject_Map/20151839?file=36033593)]](images/figure1.png){#figure1}
+![Abb. 1.1: Fachlandkarte Sozialmanagement [@Arnold2022a, [CC-BY
+4.0](https://figshare.com/articles/figure/Social_Work_Management_Subject_Map/20151839?file=36033593)]](images/figure11.png){#figure1}
 
 Im Bild ist das *Territorium der Grundlagen* zu sehen. Hier befinden wir uns an der Quelle der Sozialwirtschaft, d. h. es gilt die *sozialpolitischen* und *bildungspolitischen Rahmenbedingungen* und verschiedene *Managementkonzepte* kennenzulernen, wie soziale Organisation geleitet, geführt und gestaltet werden können. Links oben im Bild ist die Höhle der *Finanzbuchhaltung* zu sehen, die sich mit der Verwaltung der verfügbaren Finanzmittel beschäftigt. Im Wald der *Kosten- und Leistungsrechnung* können wir uns zudem einen Überblick
 darüber verschaffen, wie wirtschaftlich unsere Organisation arbeitet.
@@ -28,9 +28,9 @@ dem organisationsbezogenen Management sowie den Managementansätzen für das Soz
 
 [^1_einfuehrung-1]: Für eine ausführliche Darstellung der wichtigsten     Entwicklungsschritte vgl. z. B..Wöhrle, A. (2011). Sozialwirtschaft. In H. Thiersch, & H. U. Otto (2011), *Handbuch Soziale Arbeit*. *Grundlagen der Sozialarbeit und Sozialpädagogik* (S. 1562-1570, 5. Aufl.). München: Ernst Reinhardt. https://doi.org/10.2378/ot4a.art145
 
-# Geschichte der Sozialwirtschaft {#geschichte}
+## Geschichte der Sozialwirtschaft {#geschichte}
 
-## Die Anfänge der Sozialwirtschaft[^1_einfuehrung-2] {#die-anfaenge-der-sozialwirtschaft}
+### Die Anfänge der Sozialwirtschaft[^1_einfuehrung-2] {#die-anfaenge-der-sozialwirtschaft}
 
 [^1_einfuehrung-2]: Für eine ausführliche Darstellung der wichtigsten Entwicklungsschritte vgl. z. B..Wöhrle, A. (2011). Sozialwirtschaft. In H. Thiersch, & H. U. Otto (2011), *Handbuch Soziale Arbeit*. *Grundlagen der Sozialarbeit und Sozialpädagogik* (S. 1562-1570, 5. Aufl.). München: Ernst Reinhardt. https://doi.org/10.2378/ot4a.art145
 
@@ -40,37 +40,37 @@ In den [päpstlichen Sozialenzykliken](https://de.wikipedia.org/wiki/Sozialenzyk
 entwickelten Sozialökonomien (wie z. B. für die deutsche [Soziale Marktwirtschaft](https://www.bpb.de/kurz-knapp/lexika/lexikon-der-wirtschaft/20642/soziale-marktwirtschaft/ "null")) darstellen. Zur etwa gleichen Zeit ist [Léon Walras](https://de.wikipedia.org/wiki/L%C3%A9on_Walras "null") im Rahmen seiner [allgemeinen
 Gleichgewichtstheorie](https://de.wikipedia.org/wiki/Walrasianisches_allgemeines_Gleichgewichtsmodell "null") der Frage nachgegangen, wie Grund und Boden denn verstaatlicht werden können. Wenn mit einer Verstaatlichung zwar Steuern vermieden werden, so könnte seiner Meinung nach doch zumindest die Produktion gesteigert werden. Dies soll und kann an dieser Stelle keine vollständige Darstellung der geschichtlichen Grundlagen darstellen. Wir wollen es bei diesen Beispielen belassen. Festzuhalten ist aber, dass all diese verschiedene Grundlagen das „soziale Wirtschaften" [vgl. z. B. @Beck2013] in unseren heutigen (post-)modernen Gesellschaften zu beschreiben und zu verstehen verhelfen.
 
-## Gründung von Genossenschaften, Diakonie und die Bismarck'schen Gesetze {#gruendung}
+### Gründung von Genossenschaften, Diakonie und die Bismarck'schen Gesetze {#gruendung}
 
 Wenig später ist es zur Etablierung bzw. Entwicklung des Genossenschaftswesens gekommen.
 [Genossenschaften](https://de.wikipedia.org/wiki/Genossenschaft "null") waren ursprünglich nicht *per se* als sozial-gemeinnützige Einrichtungen ins Leben gerufen, sondern sind vielmehr dafür gegründet worden, einen Zusammenschluss oder Verbund von Personen und Einrichtungen zur wirtschaftlichen und/oder sozialen Förderung ihrer Mitglieder ins Leben zu rufen, z. B. wie Raiffeisen für hilfsbedürftige Landarbeiter oder die Volksbanken im Bankenwesen. In diesem Zusammenhang wurden wichtige Prinzipien entwickelt, wie z. B. die Selbstverantwortung, Selbsthilfe und Selbstverwaltung innerhalb von Genossenschaften, die in den letzten Jahren wieder verstärkt in der Organisationsforschung diskutiert wurden. Später kam es dann insbesondere im Bereich der konfessionellen Trägerschaften im [Diakonie](https://www.diakonie.de/ "null")- und [Caritaswesen](https://www.caritas.de/ "null") zur Gründung von Einrichtungen, die sich speziell um die Notlagen von Menschen gekümmert haben. Beispielhaft sei hier die Gründung der ersten Stadtmission in Deutschland von [Johann Hinrich Wichern](https://de.wikipedia.org/wiki/Johann_Hinrich_Wichern "null") in Hamburg genannt. Es sollte nicht unerwähnt bleiben, dass am Ende des 19. Jahrhunderts die [Bismarcksche Sozialgesetze](https://www.bpb.de/themen/soziale-lage/rentenpolitik/289619/bismarcks-sozialgesetze/ "null") eine Innovation des sozialstaatlichen Denkens darstellte und ein
 wichtiges Fundament für das [Sozialversicherungswesen](https://de.wikipedia.org/wiki/Sozialversicherung "null") und die Etablierung bzw. Festsetzung des [Solidarprinzips](https://www.bpb.de/themen/gesundheit/gesundheitspolitik/252319/das-solidarprinzip/ "null") bildete.
 
-## Paradigmenwechsel in der Finanzierung der Sozialwirtschaft {#paradigmenwechsel}
+### Paradigmenwechsel in der Finanzierung der Sozialwirtschaft {#paradigmenwechsel}
 
 Im 20. Jahrhundert stand lange Zeit zunächst das Prinzip der Vollkostendeckung bzw. „Selbstkostendeckung" [@Mross2017] im Vordergrund, d. h. alle Einrichtungen, die [gemeinnützigeZwecke](https://www.gesetze-im-internet.de/ao_1977/__52.html#:~:text=(1)%20Eine%20K%C3%B6rperschaft%20verfolgt%20gemeinn%C3%BCtzige,sittlichem%20Gebiet%20selbstlos%20zu%20f%C3%B6rdern. "null") verfolgt haben und als [Leistungserbringer](https://de.wikipedia.org/wiki/Leistungserbringer "null") aufgetreten sind, haben sämtliche notwendigen finanziellen Mittel vom Staat vollständig refinanziert bekommen. Mitte der 1970er Jahre ist aus der Kritik am „Versorgungs- oder Wohlfahrtsstaat" das Anliegen entstanden, dass man insbesondere diesen Bereich der Sozialwirtschaft und letztlich auch das Sozialmanagement stärker professionalisieren sollte.
 
-## Etablierung der ersten Studiengänge an Fachhochschulen {#fachhochschulen}
+### Etablierung der ersten Studiengänge an Fachhochschulen {#fachhochschulen}
 
 In dieser Zeit etablierten sich die ersten Studiengänge der Sozialen Arbeit an den Fachhochschulen, die sich vereinzelt auch mit dem Thema auseinandergesetzt haben, wie man das Management von sozialen Organisationen gestalten könnte. In den 1980er Jahren kam es schließlich zu einer Etablierung von Studiengängen, die sich mit dem Sozialmanagement oder dem Management sozialer und Non-Profit-Einrichtungen beschäftigten. Es wurden hauptsächlich zunächst Diplomstudiengängen und später (mit dem [Bologna-Reformprozess](https://de.wikipedia.org/wiki/Bologna-Prozess "null")) auch Bachelor- und Masterstudiengänge entwickelt, die sich mit dem Thema auseinandergesetzt und versucht haben, einerseits das sozialpädagogische und sozialarbeiterische Wissensspektrum und andererseits das betriebswirtschaftliche Wissen zu vermitteln und weiterzuentwickeln. Seit den 2000er Jahren haben sich dann verschiedene Studiengänge insbesondere im Bereich des Sozialmanagements, der Sozialwirtschaftslehre und im Non-Proﬁt-Management etabliert, die unterschiedliche Schwerpunktsetzungen haben und aktuelle Themen und Aufgaben des Sozialmanagements behandeln. Heute gibt es eine kaum noch überschaubare Vielzahl und Vielfalt an Studiengängen, die sich mit dem Management von sozialen Organisationen und dem Management in der Sozialwirtschaft beschäftigen [vgl. z. B. den Studienführer von @Boessenecker2014].
 
-## Das neue Steuerungsmodell {#steuerungsmodell}
+### Das neue Steuerungsmodell {#steuerungsmodell}
 
 Mit dem ökonomischen Denken in den 1990er Jahren fand schließlich ein Umdenken statt, was die Finanzierung der Sozialwirtschaft betraf. Das ursprüngliche Kostendeckungsprinzip wurde abgelöst durch ein neues Prinzip, nämlich das „[Neue Steuerungsmodell (NSM)](https://de.wikipedia.org/wiki/Neues_Steuerungsmodell "null")". Darauf muss später noch genauer eingegangen werden. Nach diesem Modell soll ein Wettbewerb um die öffentlichen Leistungen generiert werden, wobei Mittel nicht nach dem „Gießkannenprinzip" ausgeteilt werden. Vielmehr soll es stets bedarfsbezogen und auch im Sinne der Sozialraumorientierung eine Gewichtung geben, in welchen Stadtteilen beispielsweise bestimmte Förderungen in welchem Umfang fließen.
 
-## Soziales Unternehmertum {#unternehmertum}
+### Soziales Unternehmertum {#unternehmertum}
 
 Seit den 1960er Jahre hat man sich auch auf europäischer Ebene stärker mit sozialpolitischen Themen auseinandersetzen müssen und eine [Europäische Sozialcharta](https://www.sozialcharta.eu/ "null") (am 26. Februar 1965 in Kraft getreten) entwickelt, in der festgehalten ist, welchen Aufgabenstellungen denn ein Sozialstaat nachzukommen hat. Das Thema des sozialen Unternehmertums bzw. Social Entrepreneurship ist dann 2011 und 2014 mit verschiedenen Initiativen auf europäischer Ebene aufgegriffen worden [vgl. z. B. die Social Business Initiative in @Europeancommission2015social].
 
-# Sozialwirtschaft in Deutschland und Europa {#deutschland}
+## Sozialwirtschaft in Deutschland und Europa {#deutschland}
 
-## Gesamtwirtschaftliche Einordnung {#gesamtwirtschaft}
+### Gesamtwirtschaftliche Einordnung {#gesamtwirtschaft}
 
-Um die Sozialwirtschaft besser in das gesamte Wirtschaftssystem einordnen zu können, ist ein quantitativer Überblick notwendig. In einer Untersuchung des Instituts der deutschen Wirtschaft Köln aus dem Jahr [@IDW2004wohlfahrtsverbaende] wurden die verschiedenen „Sozialmultis" dargestellt (vgl. [Abb. 2](#figure2)). Dabei handelt es sich um die verschiedenen Wohlfahrtsverbände.
+Um die Sozialwirtschaft besser in das gesamte Wirtschaftssystem einordnen zu können, ist ein quantitativer Überblick notwendig. In einer Untersuchung des Instituts der deutschen Wirtschaft Köln aus dem Jahr [@IDW2004wohlfahrtsverbaende] wurden die verschiedenen „Sozialmultis" dargestellt (vgl. [Abb. 1.2](#figure12)). Dabei handelt es sich um die verschiedenen Wohlfahrtsverbände.
 
-![Abb. 2: Sozialunternehmen und Beschäftigte in der Sozialwirtschaft
+![Abb. 1.2: Sozialunternehmen und Beschäftigte in der Sozialwirtschaft
 [@IDW2004wohlfahrtsverbaende, S. 9,
-[Link](https://www.yumpu.com/de/document/view/7199735/auf-den-schultern-der-schwachen)]](images/figure2.png){#figure2}
+[Link](https://www.yumpu.com/de/document/view/7199735/auf-den-schultern-der-schwachen)]](images/figure12.png){#figure12}
 
 Man kann deutlich erkennen, dass die konfessionellen Träger wie der Caritasverband und auch das Diakonische Werk sowohl die meisten Einrichtungen betreiben als auch die meisten Mitarbeitenden haben. Darüber hinaus sind natürlich auch die anderen größeren Wohlfahrtsverbände zu nennen, wie der Paritätische Verband, die Arbeiterwohlfahrt und das Deutsche Rote Kreuz. Alle gemeinsam beschäftigten im Jahre 2020 etwa rund 1,3 Millionen Menschen. Von den Sozialmultis werden bundesweit ungefähr 100.000 Einrichtungen betrieben.
 Wenn man die Träger der freien gemeinnützigen Wohlfahrtspflege hinzunimmt, macht das ungefähr 5% der gesamtwirtschaftlichen Leistung aus. Wir haben ungefähr 43 Millionen Erwerbstätige in Deutschland [z. B. @Beck2013]. In einem Gutachten zur Sozialwirtschaft in Sachsen unter besonderer Berücksichtigung der Freien Wohlfahrtspflege vom [Gesundheitsökonomischen Zentrum an der TU Dresden](https://tu-dresden.de/bu/wirtschaft/wwsprofecon/ressourcen/dateien/publikationen/Sozialwirtschaft_2011.pdf?lang=de "null") wurde berechnet, dass in Sachsen der Anteil des Bereichs der „freigemeinnützigen Wohlfahrtspflege" an der Bruttowertschöpfung bei ungefähr 7,15% liegt (Bundesdurchschnitt: 6,74%) [@Karmann2011gutachten].
@@ -78,23 +78,23 @@ Wenn man die Träger der freien gemeinnützigen Wohlfahrtspflege hinzunimmt, mac
 Im Jahr 2008 gab es in Deutschland ca. 2,5 Millionen Mitarbeitende in der Sozial- und Gesundheitswirtschaft (es wird hier der Gesundheitsbereich hinzugerechnet) und auf europäischer Ebene rechnen wir etwa mit 11 Millionen Mitarbeitenden in den genannten Bereichen ([@Beck2013]). Wenn man dann die Wirtschaftsleistung in der Europäischen Union betrachtet und den öffentlichen Sektor herausrechnet,
 dann machen Unternehmen der Sozialwirtschaft ungefähr 10% der Bruttowertschöpfung aus, die eben nur der Sozialwirtschaft zugeordnet werden können und das Gesundheitswesen ist hier in dem Fall nicht mitgezählt [@Beck2013].
 
-## Beschäftigungszahlen {#beschaeftigungszahlen}
+### Beschäftigungszahlen {#beschaeftigungszahlen}
 
 Gehen wir einmal noch auf eine andere Statistik ein, und zwar auf die Beschäftigungszahlen in der Sozial- und Gesundheitswirtschaft. Hier sind die Zahlen von 2014 und 2020 gegenübergestellt, die sich in den jeweiligen Jahresberichten der Bundesagentur für Arbeit [@Bundesagentur2014beschaeftigte] zum Juli des Jahres (saisonbereinigt) finden. Im Bereich Erziehung und Unterricht sind im Jahr 2014 1.164.300 sozialversicherungspflichtig Beschäftigte angestellt gewesen. In 2020 waren bereits rund 1.347.000 Angestellte beschäftigt (15%ige Steigerung). In einem ähnlichen Umfang ist auch das Beschäftigungswachstum im Bereich Gesundheitswesen auf 2.585.000 (+13,0%) und im Bereich Heime und Sozialwesen auf 2.474.000 (+20,6%) gestiegen. Diese Zahlen bieten eine kurze Einordnung der Sozialwirtschaft. Im Verhältnis dazu können wir von ungefähr 43 Millionen Erwerbstätigen in allen Branchen ausgehen.
 
-## Finanzierungsmix für Träger der freien Wohlfahrtspflege {#finanzierungsmix}
+### Finanzierungsmix für Träger der freien Wohlfahrtspflege {#finanzierungsmix}
 
-Wenn wir auf die Einnahmenseite blicken und die Frage stellen, wie denn die freie Wohlfahrtspflege finanziert wird, dann wird deutlich, dass es einen grundsätzlichen Mix aus unterschiedlichen Finanzierungsquellen gibt (vgl. dazu [Abb. 3](#figure3)).
+Wenn wir auf die Einnahmenseite blicken und die Frage stellen, wie denn die freie Wohlfahrtspflege finanziert wird, dann wird deutlich, dass es einen grundsätzlichen Mix aus unterschiedlichen Finanzierungsquellen gibt (vgl. dazu [Abb. 1.3](#figure13)).
 
-![Abb. 3: Finanzierung der freien Wohlfahrtspflege [@IDW2004wohlfahrtsverbaende, S. 29,
-[Link](https://www.yumpu.com/de/document/view/7199735/auf-den-schultern-der-schwachen)]](images/figure3.png){#figure3}
+![Abb. 1.3: Finanzierung der freien Wohlfahrtspflege [@IDW2004wohlfahrtsverbaende, S. 29,
+[Link](https://www.yumpu.com/de/document/view/7199735/auf-den-schultern-der-schwachen)]](images/figure13.png){#figure13}
 
 Nach einer Untersuchung des Instituts der deutschen Wirtschaft Köln [@IDW2004wohlfahrtsverbaende] bestreiten zu 69% freie Träger ihr Einkommen aus den Leistungsentgelten. Leistungsentgelte sind öffentliche Zuwendungen bzw.
 öffentliche Mittel, wie z. B. abgerechnete Pauschalen, geleistete Fachleistungsstunden oder auch Tagessätze. Darüber hinaus gibt es öffentliche Zuwendungen, z. B. im Rahmen von Projekten oder institutionellen Finanzierungen. Die konfessionellen Träger finanzieren sich teilweise noch aus kirchlichen Zuwendungen. Schließlich gibt es noch eine Reihe von sonstigen Quellen, wie z. B. Projektmittel, Spenden und Beiträge. Beiträge gibt es in gemeinnützigen Einrichtungen und Organisationen, die Mitglieder haben, wie z. B. Vereine oder Genossenschaften. Dazu zählen auch Elternbeiträge in der Kita. Was man hier deutlich sieht -- und das ist gleichzeitig ein Markenzeichen für die Sozialwirtschaft -- ist, dass wir es grundsätzlich mit unterschiedlichen Finanzierungsquellen zu tun haben. Zum Erfolg einer Einrichtung bzw. zu deren Gesamtfinanzierung reichen eben öffentliche Mittel, die für die Finanzierung von Leistungen benötigt werden, nicht zwingend aus. Vielmehr müssen wir uns Gedanken darüber machen, wie wir den restlichen Betrag refinanzieren können, der nicht auf öffentlichen, sondern dann aus privaten bzw. Eigenmitteln oder aus Beiträgen und Spenden finanziert werden muss.
 
-# Non-Profit-Organisationen {#npo-organisationen}
+## Non-Profit-Organisationen {#npo-organisationen}
 
-## Begriff Non-Profit-Organisationen {#begriffnpo}
+### Begriff Non-Profit-Organisationen {#begriffnpo}
 
 Im Folgenden wird näher darauf eingegangen, was Non-Profit-Organisationen ausmacht. Konkret handelt es sich dabei um 
 > „alle diejenigen Organisationen, die weder erwerbswirtschaftliche Firmen noch öffentliche Behörden der unmittelbaren Staats- und Kommunalverwaltung sind. NPO sind ferner jene Organisationen, die einem gesellschaftlich als sinnvoll und notwendig anerkannten Leistungsauftrag folgen und dabei nicht in erster Linie vom Ziel der Gewinngenerierung geleitet werden. Nonprofit-Organisationen werden dabei gemeinhin als Teil des sogenannten „Dritten Sektors" verstanden, der neben bzw. zwischen den beiden idealtypischen ‚Polen' Markt und Staat angesiedelt ist" [@helmig2019nonprofit].
@@ -162,17 +162,17 @@ Einrichtungen. Nichtsdestotrotz gibt es auch Graubereiche: Soziale
 Organisationen, also spezifische Non-Profit-Organisationen; der Begriff
 muss später noch näher bestimmt werden.
 
-## Gemeinsamkeiten und Unterschiede zwischen Profit- und Non-Profit-Organisationen {#vergleichnpo}
+### Gemeinsamkeiten und Unterschiede zwischen Profit- und Non-Profit-Organisationen {#vergleichnpo}
 
 Zur genaueren Differenzierung von Non-Profit-Organisationen und
 erwerbswirtschaftlichen Organisationen ist folgende [Abb.
-4](#figure4) hilfreich [@Schwarz1986management, S. 8].
+1.4](#figure14) hilfreich [@Schwarz1986management, S. 8].
 
 <!-- ![Abb. 4: Finanzierung der freien Wohlfahrtspflege Gemeinsamkeiten und Unterschiede zwischen NPO und Unternehmen nach [@Schwarz1986management, S. 8]](images/figure4.png){#figure4} -->
 
-![Abb. 4: Gemeinsamkeiten und Unterschiede zwischen NPO und Unternehmen [nach @Schwarz1986management, S. 8]](images/figure4.png){#figure4}
+![Abb. 1.4: Gemeinsamkeiten und Unterschiede zwischen NPO und Unternehmen [nach @Schwarz1986management, S. 8]](images/figure14.png){#figure14}
 
-### Gemeinsamkeiten {#npogemeinsamkeiten}
+#### Gemeinsamkeiten {#npogemeinsamkeiten}
 
 Nach @Schwarz1986management bestehen alle Organisationen, egal ob sie erwerbswirtschaftliche (For-Profit) oder nicht-erwerbswirtschaftliche (Non-Profit) Unternehmen darstellen, aus verschiedenen Teilsystemen. Organisationen sind immer zugleich zielgerichtete Systeme, produktive Systeme und soziale Systeme. Damit ist gemeint, dass jede Organisation immer zu einem konkreten Zweck gegründet wurde, der -- wenn vorhanden -- in der Satzung bzw. im Gesellschaftervertrag der gegründeten Einrichtung
 niedergeschrieben ist, und der die Grundlage bildet für das gesamte Arbeiten in der Organisation. Darüber hinaus sind alle diese Organisationen auch produktive Systeme, d. h. hier geht es um die Frage, wie ist der Personaleinsatz in der Einrichtung organisiert, welche finanziellen Ressourcen stehen zur Verfügung, wie kann man neue Finanzierungsquellen aufschließen und wie werden Produkte und Dienstleistungen angeboten. Darüber hinaus sind alle Organisationen auch soziale Systeme. Es gilt immer mit zu bedenken, wie Mitarbeitende motiviert und dabei unterstützt werden können, ihre Kompetenzen weiterzuentwickeln. Im Vordergrund des sozialen Systems steht also der Faktor „Humankapital"
@@ -181,7 +181,7 @@ Alle Organisationen, sind sie denn einmal gegründet, müssen sich damit auseina
 Rahmenbedingungen zu beachten wie auch erwerbswirtschaftliche
 Organisationen bzw. umgekehrt.
 
-### Unterschiede {#npounterschiede}
+#### Unterschiede {#npounterschiede}
 
 Und man kann neben den Gemeinsamkeiten auch verschiedene Unterschiede
 herausarbeiten, auch das geht hier auf eine Untersuchung von Schwarz
@@ -264,7 +264,7 @@ Folgenden werden wir demnach Organisationen in den Blick nehmen, die
 „tendenziell" Non-Profit-Organisationen darstellen und die im erwähnten
 Spannungsfeld zwischen diesen beiden Polen stehen.
 
-# Begriff Soziale Organisation {#begriff-soziale-organisation}
+## Begriff Soziale Organisation {#begriff-soziale-organisation}
 
 In Abgrenzung zum Begriff Non-Profit-Organisation wird nunmehr noch eine
 Abgrenzung zu dem der „Sozialen Organisation" notwendig. Die Merkmale
@@ -306,9 +306,9 @@ versuchen festzumachen:
     verschiedenen Sachziele einsetzen, was in erwerbsorientierten
     Organisationen in der Regel nicht der Fall ist.
 
-# Herausforderungen in der Sozialwirtschaft {#herausforderungen-sozialwirtschaft}
+## Herausforderungen in der Sozialwirtschaft {#herausforderungen-sozialwirtschaft}
 
-## Ausgangspunkt {#sozialwirtschaft-ausgangspunkt}
+### Ausgangspunkt {#sozialwirtschaft-ausgangspunkt}
 
 Träger und Einrichtungen in der Sozialwirtschaft müssen stärker
 ökonomische Fragen beachten und sich auch am marktwirtschaftlichen
@@ -336,7 +336,7 @@ arbeiten bzw. um einen guten Job zu verrichten. Wirtschaftliche
 Grundkenntnisse gehören genauso zum Berufsbild wie die
 sozialpädagogische Professionalität.
 
-## Hybrid-Funktionen des Sozialmanagements und des Managements in der Sozialwirtschaft {#sozialwirtschat-hybriditaet}
+### Hybrid-Funktionen des Sozialmanagements und des Managements in der Sozialwirtschaft {#sozialwirtschat-hybriditaet}
 
 Es gilt immer, einen Fokus auf die Ressourcen zu legen, d. h. es ist
 stets auf einen effektiven und effizienten Einsatz von Ressourcen zu
@@ -365,11 +365,11 @@ von @Whoerle2007 in dem Buch von Volker
 @Brinkmann2010 hingewiesen --, dass das
 Sozialmanagement hier in die Mitte des Aktionsfeldes gestellt werden
 kann und man überlegen sollte, welche anderen Bereiche noch zu beachten
-sind (vgl. [Abb. 5](#figure5)).
+sind (vgl. [Abb. 1.5](#figure15)).
 
-![Abb. 5: Hybrid‐Funktionen des Sozialmanagements nach @Arnold2022b in Anlehnung an @Whoerle2007 zit. n. @Brinkmann2010 [S. 25]](images/figure5.png){#figure5}
+![Abb. 1.5: Hybrid‐Funktionen des Sozialmanagements nach @Arnold2022b in Anlehnung an @Whoerle2007 zit. n. @Brinkmann2010 [S. 25]](images/figure15.png){#figure15}
 
-Wenn man den äußeren Kreis in der [Abb. 5](#figure5)
+Wenn man den äußeren Kreis in der [Abb. 1.5](#figure15)
 betrachtet, lassen sich eine Reihe von Fachdisziplinen ausfindig machen,
 die im Sozialmanagement eine Rolle spielen: u. a. Volkswirtschaftslehre,
 Betriebswirtschaftslehre, Public Management. In diesen Disziplinen
@@ -397,9 +397,9 @@ Seite kann man von Multirationalität, auf der anderen Seite von Hybrid
 sprechen. Was ist mit diesen Konzepten gemeint? Darauf soll im Folgenden
 näher eingegangen werden.
 
-## Multirationalität und Hybridität {#multirationalitt-und-hybriditaet}
+### Multirationalität und Hybridität {#multirationalitt-und-hybriditaet}
 
-### Multirationalität {#sozialwirtschat-multirationalitaet}
+#### Multirationalität {#sozialwirtschat-multirationalitaet}
 
 Multirationalität[^1_einfuehrung-3] ist ein Begriff, der insbesondere
 vom Autorenteam @Schedler2013multirationales geprägt wurde, die sich mit der Frage
@@ -425,7 +425,7 @@ das sind unterschiedliche Perspektiven, die immer gleichzeitig
 betrachtet werden müssen, wenn es um die Aufgabenkoordination und die
 Lösung von Problemen im Arbeitsalltag geht.
 
-### Hybridität {#sozialwirtschat-hybriditaet}
+#### Hybridität {#sozialwirtschat-hybriditaet}
 
 Neben der Multirationalität gibt es noch ein anderes Prinzip, nämlich
 das der Hybridität. Dieses geht stärker auf die Autoren @Evers2010 zurück. Der Begriff
@@ -459,7 +459,7 @@ Perspektiven anzugehen, die Hybridität beachtet werden, also die
 Zusammenarbeit von unterschiedlichen Sektoren der Gesellschaft
 organisiert werden.
 
-### Konsequenzen {#sozialwirtschat-konsequenzen}
+#### Konsequenzen {#sozialwirtschat-konsequenzen}
 
 Einerseits sind Ressourcen von Sozialunternehmen aus unterschiedlichen
 Quellen zu nutzen, was oben unter dem Stichpunkt Finanzierungsmix

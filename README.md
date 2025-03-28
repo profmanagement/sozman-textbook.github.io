@@ -1,6 +1,6 @@
-# Cleaning Biodiversity Data in R <a href="https://cleaning-data-r.ala.org.au/"><img src="images/cleaner-shrimp_cover.png" class="rounded" align="right" style="margin: 20px 10px 20px 10px;" height="300"/></a>
+# Grundlagen des Sozialmanagements <a href="https://github.com/maik-arnold/sozman-textbook.github.io"><img src="images/sozialmanagement-cover.png" class="rounded" align="right" style="margin: 20px 10px 20px 10px;" height="300"/></a>
 
-<https://cleaning-data-r.ala.org.au/>
+<https://github.com/maik-arnold/sozman-textbook.github.io>
 
 This is the repository for the book *Cleaning Biodiversity Data in R*. This book is a practical guide for cleaning geo-referenced biodiversity data
 using R. It focuses specifically on the processes and challenges you'll face with biodiversity data.

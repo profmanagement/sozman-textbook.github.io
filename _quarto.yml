@@ -47,7 +47,7 @@ book:
 #  - preface.qmd
 #  - introduction.qmd
 #  - data-in-this-book.qmd
-  - part: 1_grundlagen/0_intro.qmd
+  - part: Grundlagen
     chapters:
      - 1_einfuehrung.qmd
 #    - 2_funktionsbereiche.qmd
@@ -65,7 +65,7 @@ book:
 #    - 3_ecological-cleaning/taxonomic-validation.qmd
 #    - 3_ecological-cleaning/geospatial-investigation.qmd
 #    - 3_ecological-cleaning/geospatial-cleaning.qmd
-  appendices:
+  appendices: Anhang
 #  - 4_appendices/where-to-get-data.qmd
 #  - 4_appendices/big-data.qmd
 #  - 4_appendices/data-scope.qmd
@@ -77,7 +77,7 @@ book:
 
 bibliography: 
   - references.bib
-  - data-cleaning-book-references.bib
+#  - data-cleaning-book-references.bib
 
 format:
   html:

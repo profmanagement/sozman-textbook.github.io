@@ -1,4 +1,4 @@
-# Grundlagen des Sozialmanagements <a href="https://github.com/maik-arnold/sozman-textbook.github.io"><img src="images/sozialmanagement-cover.png" class="rounded" align="right" style="margin: 20px 10px 20px 10px;" height="300"/></a>
+# Grundlagen des Sozialmanagements <a href="https://github.com/maik-arnold/sozman-textbook.github.io"><img src="images/sozialmanagement_cover.png" class="rounded" align="right" style="margin: 20px 10px 20px 10px;" height="300"/></a>
 
 <https://github.com/maik-arnold/sozman-textbook.github.io>
 

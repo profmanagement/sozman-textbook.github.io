@@ -1,0 +1,581 @@
+---
+lightbox: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Finanzierung in der Sozialwirtschaft {#finanzierung-sozialwirtschaft}
+
+Im Rahmen der Finanzplanung muss dargestellt werden, wie die für den Geschäftsbetrieb benötigten finanziellen Mittel beschafft und verwendet werden sowie wann und in welcher Höhe mit einem Ab- und Zufluss der benötigten Mittel zu rechnen ist. Für das Verständnis der verschiedenen Zahlen und Zusammenhänge sind die folgenden drei Grundbegriffe zu beachten:
+
+-   *Liquidität* beschreibt die Zahlungsfähigkeit, also die Fähigkeit, jederzeit den Zahlungsverpflichtungen uneingeschränkt nachkommen zu können. Ziel eines jeden Unternehmen ist es, kontinuierlich einen positiven Bestand an finanziellen Mitteln zu verwalten.
+
+-   *Finanzierung* (i. e. S.) meint die Fähigkeit, für den kurzfristigen bzw. längerfristigen Geschäftsbetrieb ausreichend finanzielle Mittel zur Verfügung zu stellen.
+
+-   *Wirtschaftlichkeit* beschreibt den Zusammenhang aus erforderlichem Aufwand und erreichtem Erfolg. Ein Unternehmen ist besonders dann wirtschaftlich, wenn die eingesetzten Mittel effektiv zur Zielerreichung eingesetzt wurden und die getätigten Investitionen rentabel sind.
+
+Zwar steht bei der Finanzierung als Teil des betrieblichen Rechnungswesens nur die Planung, Kontrolle und Steuerung von Zahlungsströmen (Liquiditätsrechnung, Kapitalbedarfsplanung, Cashflowrechnung,  Investitionsplanung) im Mittelpunkt, die zur Umsetzung des operativen Tagesgeschäftes und für eine strategisch Unternehmensentwicklung notwendig sind, es müssen darüber hinaus aber noch weitere betriebliche Rechnungen (externes Rechnungswesen) einbezogen werden, wie z. B. die Darstellung der Vermögens- und Schuldenlage in Form der Planbilanz und der Erfolgsaussichten in Form der Plan- Gewinn-und-Verlustrechnung.
+
+Der Finanzplanung muss besondere Aufmerksamkeit geschenkt werden, da diese von Investoren genau geprüft und hinsichtlich der finanziellen Machbarkeit der Gründung, möglicher Finanzrisiken, Maßnahmen zur Kapitalbeschaffung und notwendiger Investitionen geprüft wird.
+
+Im Folgenden werden die Grundlagen der Finanzierung von Organisationen der Sozialwirtschaft beschrieben. Ausgehend vom Welfare-Mix werden hernach die betriebswirtschaftlichen und schließlich sozialwirtschaftlichen Finanzierungsformen dargestellt.
+
+## Welfare-Mix in der Sozialwirtschaft {#welfare-mix-sozialwirtschaft}
+
+Wie im [Gesamtwirtschaftliche Einordnung der Sozialwirtschaft](1_einfuehrung.qmd#gesamtwirtschaft) bereits erläutert wurde, müssen sich Sozialunternehmen bzw. freie Träge der Wohlfahrtspflege heutzutage aufgrund der besonderen rechtlichen, wirtschaftlichen und organisationalen Rahmenbedingungen in der Sozialwirtschaft aus unterschiedlichen Quellen finanzieren. Die Zeiten der vollumfänglichen Finanzierung nach dem Kostendeckungsprinzip durch die öffentliche Hand sind schon seit geraumer Zeit vorbei. Daher müssen Träger neben Finanzmitteln der öffentlichen Hand (z. B. Zuwendungen, Zuschüsse) auch Beiträge von Privatpersonen oder Unternehmen sowie finanzielle Mittel, die aus Fundraisingaktivitäten (z. B. Spenden, Sponsoring, Crowdfunding) stammen, erwirtschaften. Nicht zu vergessen sind dabei aber auch die verschiedenen betriebswirtschaftlichen Finanzierungsmöglichkeiten der Selbst- bzw. Eigenfinanzierung (wie z. B. Eigenmittel, die aus Gewinnen erwirtschaftet wurden, Abschreibungen für Abnutzung von Anlagegegenständen, Rücklagenbildung). Als Beispiel sei auf den Finanzierungsmix des Deutschen Caritasverbands e. V. verwiesen, welcher in der Infographik in [Abb. 5.1](#figure51) in Form unterschiedlicher Finanzierungsquellen dargestellt wird. Im Rahmen der Existenzgründung ist daher die Suche nach unterschiedlichen Finanzierungsquellen gleich von Anfang an mitzudenken und entsprechend in die Finanzplanung einzubeziehen.
+
+![Abb. 5.1: Finanzierungsmix [@Caritas_2025, S. 3]](images/figure51.jpeg){#figure51}
+
+Im Beispiel gesprochen heißt das: Leistungen des @Caritas_2025 werden über folgende Quellen finanziert:
+
+-   *Leistungsentgelte* der Leistungsträger (Sozialversicherungen) für z. B. Krankenhäuser, Sozialstationen, Pflegeeinrichtungen;
+
+-   *Eigenbeiträge* der Leistungsempfänger (Selbstzahlerbeiträge) z. B. für Leistungen in der Kindertagespflege, Sozialstation,  Pflegeeinrichtung;
+
+-   *Zuschüsse* von Bund, Ländern und Kommunen für die Finanzierung von Aufgaben und Leistungen in Kindertagesstätten, Wohnheimen für Menschen mit Behinderung, Beratungsstellen;
+
+-   *Eigenmittel* (z. B. Erträge aus Vermögen, Vermietung und  Verpachtung, Kirchensteuern, Kirchenkollekten sowie Zuschüssen von Soziallotterien und Förderstiftungen) dienen meist dazu, Pilot- und Modellprojekte zu realisieren oder auch Menschen in besonderen    Lebenslagen zu unterstützen, wenn keine andere soziale, rechtliche und wirtschaftliche Absicherung gegeben ist.
+
+-   *Spenden, Beiträge und Stiftungsmittel* unterstützen allgemein die Arbeit des Caritasverbands und werden für festgelegte Zwecke  eingesetzt.
+
+Auf die unterschiedlichen Finanzierungsquellen gilt es nun noch einmal näher einzugehen.
+
+## Betriebswirtschaftliche Finanzierungsformen {#betriebswirtschaftliche-finanzierungsformen}
+
+### Grundbegriffe {#grundbegriffe-finanzierungsformen}
+
+Im Rahmen der Finanzierung einer Unternehmung kann aus betriebswirtschaftlicher Sicht auf unterschiedliche Typen von finanziellen Mitteln bzw. Kapitalsorten zurückgegriffen werden. Man unterscheidet dabei allgemein zwischen den Formen einer Innen- und Außenfinanzierung (Frage nach der Herkunft der Mittel) sowie einer Eigen- und Fremdfinanzierung (Frage nach Kapitalsorten und Art der Kapitalüberlassung). Zur *Innenfinanzierung* gehören alle Maßnahmen der Kapitalbeschaffung aus der eigenen Unternehmung (z. B. aus der Umsatztätigkeit oder durch Vermögensumschichtungen). Demgegenüber wird bei der *Außenfinanzierung* Fremdkapital vom Kapitalmarkt bzw. von anderen Unternehmen akquiriert (z. B. durch Kapitaleinlagen von Gesellschaftern, Kredite). Bei der *Eigenfinanzierung* steht die Gewinnung von zusätzlichem Eigenkapitel (mit erfolgsabhängigen Zahlungen wie Ausschüttungen, Dividenden etc.) im Vordergrund. Die *Fremdfinanzierung* zielt auf die Beschaffung von Fremdkapitel (mit erfolgsunabhängigen Zins- und Tilgungsverpflichtungen), z. B. Kredite, Kontokorrent, Lieferantenkredit). Wie an diesen Begrifflichkeiten zu bemerken ist, gibt es verschiedene Überschneidungen in den Begrifflichkeiten. Diese sind in der folgenden [Abb. 5.2](#figure52) dargestellt und werden im Folgenden näher erläutert [@Heister2016].
+
+![Abb. 5.2: Typologie betriebswirtschaftliche Finanzierungsformen [@Heister2016, S. 24]](images/figure52.png){#figure52}
+
+### Innenfinanzierung {#innenfinanzierung}
+
+Maßnahmen der Innenfinanzierung können auf die Beschaffung von Eigenkapitel durch z. B. die Selbstfinanzierung aus einbehaltenen Überschüssen im Rahmen der Gewinnermittlung (= offene Selbstfinanzierung bzw. Gewinnthesaurierung), die Finanzierung aus Abschreibungen und die Vermögensumschichtung (= Kapitalfreisetzung in Folge von Einsparungen, Verkauf von Anlagevermögen und Saleand- Lease-Back-Maßnahmen) gerichtet sein. Weiterhin kann die Innenfinanzierung auch auf die Fremdkapitalbildung Auswirkung haben, z. B. im Rahmen der kaufmännischen Jahresabschlusserstellung durch Bildung von Rückstellungen nach § 249 HGB für ungewisse Verbindlichkeiten von Dritten und die Ausübung von Wahlrechten im Rahmen der Bilanzierung (= stille Selbstfinanzierung, z. B. Überbewertung von Aktiva/Vermögen, Unterbewertung von Passiva/Schulden, Nichtaktivierung aktivierungsfähiger Wirtschaftsgüter, Unterlassung der Zuschreibung bei Wertsteigerungen z. B. wenn ein Gebäude niedriger bewertet wird als der entsprechende Marktwert).
+
+Auf die beiden Finanzierungsmöglichkeiten Abschreibungen und Rückstellungen ist noch einmal näher einzugehen, da dies Auswirkung auf die Entwicklung des Cashflows (Zahlungsmittelbestands) haben kann:
+
+1.  *Abschreibungen* auf die Abnutzung von Gegenständen des     Anlagenvermögens vermindern im Rahmen der Gewinn- und    Verlustrechnung den Gewinn [vgl. im Folgenden @Kolhoff2013]. Es fließen dem Unternehmen keine neuen Gelder zu, sondern Abschreibungen können in der Finanzbuchhaltung  als Aufwendungen geltend gemacht werden. Erfasste Abschreibungen   sollen im Rahmen von Kalkulationen für Projekte, Vergabe von    Fördermitteln oder bei Dienstleistungen, die durch Eigenbeiträge der Klienten\*innen getragen werden (Selbstzahler) berücksichtigt werden und generieren damit zukünftige Zahlungsströme (= Anteile des erhaltenen Umsatzes). Über die Umsätze können Abschreibungen   gewissermaßen „(zurück)verdient" werden. Damit können    Ersatzinvestitionen (z. B. Neuanschaffung von abgeschriebenen    Fahrzeugen) getätigt werden. Zusätzlich ergibt sich aber noch ein  anderer Vorteil: Abschreibungen vermindern die Steuerlast (vgl. dazu [Abb. 5.3](#figure53)).
+
+![Abb. 5.3: Finanzierung aus Abschreibungen [@Kolhoff2013, S. 68]](images/figure53.png){width=70% #figure53}
+
+*Rückstellungen* stellen Verbindlichkeiten gegenüber Dritten dar, deren
+Eintritt, Höhe und/ oder Fälligkeit als unsicher gelten (§ 249 HGB) wie
+z. B. bei Pensionszahlungen, Steuerrückstellungen,
+Instandsetzungsmaßnahmen, Prozesskosten für schwelende
+Gerichtsverfahren. Rückstellungen müssen im Rahmen der
+Jahresabschlusserstellung gebildet und wieder aufgelöst werden, wenn
+deren Grund weggefallen ist. Rückstellungen sind ein Beispiel für das
+kaufmännische Vorsichtsprinzip im Rahmen des externen Rechnungswesens.
+Sie haben eine ähnliche Wirkung wie Abschreibungen. Bei
+Rückstellungsbildung wird ein Teil des Gewinnes einbehalten. Dies führt
+nicht sofort zu Auszahlungen, sondern entsprechende Ansätze müssen im
+Rahmen der Kalkulation von Aufträgen erfasst werden und fließen damit zu
+einem späteren Zeitpunkt als Umsätze wieder zurück. Bei Auflösung von
+Rückstellungen im Rahmen der Bilanzierung entsteht ein höherer Gewinn
+(vgl. [Abb. 5.4](#figure54)).
+
+![Abb. 5.4: Finanzierung aus Rückstellungen nach § 249 HGB [@Kolhoff2013, S. 69]](images/figure54.png){width=70% #figure54}
+
+### Außenfinanzierung {#aussenfinanzierung}
+
+Bei der Außenfinanzierung kann durch zusätzliche Kapitaleinlagen von
+bestehenden Gesellschaftern oder durch Dritte (Beteiligungsfinanzierung)
+Eigenkapitel aufgebaut werden. Darüber hinaus ermöglichen bei der
+Außenfinanzierung die Kreditaufnahme oder die Herausgabe einer Anleihe
+eine Beschaffung von Fremdkapitel, also Schulden und Verbindlichkeiten,
+die über eine bestimmte Laufzeit getilgt und verzinst werden. Von einer
+Mezzanine-Finanzierung (ital., *mezzanine* für Halb-/Zwischengeschoss)
+spricht man immer dann, wenn die Kapitalbeschaffung hinsichtlich ihrer
+rechtlichen und wirtschaftlichen Ausgestaltung eine Mischform zwischen
+Eigen- und Fremdkapital darstellt (z. B. Gesellschafterdarlehen, stille
+Beteiligungen, Wandel-/Optionsanleihen, Genussscheine). Im Rahmen der
+Außenfinanzierung, die gleichzeitig auch Fremdfinanzierungen sind,
+können neben der bereits erwähnten Kreditaufnahme, Ausgabe von Anleihen
+und dem Lieferantenkredit außerdem noch andere -- in der [Tab.
+1](#table51) dargestellte -- Finanzierungsmöglichkeiten genutzt
+werden.
+
+| **Finanzierung** | **Beschreibung** |
+|-----------------|-----------------|
+| Kontokorrentkredit | Unbürokratischste Form des Kredits. Das Konto der Einrichtung kann gegen Zinszahlung im Rahmen der Kreditlinie überzogen werden. |
+| Hypothekenkredit | Langfristiger Kredit gegen Sicherheit einer Immobilie, i.d.R. durch Eintragung einer Grundschuld. |
+| Lieferantenkredit | Mit Erhalt der Ware wird ein Zahlungsziel vereinbart. Bis zum Zahlungsziel steht das Geld für Investitionen zur Verfügung. |
+| Anzahlungen von Kunden | Stellen einen kurzfristigen Kredit der Kunden dar. |
+| Bürgschaftskredite | Ein Dritter - der Bürge - tritt als Schuldner ein, falls der eigentliche Schuldner nicht mehr bezahlen kann, häufig in Form einer Patronatserklärung. |
+| Anleihen | Kredit, der in Teilbeträgen gestückelt wird und als Anleihe an Kreditgeber gegeben wird. |
+
+: Tab. 5.1: Formen der Fremdkapitalfinanzierung [@Schellberg2004, S. 188; zit. n. @Kolhoff2013, S. 70-71]
+
+Es ist nicht immer leicht, im Rahmen der Finanzplanung den richtigen Mix
+aus verschiedenen Finanzierungen zu wählen. Folgende Kriterien können
+bei der Wahl von Finanzierungsquellen hilfreich sein [@Kolhoff2013, S. 70-71]:
+Im Falle einer Kapitaleinlage (Aufnahme von Eigenkapital) werden die
+Stimm- und Mitspracherechte (Entscheidungsbefugnisse) berührt und eine
+Erfolgsbeteiligung der neuen Gesellschafter notwendig, während im Falle
+der Aufnahme von Fremdkapital in der Regel keine Mitspracherechte wie z.
+B. der Bank bei Kreditaufnahme zu befürchten sind. Im Falle eines
+Kredits sind über eine definierte Laufzeit Zins- und Tilgungsraten als
+Entgelte zu zahlen. Die Zinszahlungen können wiederum als Aufwendungen
+geltend gemacht werden und führen zu einer Verminderung der Steuerlast.
+Hinsichtlich der Verfügbarkeit steht Eigenkapital in der Regel über
+unbegrenzte Zeit zur Verfügung, während Fremdkapitel grundsätzlich nur
+zeitlich befristet genutzt werden kann.
+
+## Finanzierungsformen in der Sozialwirtschaft {#finanzierungsformen}
+
+### Grundbegriffe {#grundbegriffe-finanzierungsformen-sozialwirtschaft}
+
+Neben den eben dargestellten betriebswirtschaftlichen
+Finanzierungsmöglichkeiten haben Sozialunternehmen darüber hinaus Zugang
+zu bestimmten sozialwirtschaftlichen Finanzierungen. Man unterscheidet
+dabei zwischen einer öffentlichen und nicht-öffentlichen Finanzierung.
+Zur öffentlichen Finanzierung zählen insbesondere die Subjekt- und
+Objektfinanzierung, die zur Kostendeckung der angebotenen
+personenbezogenen sozialen Dienstleistungen zunächst herangezogen werden
+können. Bei der *Subjektfinanzierung* handelt es sich um eine sogenannte
+indirekte Finanzierung, da -- im Sinne des sozialrechtlichen Dreiecks --
+der Leistungserbringer die für die Kostendeckung notwendigen
+Finanzmittel nicht vom Leistungsempfänger, sondern (indirekt) vom
+Leistungsträger entschädigt bekommt (z. B. Leistungsentgelte,
+persönliches Budget, Gutscheine). Im Rahmen einer *Objektfinanzierung*
+erhält ein sozialer Träger Zuwendungen bzw. Zuschüsse der öffentlichen
+Hand wie z. B. Kommune, Land oder Bund.
+
+Die Subjektfinanzierung (auch indirekte Finanzierung) findet im Rahmen
+des bereits in Abschnitt 3.1 erwähnten sozialrechtlichen
+Dreiecksverhältnisses zwischen Leistungsempfänger, Leistungsanbieter und
+Leistungsträger statt. Dabei findet eine Finanzierung über die
+„Konsumenten" sozialer Dienstleistungen statt, z. B. in Form von
+Leistungsentgelten, persönlichem Budget oder Gutscheinen.
+Anspruchsberechtigt sind nicht freie Träger an sich, sondern
+Klienten\*innen (z. B. in Form von services in cash oder services in
+kind). Unter einer Objektfinanzierung (auch direkte Finanzierung)
+versteht man die Förderung von Leistungen, Projekten oder bestimmter
+öffentlicher Aufträge (z. B. Einrichtung von Beratungsstellen) in Form
+von Zuwendungen, Zuschüssen oder Subventionen durch die öffentliche Hand
+[@Kolhoff2017, S. 4]. Zur nicht-öffentlichen Finanzierung
+zählen insbesondere Zuwendungen von Stiftungen, Kirchen oder anderen
+Körperschaften des öffentlichen Rechts, Spenden von Privatpersonen oder
+Unternehmen, Vereinsbeiträge, Einnahmen aus Fundraisingaktivitäten
+[@Kolhoff2013, S. 23]. Die genannten sozialwirtschaftlichen
+Finanzierungsformen werden im Folgenden noch einmal ausführlicher
+vorgestellt.
+
+### Subjektfinanzierung {#subjektfinanzierung}
+
+Neben der Finanzierung von *Leistungsentgelten* im Rahmen des
+Dreiecksverhältnisses der Leistungserbringung haben sich in jüngster
+Zeit noch andere Möglichkeiten der Subjektfinanzierung entwickelt, die
+als *Einkaufsmodell* funktionieren. Bei dieser Finanzierungsform können
+Leistungsberechtigte „statt einer Sach- eine Geldleistung wählen, mit
+der sie soziale Dienstleistungen am Sozialmarkt frei einkaufen können"
+[@Kolhoff2017, S. 4]. Als Sonderform des Einkaufsmodells hat
+sich auch der Einsatz von *Gutscheinen* bewährt, wie sie „z. B. für
+Maßnahmen der Aktivierung und beruflichen Eingliederung, die berufliche
+Weiterbildung und für Bildungs- und Teilhabeleistungen für bedürftige
+Schülerinnen und Schüler ausgegeben" werden und auch im Bereich von
+Kindertagesstätten [@Kolhoff2017, S. 9].
+
+### Leistungsentgelte {#leistungsentgelte}
+
+*Leistungsentgelte* stellen monetäre Vergütungen dar, die auf
+vertraglicher Basis vom Leistungsträger an den Leistungserbringer zur
+Deckung der Kosten bei Inanspruchnahme von Leistungen durch
+anspruchsberechtigte Personen entstehen. Leistungsentgelte müssen im
+Rahmen von Leistungsvereinbarungen entweder direkt zwischen Kostenträger
+(Jugendamt, Sozialversicherung) und Leistungserbringer (z. B. Kita,
+Pflegeheim) oder indirekt zwischen Kostenträger und Verbänden der freien
+Jugendhilfe (§ 78 SGB VIII; Landesrahmenverträge) verhandelt werden.
+Inhalt der Leistungsvereinbarungen sind Art, Ziel, Qualität der
+Leistung, sachliche und personelle Ausstattung sowie Qualifikation des
+Personals (§ 78c SGB VIII). Dabei müssen die Grundsätze der
+Wirtschaftlichkeit und Sparsamkeit bei der Inanspruchnahme von
+öffentlichen Mitteln gewahrt werden und es wird von der gewährenden
+Behörde regelmäßig eine Qualitätsbewertung durch Report über die
+Erbringung der beschriebenen Leistung gefordert. In der Regel werden
+nicht alle dem Leistungserbringer entstehenden Kosten erstattet. Dabei
+muss der jeweilige Träger verschiedene Kostenbestandteile in seine
+eigene Kalkulation einbeziehen und für die Verhandlung zugrunde legen:
+u. a. Personalkosten nach Personalplan und Tarif, Sachkosten,
+Finanzierungskosten (z. B. Kreditzinsen), kalkulatorische Kosten (z. B.
+Abschreibungen) und Investitionen.
+
+Beispielsweise sind für die Kinder- und Jugendhilfe
+Leistungsvereinbarungen nach § 77 SGB VIII abzuschließen. Dies schließt
+eine Leistungs-, Entgelt- und Qualitätsentwicklungsvereinbarung ein (§
+78b SGB VIII):
+
+„Es wird dasjenige Entgelt vereinbart, das notwendig ist, um die
+Einrichtung zu befähigen, die vereinbarte Leistung in der vereinbarten
+Qualität zur Deckung des Bedarfs der Leistungserbringer unter
+Berücksichtigung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit
+zu erbringen. § 78a SGB VIII fordert als Grundlage der Kostenerstattung
+den Abschluss von Leistungsvereinbarungen für
+
+-   die Betreuung und Unterbringung in sozialpädagogisch begleiteten
+    Wohnformen,
+
+-   Leistungen in gemeinsamen Wohnformen für Mütter/Väter und Kinder,
+
+-   Leistungen zur Unterstützung bei notwendiger Unterbringung des
+    Kindes oder Jugendlichen zur Erfüllung der Schulpflicht,
+
+-   Hilfe zur Erziehung (in Tagesgruppen, Heimen, betreuten Wohnformen
+    oder sozialpädagogischer Einzelbetreuung),
+
+-   Eingliederungshilfen für seelisch behinderte Kinder und Jugendliche
+    in stationären und teilstationären Einrichtungen etc."
+    [@Kolhoff2017, S. 50].
+
+Leistungsentgelte können allgemein in die folgenden drei Formen
+unterschieden und, entsprechend wie in [Tab. 5.2](#table52)
+dargestellt, berechnet werden:
+
+-   *Tagesbezogene Leistungsentgelte („Pflegesätze")*: Diese finden
+    Verwendung bei Kalkulationen in stationären und teilstationären
+    Einrichtungen in der Kinder- und Jugendhilfe, der Behindertenhilfe,
+    der Altenpflege, für Frauenhäuser, Obdachlosenheime, Suchtkliniken
+    oder Psychiatrien. Es wird dabei von annähernd vollständiger
+    Kapazitätsauslastung ausgegangen, wobei das Risiko bei geringerer
+    Auslastung in der Regel beim Träger verbleibt.
+
+-   *Fachleistungsstunden*: Diese werden bei der Kostenberechnung für
+    die Betreuung selbstständig wohnender behinderter Menschen, in der
+    sozialpädagogischen Familienhilfe oder bei erzieherischen
+    Zusatzleistungen verwendet. Es erfolgt ein Nachweis von geleisteten
+    Fachleistungsstunden zum Zeitpunkt der Leistungsabrechnung.
+
+-   *Fallpauschalen*: Diese liegen betrieblichen Rechnungen insbesondere
+    im Krankenhaus, bei therapeutisch- evidenzbasierten
+    (Standard-)Behandlungen zugrunde.
+
+| **Leistungsentgelt** | **Berechnung** | **Beispiel** |
+|:------------------|:-------------|:-------------|
+| **Pflegesatz** | $\frac{\text{Selbstkosten}}{\text{Rechnerische Vollbelegung x Nutzungstage}}$ | $\frac{1.500.000 \text{ EUR}}{100 \text{ Plätze} \times 300 \text{ Tage}}$ = 50 EUR/Tag |
+| **Fachleistungsstunde** | $\frac{\text{Jahrespersonalkosten + Sachkosten}}{\text{Nettojahreszeitzeit der Fachkraft}}$ | $\frac{56.000 \text{ EUR} + 5.600 \text{ EUR}}{1.600 \text{ h}}$ = 38,26 EUR/h |
+| **Fallpauschale** | $\text{Bewertungsrelation x Landesbasiswert}$ | $1,4 \times 3.000 \text{ EUR}$ = 4.200 EUR |
+
+: Tab. 5.2: Berechnung von Leistungsentgelten [@Kolhoff2017, S. 97-8; @Brinkmann2010, S. 171]
+
+### Einkaufsmodell {#einkaufsmodell}
+
+Neben der „klassischen" Finanzierung durch Leistungsentgelte hat sich in
+den letzten Jahren eine weitere Finanzierungsform des Einkaufmodells
+etabliert. Auch hier besteht eine Beziehung zwischen Kostenträger,
+Leistungsempfänger und Leistungserbringer wie im sozialrechtlichen
+Dreieck. Anders als bei den Leistungsentgelten gibt der Kostenträger
+allerdings direkt dem Leistungsempfänger eine Kostenzusage für Sach- und
+Geldleistungen, die im Rahmen der Inanspruchnahme von sozialen
+Dienstleistungen verausgabt werden können. Mithin wird der
+Leistungsempfänger hierbei zum Auftraggeber und verhandelt selbständig
+seine Leistungen mit dem Leistungserbringer. Dies ist beispielsweise in
+der Pflege für die „erforderlichen körperbezogenen Pflegemaßnahmen und
+pflegerischen Betreuungsmaßnahmen sowie Hilfen bei der Haushaltsführung"
+(§ 37 SGB XI) oder in der Behindertenhilfe, wenn „durch geeignete
+Leistungen zur Teilhabe am Arbeitsleben die Erwerbsfähigkeit von
+Menschen mit Behinderungen oder von Behinderung bedrohten Menschen
+erhalten, gebessert oder wiederhergestellt werden kann" (§ 10 Abs. 1 i.
+V. m. § 17 SGB IX), möglich [@Kolhoff2017, S. 7].
+
+Beispielsweise kann zur Finanzierung der sozialen Arbeit mit Menschen
+mit Behinderungen vom Leistungsträger auf Antrag auch anstelle von
+Sachleistungen ein *persönliches Budget* erteilt werden, über das der
+Leistungsberechtigte -- um eine möglichst selbstbestimmte Lebensführung
+zu ermöglichen und um die individuellen Bedürfnisse besser zu erfüllen
+-- autonom verfügen kann (vgl. § 29 SGB IX). Zwischen
+Leistungsberechtigten und Leistungserbringer wird dann ein
+Auftraggeber-Auftragnehmer-Vertragsverhältnis etabliert. Damit entsteht
+ein Wettbewerb für Hilfeleistungen, was eine gravierende Auswirkung auf
+die Leistungserbringer hat [@Schubert2006].
+
+In begründeten Fällen können auch *Gutscheine* -- eine Sonderform des
+Einkaufsmodells -- ausgegeben werden, was der Gesetzgeber z. B. im SGB
+III, im SGB XIII und im SGB II ermöglicht hat
+[@Kolhoff2017, S. 7]. Gutscheine können beim jeweils
+zuständigen Sozialträger beantragt werden für z. B.:
+
+-   Maßnahmen der beruflichen Wiedereingliederung,
+
+-   Weiterbildung und für Bildungs- und Teilhabeleistungen für
+    Schüler\*innen,
+
+-   Betreuungs- und Bildungsaufgaben in der Kindertagespflege.
+
+Beispielhaft sei hierbei auf das *Hamburger Gutscheinmodell* -- wie in
+[Abb. 5.5](#figure55) dargestellt -- verwiesen: Auf Antrag
+erhalten Eltern vom Jugendamt einen Gutschein für die Inanspruchnahme
+von Betreuungsleistungen in der Kita, den diese auf Basis einer
+Leistungsvereinbarung gegenüber der zuständigen Fachbehörde abrechnet
+[@Brinkmann2010, S. 181]. Dadurch kann bewirkt werden, dass die
+Eltern sich nach bewusster Auswahl und eingehender Qualitätsprüfung für
+die sie am ehesten ansprechende Leistung auf dem jeweiligen sozialen
+Markt entscheiden. „Daraus entsteht eine Transparenz, die dem
+Endverbraucher, Klienten oder Probanden sozialer Dienstleistungen bisher
+nicht deutlich wurde; der Vergleich von Leistungsangeboten ist
+Voraussetzung für die Verwendung des Gutscheins"
+[@Brinkmann2010, S. 182].
+
+![Abb. 5.5: Hamburger Gutscheinmodell (Brinkmann, 2010, S. 181, zit. n. Kolhoff, 2017, S. 9)](images/figure55.png){#figure55}
+
+### Objektfinanzierung {#objektfinanzierung}
+
+Bei der Objektfinanzierung bzw. der direkten Finanzierung werden
+öffentliche Mittel als Geldleistungen in Form von Zuwendungen von der
+Europäischen Union, von Bund und den Ländern zur Erfüllung öffentlicher
+Aufträge oder durch Kommunen im Rahmen ihres Budgets gewährt
+[@Kolhoff2013, S. 24]. Die rechtliche Grundlage bilden hierzu
+Leistungsverträge oder Bescheide, und es müssen in der Regel
+haushaltsrechtliche Rahmenrichtlinien, Vergabegrundlagen sowie
+entsprechende Auflagen und Bedingungen beachtet werden. Zuwendungen sind
+in der Regel umsatzsteuerbefreit und müssen beantragt werden.
+
+Direkte Finanzierungen können in zwei Formen gewährt werden
+[@Kolhoff2013, S. 4]:
+
+-   *Projektfinanzierung*: Projekte für selbstgewählte und noch nicht
+    begonnene Aufgaben innerhalb eines freien Trägers können -- unter
+    Zugrundelegung eines Finanzierungs- und Kostenplans -- mit
+    öffentlichen Mitteln gefördert werden, um die im Rahmen der
+    Maßnahmenumsetzung entstehenden Kosten zu decken.
+
+-   *Institutionelle Förderung*: Dabei handelt es sich um eine
+    längerfristige Förderung von öffentlichen Aufgaben auf Basis von
+    Wirtschafts-, Haushalts- und Stellenplänen, die durch die
+    öffentliche Hand nicht selbst erbracht werden können (z. B.
+    Einrichtung von Beratungsstellen).
+
+Bei der Inanspruchnahme von Zuwendungen aus öffentlichen Mitteln können
+verschiedene Finanzierungsformen unterschieden werden:
+
+-   *Vollfinanzierung*: Es werden alle direkten und indirekten Ausgaben
+    abgedeckt.
+
+-   *Anteilsfinanzierung*: Es wird nur ein bestimmter Prozentsatz der
+    Gesamtkosten finanziert.
+
+-   *Festbetragsfinanzierung*: Für die Finanzierung steht ein Betrag in
+    bestimmter Höhe zur Verfügung.
+
+-   *Fehlbedarfsfinanzierung*: Es wird nur die Deckungslücke zwischen
+    tatsächlichen Ausgaben und den eingesetzten eigenen/fremden Mitteln
+    finanziert.
+
+### Nicht-öffentliche Finanzierung durch Fundraising {#nicht-ffentliche-finanzierung-durch-fundraising}
+
+#### Was versteht man unter Fundraising? {#fundraising}
+
+Unter *Fundraising* versteht man die Beschaffung von Finanzmitteln für
+soziale Einrichtungen jenseits staatlicher Förderung (Drittmittel), die
+in der Regel ohne Anspruch auf Gegenleistungen gegeben werden.
+
+Zu nicht-öffentlichen Finanzierungsmöglichkeiten zählen Mittel aus z.
+B.:
+
+-   Spenden,
+
+-   Mitgliedsbeiträgen,
+
+-   Crowdfundingmaßnahmen,
+
+-   Lotterien,
+
+-   Stiftungen, Kirchen und von
+
+-   Industrie/Unternehmen/Kooperationspartnern.
+
+Die Wege und Möglichkeiten für Fundraisingmaßnahmen sind vielseitig. Im
+Rahmen der Online Fundraising Studie von @Altruja2019[S. 28] wurden
+die -- wie in [Abb. 5.6](#figure56) ersichtlich -- aktuell
+verwendeten Fundraisingkanäle erhoben. In der Studie kam man zu dem
+Ergebnis, dass nach wie vor das Post-Mailing (64,8 %) der am häufigsten
+gewählte Fundraisingkanal für Großunternehmen ist, gefolgt von
+Förderungen aus Stiftungsgeldern (41,4 %) und Online Fundraising (41,4
+%). Bei mittleren Organisationen stellen nach deren Aussage die
+Mitgliedsbeiträge (41,9 %) und für Kleinunternehmen die Post-Mailings
+(49,1 %) die wichtigste Möglichkeit zu Kundenansprache im Fundraising
+dar.
+
+![Abb. 5.6: Aktuell wichtigste Fundraisingquellen [@Altruja2019, S. 28]](images/figure56.png){#figure56}
+
+Im Folgenden soll auf vier für die Existenzgründung im sozialen Bereich
+wichtige Fundraisingaktivitäten eingegangen werden, die bei der
+Finanzplanung Berücksichtigung finden sollten: Spenden, Sponsoring,
+Stiftungsförderungen und Crowdfunding.
+
+#### Spenden {#spenden}
+
+Bei Spenden handelt es sich um freiwillige Zuwendungen für
+gemeinnützige, z. B. kulturelle, wissenschaftliche, politische oder
+religiöse, Zwecke. Unternehmen können Geld- und Sachspenden oder auch
+Zeitspenden (z. B. Entlohnung für ehrenamtliche Arbeit) erhalten, ohne
+dafür eine konkrete Gegenleistung erbringen zu müssen. Rechtlich gesehen
+handelt es sich dabei um eine Schenkung, die für die schenkende Person
+steuerrechtlich als Sonderausgabe abzugsfähig ist.
+Spendenempfänger\*innen deklarieren eine Spende immer als Einnahme und
+stellen entsprechend den Spender\*innen eine Spendenbescheinigung aus.
+Sozialunternehmer\*innen sollten ein umfangreiches Spendernetzwerk
+aufbauen und dies im Rahmen der Planung von Marketingaktivitäten
+berücksichtigen.
+
+#### Sponsoring {#sponsoring}
+
+Im Rahmen des Sponsorings werden Zuwendungen in Form von „Geld,
+Sachmitteln, Dienstleistungen oder Know-how durch Unternehmen und
+Institutionen zur Förderung von Personen und/oder Organisationen in den
+Bereichen Sport, Kultur, Soziales, Umwelt und/oder den Medien" (Bruhn
+2019) zur Verfügung gestellt. Gegenüber einer Spende oder
+Stiftungsförderung handelt es sich beim Sponsoring um ein in der Regel
+umsatzsteuerpflichtiges Geschäft, bei dem eine Leistung gegenüber einer
+Gegenleistung geschuldet wird. Die gesponserte Einrichtung erhält vom
+Sponsor meist ein Entgelt. Als Gegenleistungen können beispielsweise
+gemeinsame Veranstaltungen, Messeauftritte, Print-/PKW-Werbung, Logos
+auf Kleidung, Publikationen oder Instandsetzungsarbeiten genutzt werden.
+Davon erhofft sich das sponsernde Unternehmen eine Verbesserung des
+eigenen Markenauftritts sowie des Firmenimages. Steuerlich gesehen kann
+der Sponsor die zur Verfügung gestellten Mittel als Betriebsausgaben
+angeben, die seinen Gewinn mindern (vgl. [Abb. 5.7](#figure57)).
+
+![Abb. 5.7: Sponsoring (eigene Darstellung)](images/figure57.png){width=60% #figure57}
+
+Sponsoring stellt nicht nur eine Einnahmequelle dar, sondern dient vor
+allem auch der Erreichung von bestimmten Marketing- und
+Unternehmenskommunikationszielen, wie in folgender [Tab.
+5.3](#table53) dargestellt:
+
+| **Mögliche Ziele des sponsernden Unternehmens** | **Mögliche Ziele der gesponserten Einrichtung** |
+|------------------------------------------------|------------------------------------------------|
+| - Imageverbesserung                            | - Suche nach neuen Finanzierungs- und/oder     |
+|   - extern                                     |   Sachleistungsquellen                         |
+|   - intern (Stärkung der „Corporate Identity") |                                                |
+| - Suche nach werbegeeigneten Personen und      | - Suche nach Unterstützungen organisatorischer |
+|   Gruppen und nach medienwirksamen Themen      |   Art (z. B. Hilfestellungen beim Aufbau       |
+|   und Veranstaltungen                          |   eines Controllings)                          |
+| - Vermarktung von Produkten im sozialen        | - Nutzen von Unternehmenskontakten zur         |
+|   Bereich                                      |   Akquise von Geldern                          |
+
+: Tab. 5.3: Ziele im Sponsoring und von sozialen Einrichtungen
+[@Kolhoff2013, S. 54]
+
+Der Einsatz von Sponsoring sollte wohl überlegt werden, denn es gilt bei
+dessen Nutzung einige Rahmenbedingungen, Chancen und Risiken abzuwägen,
+die hier nur als Fragen dargestellt werden sollen [@Kolhoff2013, S. 54-7]:
+
+-   Ist die gesponserte Maßnahme für das gewünschte Ziel und für die
+    Beteiligen passfähig?
+
+-   Macht sich keine der beteiligten Institutionen (ob Sponsor oder
+    Gesponserte) von Geldern und der Marketing- und
+    Kommunikationspolitik der anderen Partei abhängig?
+
+-   Ist nur die Sach- bzw. Dienstleistung Gegenstand des Sponsorings
+    oder werden auch die Expertise und Beteiligung aller ermöglicht?
+
+-   Sind die vertraglichen Grundlagen (Art, Umfang und Leistungen) genau
+    geregelt?
+
+-   Wurde die Maßnahme konkret geplant (Finanzbedarf,
+    Öffentlichkeitsarbeit, Evaluation)?
+
+#### Stiftungen {#stiftungen}
+
+Stiftungen fördern Personen, Maßnahmen, Projekte und Institutionen immer
+nach Maßgabe bestimmter gemeinnütziger Zwecke und treffen bei
+Förderanträgen eigene Ermessensentscheidungen. Voraussetzung für die
+Inanspruchnahme von Fördermöglichkeiten bei Stiftungen sind daher
+zuvorderst die Verwirklichung des jeweiligen Satzungszwecks durch die
+beantragte Maßnahme. Gewährte Leistungen, die entweder vollständig oder
+teilweise der Deckung aller beim sozialen Träger entstehenden Ausgaben
+dienen, sind in der Regel steuerfrei. Die konkreten Fördermöglichkeiten
+sind in einem breiten Spektrum angesiedelt, das von Projekten,
+Stipendien und Förderpreisen bzw. Wettbewerben bis hin zur Förderung
+diverser Austauschformate, Konferenzen, Reisen etc. reichen kann. Im
+Rahmen der Existenzgründung sollte eingehend nach Stiftungen gesucht
+werden, die bestimmte Maßnahmen des zu gründenden Unternehmens
+unterstützen können. Hierfür ist die Stiftungsdatenbank wie z. B. die
+vom [Bundesverband Deutscher
+Stiftungen](http://www.stiftungssuche.de "null") hilfreich.
+
+#### Crowdfunding {#crowdfunding}
+
+Als weitere alternative Finanzierungsmöglichkeit bietet sich noch das
+Crowdfunding an. Im Gegensatz zu anderen Formen des Crowdsourcings wie
+z. B. Crowdwisdom, Crowdcreation, Crowdvoting steht beim Crowdfunding
+die Akquise von (meist überschaubaren) finanziellen Mitteln von einer
+relativ großen Gruppe von Personen über das Internet im Vordergrund, um
+ein bestimmtes Projekt, ein Unternehmen oder Ziel zu finanzieren (vgl.
+[Abb. 5.8](#figure58)).
+
+![Abb. 5.8: Definition von Crowdfunding (eigene Darstellung)](images/figure58.png){width=90% #figure58}
+
+Die Bedeutung von Crowdfunding hat in den letzten Jahren stark
+zugenommen. Allein in Europa ist der Umfang an akquirierten Mitteln am
+Finanzmarkt bzw. auf den Onlineplattformen von 1,13 Mrd. EUR auf 7,76
+Mrd. EUR gestiegen [@Ziegler2018, S. 22]. In der Crowdfunding-Praxis haben
+sich verschiedene Formen entwickelt, die es zu unterscheiden gilt ([Abb. 5.9](#figure59)):
+
+-   *Donation-Based-Crowdfunding*: Für die Finanzierung eines Projekts,
+    einer Kampagne oder einer Initiative werden Spenden akquiriert,
+    wobei Spender keinen Anspruch auf Gegenleistung haben und nicht an
+    dem finanzierten Projekt beteiligt werden sowie ihre Beiträge rein
+    aus altruistischen und sozialen Motiven beisteuern.
+
+-   *Reward-Based-Crowdfunding*: Im Vordergrund steht eine Belohnung für
+    die geleistete Spende, wobei Spender wie beim
+    Donation-based-Crowdfunding keine Besitz- oder Stimmrechte erwerben,
+    aber Anspruch auf materielle und/oder ideelle Rewards erhalten. Zu
+    den Rewards können z. B. die Möglichkeit zum Vorverkauf von
+    Produkten und Dienstleistungen, die Teilnahme an Veranstaltungen
+    oder symbolische Auszeichnungen gehören.
+
+-   *Equity-Based-Crowdfunding* (auch *Crowdinvesting*): Dabei werden
+    auf einer Onlineplattform am Kapitalmarkt gehandelte Wertpapiere
+    privater Unternehmen an Anleger vermittelt. Diese Transaktionen
+    unterliegen nicht nur der Bankenaufsicht und bestimmten
+    Finanzregulationen, da es sich i. e. S. um Finanzprodukte handelt,
+    die einerseits Beteiligungs- und Besitzrechte beinhalten und bei
+    denen andererseits die Funder Anspruch auf Erfolgs- bzw.
+    Gewinnbeteiligungen erhalten.
+
+-   *Lending-Based-Crowdfunding*: Ähnlich dem Equity-based-Crowdfunding
+    handelt es sich hierbei um ein kreditbasiertes Crowdfunding, welches
+    Unternehmern die Möglichkeit einräumt, Mittel in Form von Krediten
+    zu akquirieren, die über einen festgelegten Zeitraum und Zinssatz an
+    die Kreditgeber zurückzuzahlen sind. Diese Finanzierungsform eignet
+    sich insbesondere für Unternehmer, die nicht sofort auf Eigenkapital
+    für ihr Start-up zugreifen können, sondern dies fremdfinanzieren
+    müssen. Beim Peer-to-Peer-Lending (auch P2P-Lending) können
+    Privatpersonen oder Unternehmen Geld über eine Onlineplattform, die
+    Kreditgeber und -nehmer zusammenbringt, verleihen, was für
+    Kreditnehmer häufig billiger als bei traditionellen Finanzinstituten
+    ist und für Kreditgeber höhere Renditen verspricht.
+
+-   *Patronage-/Charity-based Crowdfunding*: Im Sinne des Mäzenatentums
+    wird durch Einzelpersonen oder Unternehmen, die einen bestimmten
+    Zweck unterstützen wollen, eine finanzielle Unterstützung gewährt,
+    was meist auf längerfristige Projekte, Initiativen und Maßnahmen
+    gerichtet ist und in Form von regelmäßigen (Teil-)Zahlungen
+    ausgestaltet wird.
+
+![Abb. 5.9: Crowdfunding-Formen (eigene Darstellung)](images/figure59.png){width=50% #figure59}
+
+In einer Studie von @Mollick2014 konnte festgestellt werden,
+dass sich Unternehmer für das Crowdfunding von Produkten insbesondere
+dann entscheiden, wenn sie neben dem Zuverdienst einen Berufswechsel
+anstreben, Karriere machen wollen oder generell einen neuen Job suchen.
+Ebenso konnte herausgefunden werden, dass es beim Crowdfunding nicht nur
+darum geht, Drittmittel zu beschaffen und neue Projektpartner zu finden,
+sondern damit auch ein agileres Vorgehen bei der Vergrößerung des
+Kundenstamms und eine größtmögliche Steigerung der Bekanntheit des
+Projektes (Öffentlichkeitsarbeit) erreicht werden kann. Besonders
+erfolgreich sind Crowdfunding-Projekte immer dann, wenn es eine mehr
+oder weniger emotional und kognitiv anspruchsvolle Story gibt, die
+Mittelgeber und Initiatoren zusammenbringt, die Öffentlichkeitskampagne
+möglichst so gestaltet wird, dass über den Einsatz von unterschiedlichen
+Medien und sozialen Netzwerken eine breite Community aufgebaut wird und
+dabei die virtuelle mit der realen Welt bestmöglich verbunden wird. Es
+braucht seitens der Initiatoren häufig Ausdauer, Flexibilität und
+Vertrauen in die zu finanzierende Unternehmung und es muss mit
+denjenigen, die Mittel bereitstellen, ein regelmäßiger Dialog geführt
+werden (z. B. über Newsfeeds, Statusmitteilungen, Blogs oder
+Infobriefe).

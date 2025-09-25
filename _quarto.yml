@@ -10,22 +10,22 @@ project:
 book:
   title: "Grundlagen des Sozialmanagements"
   subtitle: "Begriffe - Konzepte - Ansätze"
-  favicon: images/sozialmanagement_cover.png
+  favicon: images/sozialmanagement_cover.jpg
   reader-mode: true
   page-navigation: true
   back-to-top-navigation: true
   downloads: pdf
   search: true
-  site-url: https://maik-arnold.github.io/sozman-textbook.github.io/
+  site-url: https://sozman.profmanagement.de
   repo-url: https://github.com/maik-arnold/sozman-textbook.github.io
   margin-header: _fathom.html
-  image: images/sozialmanagement_cover.png
+  image: images/sozialmanagement_cover.jpg
   image-alt: "OER Textbook Sozialmanagement"
   open-graph: 
-    image: images/sozialmanagement_cover.png
+    image: images/sozialmanagement_cover.jpg
     image-alt: "OER Textbook Sozialmanagement"
   twitter-card: 
-    image: images/sozialmanagement_cover.png
+    image: images/sozialmanagement_cover.jpg
     image-alt: "OER Textbook Sozialmanagement"
     card-style: summary_large_image
   sidebar:
@@ -40,19 +40,27 @@ book:
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>. This work is licensed under a [CC-BY-NC-ND 4.0 Int License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-  cover-image: images/sozialmanagement_cover.png
+  cover-image: images/sozialmanagement_cover.jpg
 
   chapters:
   - index.qmd
 #  - preface.qmd
 #  - introduction.qmd
 #  - data-in-this-book.qmd
-  - part: Grundlagen
+  - part: "Teil I: Grundlagen und Begriffe"
     chapters:
      - 1_einfuehrung.qmd
-     - 2_funktionsbereiche.qmd
-     - 3_organisation.qmd
-  - part: Anhang
+     - 2_schluesselkonzepte.qmd
+     - 3_funktionsbereiche.qmd
+  - part: "Ausgewählte Themenfelder"
+    chapters:
+     - 4_organisation.qmd
+     - 5_finanzierung.qmd
+     - 6_history.qmd
+     - 7_managementkonzepte.qmd
+     - 8_socialentrepreneurship.qmd
+
+  - part: "Anhang"
     chapters:
      - references.qmd
 #    - 1_exploring/inspect.qmd
@@ -82,6 +90,7 @@ book:
 bibliography: 
    - references.bib
 #  - data-cleaning-book-references.bib
+citation-style: apa.csl
 
 format:
   html:
@@ -113,9 +122,9 @@ format:
     #   - top=1.00in
     #   - textheight=8.25in
       #- showframe
-#    include-in-header: preamble.tex
-#    include-before-body: first.tex
-#    include-after-body: backcover.tex
+    include-in-header: preamble.tex
+    include-before-body: coverpage.tex
+    include-after-body: backcover.tex
     toc: true
     colorlinks: true
     fig-width: 5

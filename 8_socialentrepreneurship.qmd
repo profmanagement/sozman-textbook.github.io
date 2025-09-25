@@ -1,0 +1,1818 @@
+---
+lightbox: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Social Entrepreurship {#social-entrepreneurship}
+
+Die Zahl der Existenzgründungen in Deutschland hat -- gemessen an den
+Gewerbeanmeldungen und damit auch der Zahl der Gründer\*innen -- in der
+letzten Dekade in absoluten Zahlen stetig abgenommen. Im Jahr 2018
+wurden knapp 542.500 Betriebe neu gegründet [@statbund2019]. Dieser
+Rückgang ist insbesondere bei Betrieben mit größerer wirtschaftlicher
+Bedeutung und Kleinunternehmen zu beobachten. Die Zahl der
+Nebenerwerbsbetriebe hat gegenüber Klein- und mittelständischen
+Unternehmen leicht zugenommen. Zu ähnlichen Ergebnissen kommt auch das @ifmbonn2021: Im Jahr 2018
+wurden ca. 367.000 Existenzgründungen in Deutschland erfasst; 3,6 %
+weniger als im Vorjahr (vgl. [Abb. 8.1](#figure81)). Davon
+entfielen 269.950 Gründungen auf den gewerblichen Bereich (73,5 %),
+90.380 (24,6 %) auf die freien Berufe und sonstige Selbständige sowie
+6.720 (1,8 %) auf den Bereich der Land- und Forstwirtschaft. Im
+OECD-Vergleich lag Deutschland im Jahr 2018 mit einer
+Selbständigkeitsquote von nur 9,9 % der Erwerbstätigen im unteren Feld
+[@oecd2019employment, S. 60], während im europäischen Vergleich die
+Selbständigkeitsquote 15,5 % beträgt.
+
+![Abb. 8.1: Existenzgründungen insgesamt 2015-2019 in Deutschland [@ifmbonn2021, Quelle:
+<https://www.ifm-bonn.org/fileadmin/data/redaktion/statistik/gruendungen-und-unternehmensschliessungen/bilder/S51-1-20.jpg>]](images/figure81.jpeg){width=75% #figure81}
+
+Zwar finden die meisten Existenzgründungen nach wie vor primär im
+gewerblichen Sektor statt. Allerdings eröffnen sich zunehmend auch
+Spielräume im sozial- und gesundheitswirtschaftlichen Sektor. Dies
+geschieht einerseits durch Ausgliederung von Dienstleistungen
+verschiedener Servicebereiche öffentlicher Einrichtungen (Outsourcing).
+Andererseits ergeben sich aufgrund der kritisch beschworenen
+
+„Ökonomisierung des Sozialen" und aufgrund (quasi-)marktlicher
+Strukturen und Marktmechanismen, die u. a. durch das Neue
+Steuerungsmodell bewirkt werden, ein Spielraum für soziales
+Unternehmertum. Nach dem Survey der @ziviz2017survey verstehen sich etwa 16 % aller sozialen Einrichtungen als
+Sozialunternehmen. In absoluten Zahlenausgedrückt handelt es sich dabei
+um ca. 80.000 gemeinnützige Organisationen (von insgesamt 634.000). Ein
+ähnliches Ergebnis erbrachte auch der Deutsche Startup Monitor 2018 des
+@BundesverbandDeutscheStartups2020: Ca. 42,6% der befragten
+Start-ups ordnen (im Vergleich zu 2019: 41,9% und 2018: 38,7%) das
+gesellschaftliche Engagement ihres Unternehmens dem Sozialunternehmertum
+zu. Im Rahmen einer aktuellen Untersuchung des @send2018social lassen sich eine Reihe
+interessanter weiterer Erkenntnisse ableiten, die ein spezifisches Bild
+von der aktuellen Situation für Sozialunternehmer zeichnen:
+
+-   9 von 10 Sozialunternehmen lösen gesellschaftliche Probleme in
+    Deutschland; 3 von 4 sind dabei höchstinnovativ;
+
+-   50 % der Sozialunternehmen wurden von Frauen gegründet;
+
+-   in 56 % der Sozialunternehmen nehmen Mitarbeitende direkten Einfluss
+    auf Entscheidungen bzw. haben ein Mitspracherecht;
+
+-   33 % der Sozialunternehmen bewerten die festgestellten Wirkungen und
+    Effekte sowie angebotene Produkte und Dienstleistungen als weltweite
+    oder EU-weite Marktneuheit;
+
+-   62 % der Befragten sehen in der Startfinanzierung und 65 % in der
+    Anschlussfinanzierung eine wesentlicheBarriere;
+
+-   55 % empfinden den Zugang zu Unterstützungsangeboten als wesentliche
+    Hürde;
+
+-   die Politik erhält lediglich die Note 4,6 auf einer Skala von 1
+    (sehr gut) bis 5 (schlecht) für die Unterstützung von Social
+    Entrepreneurship in Deutschland;
+
+-   73 % der Sozialunternehmen wünschen sich eine stärkere
+    Repräsentation und Anerkennung;
+
+-   Sozialunternehmen sind nicht nur sehr heterogen, sondern sind auch
+    in ihren Geschäfts- und Wirkungsmodellen, den gewählten Rechtsformen
+    und der Finanzierung sehr vielseitig;
+
+-   87 % der Sozialunternehmen streben eine Skalierung ihres
+    Geschäftsmodell an.
+
+Die Ergebnisse der einführend genannten Studien zeigen, dass der
+Neugründung von Einrichtungen der Sozial- und Gesundheitswirtschaft
+innerhalb einer Volkswirtschaft eine große Bedeutung zukommt. Umso
+wichtiger ist es, dieVoraussetzungen, Grundlagen und Rahmenbedingungen
+zu kennen, die Gründer\*innen einen Weg in dieSelbständigkeit im
+Sozialsektor ermöglichen, um erfolgreich und nachhaltig innovative
+Geschäftsideen umzusetzen.
+
+## Existenzgründung in der Sozialwirtschaft {#existenzgrndung-in-der-sozialwirtschaft}
+
+## Unternehmerische Rahmenbedingungen in der Sozialwirtschaft {#unternehmerische-rahmenbedingungen}
+
+Aufgrund seiner historischen Wurzeln in den Bismarck'schen
+Sozialgesetzen kommt dem deutschen Sozialstaatsmodell eine besondere
+Bedeutung zu. Zu den Prinzipien der sozialen Sicherung und rechtlichen
+Rahmenbedingungen zählen u. a. das Äquivalenzprinzip (nur diejenigen
+erhalten Leistungen, die auch inVersicherungen eingezahlt haben, z. B.
+gesetzliche Sozialversicherungen), Solidarprinzip (steuerfinanzierte
+Entschädigungen, Förderungen und soziale Hilfen, z. B. Kriegsversehrte,
+Kindergeld, Sozialhilfe) und Subsidiaritätsprinzip (vorrangige
+Berücksichtigung von sozialen Wohlfahrtsträgern gegenüber öffentlichen
+Leistungsträgern), um nur einige wenige zu nennen.
+
+Vor diesem Hintergrund haben Sozialunternehmen im Wirtschaftskreislauf
+eine besondere Stellung. Ihre indirekte Finanzierung erfolgt
+grundsätzlich im Rahmen des sozialrechtlichen Dreiecksverhältnisses
+zwischenSozialleistungsträger, Leistungsempfänger und
+Leistungserbringer. Die Leistungsempfänger (die Hilfesuchenden)haben
+Anspruch auf eine Leistung (z. B. Bildung und Betreuung von Kindern),
+der Kostenträger (z. B. Jugendamt)gewährt diese und der
+Leistungserbringer bzw. soziale Dienstleister (z. B. Kindertagesstätte)
+erbringt bzw. organisiertdiese unmittelbar
+[@Kolhoff2017, S. 5]. Der Leistungsträger erhält für die in den
+Sozialgesetzen definierten Aufträge aus den vom Staat bereitgestellten
+Haushaltsmitteln (z. B. Steuern und Sozialabgaben) eine Aufwands- bzw.
+Kostenentschädigung. Die Finanzierung der Leistungserbringung erfolgt
+über Sach- oder Geldleistungen indirekt an die die Leistungen
+erbringenden Sozialunternehmen oder ggf. direkt an die
+Leistungsempfänger selbst (z. B. persönliches Budget, Gutscheine,
+Selbstzahler). Um handlungsfähig zu sein, müssen Sozialunternehmen
+bestimmte Produkte und Dienstleistungen von anderen Unternehmen
+einkaufen (z. B. Büro- und Geschäftsausstattung, Spielgeräte etc.) und
+rekrutieren Fachkräfte vom Arbeitsmarkt.
+
+Die Finanzierung von sozialen Einrichtungen in freier Trägerschaft ist
+letztlich durch einen Finanzierungsmix (auch Welfare-Mix; vgl. dazu
+ausführlicher Abschnitt [Finanzierungsmix für freie Träger der
+Wohlfahrtspflege](1_einfuehrung.qmd#finanzierungsmix)
+geprägt: Neben den Leistungsentgelten vom Kostenträger (indirekte
+Subjektfinanzierung) oder öffentlichen Zuwendungen bzw.
+Zuschüssen(Objektfinanzierung; z. B. über Projekt- oder institutionelle
+Förderung) müssen diese ihren Finanzierungsbedarf immer öfter auch aus
+nicht öffentlichen Mitteln bestreiten wie z. B. Stiftungsgelder,
+Spenden, Elternbeiträge, Vereinsbeiträge und ggf. auch kirchlichen
+Zuwendungen. Weiterhin spielen das Sponsoring oder andere
+Fundraising-Aktivitäten eine wichtige Rolle. Aus
+betriebswirtschaftlicher Sicht sind schließlich die Selbstfinanzierung
+durch Überschüsse aus erwirtschafteten Gewinnen, Vermögensumschichtungen
+etc. mit zu bedenken. In den letzten Jahren hat insbesondere die
+Finanzierung von Initiativen, Projekten und Ideen mithilfe
+desCrowdfundings an Bedeutung zugenommen (vgl. ausführlicher in
+Abschnitt [Finanzierung in der Sozialwirtschaft](5_finanzierung.qmd).
+Sozialunternehmen sind bei ihrer Finanzierung auf einen Mix an
+verschiedenen Finanzierungsquellen angewiesen, was als *Welfare-Mix
+*bezeichnet wird.
+
+Aufgrund dieser Rahmenbedingungen ist es für gewerbliche Einrichtungen
+schwieriger, in der Sozialwirtschaft tätig zu werden. Dies ist nur
+begrenzt und in einzelnen Nischen möglich, wie z. B. in der
+Raumvermietung fürstationäre Einrichtungen. Existenzgründungen werden in
+der Sozialwirtschaft insbesondere durch freiberuflich Tätige initiiert,
+z. B. soziale, therapeutische Beratungen oder pädagogische Tätigkeiten,
+die auf Honorarbasis fürgemeinnützige freie Träger tätig werden. Ein
+Grund dafür ist, dass es aufgrund des deutschen Sozialstaatsmodells
+imZusammenspiel zwischen sozialem und erwerbswirtschaftlichem Sektor zur
+Herausbildung sog. „kollusiver Strukturen" [@kolhoff2002, S. 22-24] gekommen
+ist. Unter  *Kollusion *(lat.  *colludere*,  zusammenspielen) des 
+sozialen  Sektors versteht man den Umstand, dass der Staat eine
+progressive und die Soziale Arbeit eine regressive Funktion übernimmt.
+
+Im einfachsten Fall entsteht eine Kollusion dann, wenn von der
+Erwerbswirtschaft Gelder zur Finanzierung des Sozialsystems zur
+Verfügung gestellt werden (z. B. Steuern, Versicherungsabgaben) und
+daraus soziale Hilfen gewährt werden, um Menschen in bestimmten
+Lebenslagen wie z. B. bei Arbeitslosigkeit, Krankheit, Behinderung oder
+im Rentenalter zu unterstützen. Die unmittelbare Umsetzung des Solidar-
+und Subsidiaritätsprinzips besteht darin, dass freie Träger der
+Wohlfahrtspflege in besonderer Weise gegenüber öffentlichen Trägern an
+der Umsetzung der „sozialen personenbezogenen Dienstleistungen"
+[@Klatetzki2010] beteiligt sind: Öffentliche Träger stellen
+die finanziellen Ressourcen zur Verfügung, und die freien Träger
+übernehmen die Versorgung der bedürftigen Menschen. Die
+Koordinationsfunktion für das soziale Sicherungssystem bleibt beim
+Staat, und dieSozialgesetzgebung regelt die jeweils zu vergebenden
+öffentlichen Aufträge.
+
+Aufgrund von verschiedenen systemimmanenten und -exmanenten
+Entwicklungen und Ereignissen kann es häufiger aber zu Störungen dieser
+kollusiven Strukturen in der Gesellschaft kommen, wie z. B. durch den
+demographischenWandel, Arbeitslosigkeit, Migrationsbewegungen,
+Globalisierung, Steuermindereinnahmen etc. Infolgedessen werden die
+sozialen Sicherungssysteme herausgefordert und es kann zu einer
+Instabilität des Sozialstaats kommen,wenn dessen Aufgaben bzw. Maßnahmen
+nicht mehr ausreichend aus den Einnahmen durch z. B. Steuern und
+Sozialabgaben oder einer geringen Zahl an Beitragszahlern refinanziert
+werden können. Vor diesem Hintergrund wurde in den 1990er Jahren das
+nicht nur input-, sondern auch outputorientierte *Neue Steuerungsmodell
+(NSM) *für öffentliche Verwaltungen und Träger eingeführt, das
+mittlerweile in verschiedenen Landes- und Kommunalgesetzen und
+-verordnungen verbindlich gesetzlich geregelt ist. Das *Neue
+Steuerungsmodell (NSM) *stellt ein Modell der öffentlichen
+Betriebswirtschaftslehre und dient der strategischen Steuerung von
+Kommunen, Landes- und Bundesverwaltungen sowie Behörden.
+
+Nach diesem Modell gibt die öffentliche Hand bestimmte Ziele für die
+Leistungserstellung vor, wobei stets auf die Wirtschaftlichkeit und
+Sparsamkeit der Aufgabenerledigung geschaut und rechtliche
+Rahmenbedingungen (z. B. Tarifrecht, Vergaberecht, etc.) mitbeachtet
+werden müssen. Seit den 1990er Jah- ren wird in der öffentlichen
+Verwaltung das NSM umgesetzt. Dabei stehen die Aspekte wie
+outputorientierte Steuerung, Förderung von wirtschaftlichem Wettbewerb
+und Effizienz, dezentrale Führung und Organisation, Controlling anhand
+öffentlicher Leistungsbeschreibungen, Budgetierung und
+Kontraktmanagement im Vordergrund, was nicht zuletzt zu einer viel
+diskutierten „Ökonomisierung des Sozialen" mit allen Vor- und Nachteilen
+beigetragen hat.
+
+Zu Recht betont Kolhoff [@kolhoff2002, S. 26] in diesem Zusammenhang, dass
+durch die leistungsorientierte Sichtweise in der Sozialen Arbeit das
+Steuerungsmedium „Recht" durch das Medium „Geld" ergänzt wird:
+Einerseits wird beabsichtigt, eine höhere Effizienz in der Mittelvergabe
+durch Einführung von (quasi-)marktwirtschaftlichen Mechanismen zu
+erreichen. Andererseits eröffnet sich plötzlich ein „Spielraum für
+Existenzgründer" [@kolhoff2002, S. 26]. Beispielsweise konnte man dies mit
+der Einführung des SGB XI beobachten, wo gewerbliche den gemeinnützigen
+Trägern gleichgestellt wurden. Es entstand ein Quasimarkt, in dem auch
+Existenzgründungen sich in die Abhängigkeit der Grundstruktur des
+sozialen Sicherungssystems begeben: „Gewerbliche Träger müssen folglich
+ebenso wie freie gemeinnützige An- bieter durch öffentliche Mittel
+alimentiertwerden" [@kolhoff2002, S. 27]. Nicht nur auf die besondere
+Bedeutung von gewerblichen Unternehmen in der Sozialwirtschaft, sondern
+insbesondere auch auf die verschiede- nen Existenzgründungsfelder ist im
+nächsten Abschnitt noch einmal ausführlicher einzugehen.
+
+### Existenzgründungsfelder {#existenzgrndungsfelder}
+
+Im Bereich sozialer und öffentlicher Dienstleistungen gibt es
+unterschiedliche Möglichkeiten und Formen der Existenzgründung. Einige
+der wichtigsten Gründungsfelder stellen z. B. das Outsourcing,
+gewinnorientierte gewerbliche und freiberufliche Tätigkeiten und das
+Social Entrepreneurship dar.
+
+#### Outsourcing {#outsourcing}
+
+Unter Outsourcing im öffentlichen und sozialen Sektor versteht man die
+Ausgliederung, Übergabe und Beleihung von Aufgaben, die eigentlich von
+der jeweiligen öffentlichen Körperschaft oder sozialen Einrichtung
+erbracht werden müssten, an externe Dienstleistungsunternehmen. Zwar
+können die hoheitlichen Kernaufgaben von Kommunen, Bundesländern oder
+Bund an sich nicht ausgelagert werden, dennoch verspricht man sich durch
+das Outsourcing von unterstützenden Service-Bereichen (z. B.
+Reinigungs-, Sicherheits-, Wartungs-, IT- und Catering-Aufgaben) eine
+kostengünstigere Aufgabenerbringung und die Ausnutzung von Möglichkeiten
+zur fiskalischen Sanierung. Eine Beteiligung an einer rechtlich
+selbständigen (und ggf. gewerblich tätigen) Servicegesellschaft oder
+Objektgesellschaft (im Falle von Immobilienleasing) ermöglicht darüber
+hinaus stetige Einnahmen für zukünftigeWirtschaftsjahre. Beispielhaft
+sei hier die von der Stadt Leipzig geschaffene Beratungsgesellschaft für
+Beteiligungsverwaltung Leipzig mbH (bbvl), die 1993 als 100-prozentige
+Tochtergesellschaft der Stadt Leipzig ausgegründetwurde, um für die
+Stadt ein effektiveres Beteiligungsmanagement der ca. 100 angegliederten
+Unternehmen wie z. B. Eigenbetriebe, Regiebetriebe,
+Kapitalgesellschaften oder Zweckverbände in allen Branchen von der
+Versorgungswirtschaft über die Wirtschaftsförderung und Stadtentwicklung
+bis hin zur Kultur, Gesundheit und Bildung zu organisieren [vgl. z. B. @kolhoff2002, S. 32]. Dabei bleiben die Verwaltungs-, Steuerungs- und
+Kontrollaufgaben für alle outgesourcten Bereiche zwar bei den
+städtischen Dezernaten, jedoch geht mit der Schaffung von wirtschaftlich
+und rechtlich selbständigen Betrieben eine „Verschlankung" der
+öffentlichen Verwaltung einher. Kaufmännische, personelle, rechtliche
+und organisatorische Angelegenheiten der Verwaltung und die städtische
+Vermögensverwaltung werden entsprechend der Satzung auf die bbvl mbH
+ausgelagert.
+
+Unter *Outsourcing *versteht man außerdem eine Geschäftsstrategie mit
+dem Ziel, einen Teilbereich oder umfangreiche Geschäftsprozesse in ein
+rechtlich und wirtschaftlich selbständiges Unternehmen auszugliedern.
+@otte2001privatisierung[S. 7-8] unterscheiden beim Outsourcing zwei
+Formen: Organisations- und Aufgabenprivatisierung. Unter
+*Organisationsprivatisierung *versteht man die Gründung von sogenannten
+Eigengesellschaften in privatrechtlicher Trägerschaft (z. B. GmbH oder
+AG) oder die Etablierung von Public-Private-Partnerships. Eine
+*Aufgabenprivatisierung *kann in Form einer funktionalen
+Auftragsübertragung (der öffentliche Träger behält sich ein
+Mitbestimmungsrecht vor, gründet aber eine private Einrichtung z. B.
+durch Betriebsüberlassung (Rechnungslegung gegen öffentlichen Träger),
+in Form von Betreibermodellen (privates Unternehmen betreibt und
+finanziert ein Vorhaben) oder durch materielle Auftragsübertragung
+(derjenige, der dieAufgabe übernimmt, entscheidet selbständig über die
+Art und Weise ihrer Ausführung, z. B. bei Verkauf einerTeileinrichtung
+oder Funktionsüberlassung an private Unternehmen) umgesetzt werden.
+
+Privatisierungen werden im Allgemeinen stets kritisch bewertet:
+Vorteilhaft wird zwar die kostengünstigere Bewirtschaftung angesehen und
+auch die Förderung von Konkurrenz mit anderen Wettbewerbern.
+Nachteilhaft wird allerdings angesehen, dass damit eine Ökonomisierung
+von genuin öffentlichen Aufgaben stattfindet, wobeiGewinne privatisiert,
+mögliche Verluste aber der Gemeinschaft angelastet werden können
+[@kolhoff2002, S. 35-36].
+
+#### Gewinnorientierte gewerbliche und freiberufliche Tätigkeiten in der Sozialwirtschaft {#gewinnorientierte-unternehmen}
+
+Grundsätzlich sind Existenzgründungen im sozialen Bereich damit
+konfrontiert, dass die Finanzierung der verschiedenen sozialen
+personenbezogenen Dienstleistungen durch (sozial-)rechtliche
+Rahmenbedingungen determiniert sind, Leistungen zwar über öffentliche
+Mittel finanziert werden können, allerdings häufig nur beschränkt auf
+das sozialrechtliche Dreieck [@Kolhoff2013, S. 42]. In der Regel werden
+Leistungen daher von sozialen Trägern angeboten, die als gemeinnützige
+Vereine, GmbHs, Stiftungen etc. firmiert sind. Infolgedessen sind der
+Selbständigkeit und (gewinnorientierten) Unternehmensgründungen gewisse
+Grenzen gesetzt. Eine Ausnahme stellt beispielsweise die häusliche
+Pflegehilfe (§ 36 SGB XI; z. B. haushaltsnahe Dienstleistungen) dar,
+welche als gewerbliche Tätigkeit gewertet wird, da sie -- im Gegensatz
+zur häuslichen Krankenpflege (§ 37 SGB XI) -- keine genuine pflegerische
+Maßnahme bzw. Grundversorgung darstellt und nicht vorrangig im
+Zusammenhang mit einer Krankheit steht [@kolhoff2002, S. 37]. Mithin werden
+hier gewerbliche und gemeinnützige Träger bzw. Selbständige auf eine
+Stufe gestellt. Darüber hinaus können gewinnorientierte gewerbliche
+Unternehmen im Rahmen des oben beschriebenen Outsourcings gegründet
+werden.
+
+Darüber hinaus werden bei öffentlichen als auch gemeinnützigen Trägern
+Honorarkräfte (z. B. nach Umgangsrecht,in der Erziehungsberatung, bei
+sozialpädagogischen Einzelbetreuungen, bei Supervision oder Coaching)
+angestellt oder es werden Personaldienstleister für die Überbrückung von
+kurz- und mittelfristigen Personalengpässen eingeschaltet
+(Personalüberlassung). In aller Regel handelt es sich bei den
+vorgenannten Beispielen um freiberuflich Selbständige. Die Berufsgruppe
+der Freiberufler wird konkret in § 18 EStG geregelt, wobei zwischen
+sogenannten Tätigkeitsberufen (z. B. Sozialpädagogen\*innen,
+Lehrer\*innen, Trainer\*innen, Logopäden\*innen), Katalogberufen (z. B.
+Heilberufe) und Analogberufen (z. B. Beschäftigungs- und
+Ausdrucktherapeuten\*innen) unterschieden werden kann.
+
+Unter *Freien Berufen *versteht man nach § 18 EStG und § 1 PartGG
+wissenschaftliche, künstlerische, schriftstellerische, unterrichtende
+oder erzieherische Tätig-keiten, die nicht der Gewerbeordnung
+unterliegen. Grundsätzlich ist darauf zu achten, dass die selbständige
+Tätigkeit nicht dem Verdacht einer Scheinselbständigkeit ausgeliefert
+ist. In diesem Fall wird die jeweilige Tätigkeit nicht als
+Selbständigkeit, sondern als sozialversicherungspflichtige abhängige
+Beschäftigung aufgefasst (vgl. § 7 Abs. 4 SGB IV). Dies liegt in der
+Regelvor, wenn die unternehmerischen Entscheidungsbefugnisse des
+Auftragsnehmers stark eingeschränkt werden, was dann der Fall ist, wenn
+z. B. eine Tätigkeit nach Weisungen und eine Eingliederung in die
+Arbeitsorganisation des Weisungsgebers vorliegt (§ 7 Abs. 4 S. 2 SGB
+IV). Infolgedessen kann eine vormals als selbständig deklarierte
+Tätigkeit im Rahmen einer Betriebsprüfung als
+sozialversicherungspflichtige Tätigkeit eingeordnet werden, was dazu
+führt, dass sowohl Arbeitnehmer\*in als auch Arbeitgeber\*in
+nachträglich zur Abführung von Beiträgen zur gesetzlichen Renten-,
+Kranken-, Pflege- und Arbeitslosenversicherung verpflichtet werden
+können. Eine Abgrenzung von Selbständigkeit und nichtselbständiger
+Tätigkeit ist in der allgemeinen Rechtspraxis von den Bundesgerichten
+fortentwickelt worden und muss von den Beteiligten sorgfältig geprüft
+werden.
+
+Liegt eine freiberufliche Tätigkeit vor, ergeben sich daraus
+verschiedene Rechtsfolgen, zu denen u. a. eine Befreiungvon der
+Gewerbesteuer, das Wahlrecht bei der Gewinnermittlung, der
+Bestandsvergleich und die Einnahmenüberschussrechnung sowie (für
+ausgewählte Berufe) eine Befreiung von der Umsatzsteuer gehören (vgl.
+dazu z. B. § 4 Nr. 14, 22a, 23, 25, 26 UStG). Im Bereich der sozialen
+Berufe findet eine Existenzgründung regelmäßig bei Aufnahme folgender
+freiberuflicher Tätigkeiten statt:
+
+-   *Berufsbetreuer/-vormünder*: Obschon es sich dabei um kein
+    gesetzlich normiertes Berufsbild handelt, werden
+    Betreuungsleistungen von Angehörigen dieses Berufs nach § 1896 BGB
+    nur unter Vorliegen bestimmter Voraussetzungen anerkannt. In den
+    letzten Jahren haben neben Rechtsanwälten\*innen auch viele
+    Sozialarbeitende die Betreuung von psychisch kranken, suchtkranken
+    und geistig behinderten Menschen übernommen. Die Vergütung der
+    Leistungen von Berufsbetreuern/-vormündern regelt schließlich das
+    Gesetz über die Vergütung von Berufsvormündern (BvermVG), wie z. B.
+    rechtliche Vertretungsbefugnisse für Finanz- und
+    Vermögensverwaltung, Erledigung von Schriftverkehr und Mahnungen,
+    Sozialversicherungsangelegenheiten, Heimplatzsuche und Überwachung
+    vonPflegediensten.
+
+-   *Verfahrens- und Umgangspflegschaft und Mediation*: Im Falle von
+    Interessensgegensätzen, Kindeswohlgefährdung, Wegnahme des Kindes
+    von Pflegepersonen bzw. Rückgabegesuch an die Herkunftsfamilie (§ 50
+    Abs. 1 FGG, z. B. Abs. 2) kann das Familiengericht nach § 1684 Abs.
+    4 BGB Umgangspfleger\*innen für konfliktbelastete Umgangssituationen
+    bestellen. Eine Kostenübernahme der dabei ausgeführten Leistungen
+    ist entsprechend nach § 18 Abs. 4 SGB VIII geregelt. Verfahrenspfleger\*innen können bestellt werden z. B. im Rahmen von Mediationen bei außergerichtlichen Streitigkeiten im Sinne des § 52
+    FGG. Sie haben letztlich die Aufgabe, auf Beratungsmöglichkeiten im
+    Rahmen der Jugendhilfe hinzuweisen und Anwaltschaft für das Kind zu
+    übernehmen. Eine Finanzierung erfolgt in Form pauschalierter
+    Entgeltsätze im Rahmen von Leistungsvereinbarungen nach § 77 SGB VIII.
+
+Neben den gewinnorientierten gewerblich orientierten und freiberuflichen
+Tätigkeiten hat sich ein weiterer Bereich von sozialen personenbezogenen
+Dienstleistern etabliert, die als Non-Profit-Organisationen
+gemeinnützige Unternehmenszwecke verfolgen.
+
+#### Social Entrepreneurship {#existenzgruendungsfeld-social-entrepreneurship}
+
+Social Entrepreneurs initiieren ein neues gemeinwohlorientiertes
+Geschäfts- und Handlungsfeld, welches Lösungen für gesellschaftlich bzw.
+sozial herausfordernde Aufgaben bietet, die bisher weder vom
+Wohlfahrtsstaat noch von anderen sozialen Organisationen bedient werden
+und eine persönliche Risikobereitschaft und philanthropische Haltung
+erfordert. Kurz gesagt geht es dabei darum, unternehmerisches Handeln
+und soziales und gesellschaftlichesEngagement miteinander zu verbinden.
+Zu den wichtigsten Kennzeichen für Einrichtungen in der Sozialwirtschaft
+im Sinne von Social Entrepreneurship zählen insbesondere:
+
+-   Es werden soziale Probleme und Herausforderungen, die nur
+    unzureichend von öffentlichen Einrichtungen adressiert werden,
+    angegangen.
+
+-   Die gegründeten Einrichtungen haben einen Bedarf an Spenden für
+    gemeinnützige Aktivitäten.
+
+-   Sie reagieren innovativ auf Veränderungen im öffentlichen
+    Sektor, z. B. Haushaltskürzungen.
+
+-   Es werden Angebote geschaffen, die soziale Verantwortung und
+    ethisches Unternehmertum miteinander verbinden.
+
+Social-Entrepreneurship-Unternehmen tragen maßgeblich zur Erreichung der
+acht „Millenniums-Entwicklungsziele" der Vereinten Nationen aus dem Jahr
+2000 bei [@UN2012future, S. 4ff.]:
+
+-   Bekämpfung von extremer Armut und Hunger,
+
+-   Primärschulbildung für alle,
+
+-   Gleichstellung der Geschlechter / Stärkung der Rolle der Frauen,
+
+-   Senkung der Kindersterblichkeit,
+
+-   Verbesserung der Gesundheitsversorgung der Mütter,
+
+-   Bekämpfung von HIV/AIDS, Malaria und anderen schweren Krankheiten,
+
+-   ökologische Nachhaltigkeit und
+
+-   Aufbau einer globalen Partnerschaft für Entwicklung.
+
+Diese Ziele wurden im Jahr 2016 mit Laufzeit bis 2030 auf 17 Ziele für
+die „nachhaltige Entwicklung" erweitert, wobei es sich um politische
+Zielsetzungen der @UN2012future handelt, die auf
+die Sicherung der nachhaltigen Entwicklung auf ökonomischer, sozialer
+und ökologischer Ebene ausgerichtet sind (vgl. [Abb. 8.2](#figure82)).
+
+![Abb. 8.2: The Sustainable Development Goals der Vereinten Nationen (Lizenz: UNDP, Public domain, via Wikimedia Commons, Quelle:
+<https://upload.wikimedia.org/wikipedia/commons/4/46/Sustainable_Development_Goals.jpg>](images/figure82.jpeg){width=75% #figure82}
+
+Social Enterprises sind weniger als neue Formen der Leistungserstellung,
+sondern vielmehr als organisationstheoretisch interessante Gebilde zu
+verstehen. Sie oszillieren „zwischen den Polen einer marktgetriebenen --
+auch gewinnorientierten -- Orientierung, einer an gemeinschaftlichen
+Werten orientierten Perspektive und einer auf das ‚große Ganze'
+gerichteten ‚staatsorientierten' bürokratischen Rationalität"
+[@heinze2011social, S. 91, vgl. Abschnitt
+[Hybridität](2_schluesselkonzepte.qmd#hybriditaet)].
+Die Rechtsform solcher gemeinnützigen Unternehmen können sowohl Vereine
+nach Bürgerlichem Recht als auch gGmbHs oder gAGs sein. Deren
+Finanzierung von sozialen Dienstleistungen wird über
+Leistungsvereinbarungen nach §§ 77ff. SGB VIII, privatrechtlichen
+Leistungsverträgen, in Form von öffentlichen Ausschreibungen nach SGB
+III sowie durch Einführung des Neuen Steuerungsmodells ermöglicht. Nach
+Kolhoff [@kolhoff2002, S. 50] zählen dazu beispielsweise die Arbeitsfelder:
+
+-   „der Kranken- und Altenhilfe (betreutes alten- und
+    behindertengerechtes Wohnen);
+
+-   Begegnungsstätten, ambulante und stationäre Kranken- und Altenpflege
+    (Sozialstationen, Tages- und Kurzzeitpflege, Mobilitätshilfen,
+    Prophylaxen, Behandlungspflege, Soziale Betreuung,
+    Nachtpflegestationen und Vollzeitpflege);
+
+-   der Behindertenhilfe (Wohnheime und Wohnstätten, Werkstätten,
+    Therapie und Beratungszentren, behindertengerechte Gestaltung von
+    Wohnraum in Privathaushalten);
+
+-   oder beim Aufbau von Kindergärten/-tagesstätten;
+
+-   bei Rettungsdiensten, Arbeitslosenzentren, Heimen für Obdachlose,
+    selbstverwaltete Wohnprojekten, Werk- und Ausbildungsstätten für
+    Arbeitslose und SozialhilfeempfängerInnen;
+
+-   oder bei der Einrichtung von Gebrauchtkaufhäusern (z. B. Bring's und
+    GebrauchtKaufhaus AG Bielefeld."
+
+Die Unternehmer\*innen bzw. Gründer\*innen sind in den Social
+Enterprises in der Regel als Mitarbeitende oder in der Geschäftsführung
+bei der ins Leben gerufenen Einrichtung angestellt. Es kann aber auch
+andere arbeits- bzw. gesellschaftsrechtliche Beteiligungsmöglichkeiten
+geben wie z. B. die besondere Form des Geschäftsführenden
+Gesellschafters. Beispielhaft seien folgende Social Enterprises genannt:
+
+-   *mehr als lernen e. V.*: Unterstützung von (jungen) Menschen durch
+    kompetenzorientiertes Lehren undLernen, damit diese ihr eigenes
+    Leben eigenverantwortlich und selbstbewusst gestalten und
+    Verantwortung für eine demokratische und friedliche Gesellschaft
+    übernehmen können;
+
+-   *sira Kinderbetreuung*: Betrieb und Bau von betrieblichen Mini-Kitas
+    (Ganztagespflegen) in Zusammenarbeit mit Arbeitgebern zur
+    Verwirklichung der Vereinbarkeit von Familie und Beruf;
+
+-   *Ethical Branding Marketing*: ethische Marketingstrategien für tier-
+    und umweltschonende Visionäre;
+
+-   *German Angel Initiative gUG*: individuelle und intensive Förderung
+    von leistungsschwachen Kindern aussozial- und bildungsfernen
+    Familien gemeinsam mit hoch motivierten Studierenden zur Steigerung
+    desSchulerfolgs;
+
+-   *Sustify GmbH*: Online-Plattform für nachhaltige Bildung in Fabriken
+    in Asien;
+
+-   *EducationINnovationARTelier -- Institut für Bildungsinnovation*:
+    Angebot von Workshops, Seminaren, Weiterbildungen, Events und
+    Projekten zum Thema Bildungsinnovation;
+
+-   *Quartiermeister*: Seit 2012 fördert das Sozialunternehmen aus GmbH
+    und Verein mit Erlösen aus Bierverkauf soziale Projekte in
+    unmittelbarer Nachbarschaft -- dort, wo das Bier getrunken wird.
+
+Social-Entrepreneurship-Organisationen sind u. a. bei dem gemeinnützigen
+Netzwerk *Social Entrepreneurship Netzwerk Deutschland e. V.
+*organisiert, welches regelmäßig Branchenumfragen durchführt, um die
+Lage von Sozialunternehmern\*innen zu erforschen und soziale
+Innovationen zu unterstützen (vgl. [SEND
+e.V.](https://www.send-ev.de "null"); eine hilfreiche Datenbank findet
+sich ebenso unter [Ashoka](https://www.ashoka.org "null")).
+
+Erwähnenswert ist in diesem Zusammenhang noch, dass Social Enterprises
+nicht lediglich als Non-Profit-Unternehmen der Sozialwirtschaft bewertet
+werden können, da sie teilweise auch keine formale Struktur aufweisen
+und neben einer Gemeinwohlorientierung auch eine Profitorientierung
+verfolgen können. Ihnen kann aufgrund unterschiedlicher verfolgter
+Zwecke und Budgets nicht zwingend eine direkte Rechtsform zugeordnet
+werden. Sie können u. a. entweder als Einzelunternehmen, Stiftungen,
+gemeinnützige Vereine und Verbände oder aber auch in Form von Public
+Private Partnership (PPP) firmiert sein [@heinze2011social, S. 92]. Auf diese
+Vielfalt, Variabilität und Hybridität ist im folgenden Abschnitt
+ausführlicher einzugehen.
+
+### Hybride Sozialunternehmen als Kennzeichen der Sozialwirtschaft {#hybride-sozialunternehmen}
+
+Organisationen des Non-Profit- bzw. der Sozialwirtschaft zeichnen sich
+durch eine zunehmende organisationale Hybridität aus. „Hybriden
+Organisationen" [z. B. @eurich2013diakonie; @Evers2010] stellen
+Kooperationsformen über Sektorengrenzen hinweg dar, bei denen
+unterschiedliche, wechselseitig abhängige Werte, Logiken und
+Handlungsorientierungen der jeweiligen Stakeholder und Sektoren einen
+Einfluss auf die Organisationssteuerung und -lenkung haben. Sozial-,
+Bildungs- und Gesundheitsbetriebe stellen in besonderer Weise hybride
+Organisationen dar, da sie einerseits als soziale Dienstleister mit
+verschiedenen anderen Wettbewerbern in einem in der Regel räumlich
+begrenzten sozialen Markt („dritter Sektor", d. h. ein eigenes
+Handlungsfeld jenseits von Staat bzw. Gemeinschaft und Markt)
+konkurrieren, andererseits aber den Großteil der Finanzierung meist über
+einen Monopolanbieter (z. B. staatliche Leistungsträger) bestreiten und
+dabei wie andere soziale Organisationen an der Verwirklichung des
+sozialstaatlichen Subsidiaritätsprinzips und an der Erfüllung gesetzlich
+legitimierter Aufgaben (z. B. Sozialgesetzbuch) beteiligt sind [@Arnold_2017, S. 46].
+
+„*Hybridity* is not therefore any mixture of features from
+different sectors, but according to this view, is about fundamental and
+distinctly different governance and operational principles in each
+sector" [@billis2010hybrid, S. 3].
+
+Die Entwicklung einer Hybridität sozialer Organisationen ist nach @heinze2011social insbesondere auf folgende
+Veränderungen in den 1990er Jahre zurückzuführen: Traditionell gründet
+sich der deutsche Wohlfahrtsstaat auf den dominierenden Prinzipien der
+sozialen Sicherung, einer dezentralen Leistungsgewährung und den
+korporatistischen Beteiligungsstrukturen in Entscheidungsprozessen
+(befördert z. B. durch die Wohlfahrtsverbände). Insbesondere vor dem
+Hintergrund der bereits erwähnten Einführung neuer Steuerungsformen und
+Managementinstrumente (z. B. der Doppik, operatives/strategisches
+Controlling) in den 1990er Jahren kam es zu einem grundlegenden Wandel
+im Management sozialer Einrichtungen.
+
+Für die Steuerung sozialer, gemeinnütziger Organisationen wurde die
+Wahrnehmung, Anerkennung und Umsetzungunterschiedlicher (Sektor-)Logiken
+entscheidend. Die Steuerung hybrider Organisationen „besteht somit in
+der Vermittlung unterschiedlicher Orientierungen (z. B. staats- und
+assoziationsbezogener Orientierungen), der Herstellung von Einheit unter
+Wahrung der Vielfalt (z. B. organisationale Einheit und Vielfalt an
+Stakeholdern), der Balancierung unterschiedlicher Steuerungslogiken
+(...) und der Herstellung und Erhaltung vonGemeinschaft bzw. der
+Emanzipation aus deren Bindungen" [@eurich2013diakonie, S. 242]. Nach Adalbert Evers
+und Benjamin Ewert [@Evers2010, S. 112ff.] haben insbesondere die folgenden
+vier Dimensionen Bedeutung für die Steuerunghybrider Organisationen: (1)
+Die zur Verfügung stehenden Ressourcen, hier Finanzen, stammen aus
+unterschiedlichenQuellen (z. B. Entgelte, staatliche Zuwendungen,
+Spenden, Fundraising usw.). (2) Es kommen organisationale
+Steuerungsformen zum Einsatz, die Partizipation im Sinne von
+Selbstvertretung von Anspruchsgruppen und Interessensvertretungen auf
+Länder- und Bundesebene (z. B. Wohlfahrtsverbände) erfordern. (3)
+Formalziele (z. B. Gewinnermittlung) werden dem ideellen Ziel
+(Sozialbetrieb) untergeordnet. (4) Die Corporate Identity hebt Aspekte
+der Veränderung des Organisationsumfelds neben der Dienstleistung an den
+Kunden\*innen hervor. Ergänzend fügt @eurich2013diakonie[S. 251ff.] hinzu, dass
+im Zentrum der Steuerung hybrider Organisationen das Management
+multipler Identitäten -- also die Gleichzeitigkeit unterschiedlicher
+Selbst- und Fremdzuschreibungen -- steht: Im Falle sozialer
+Einrichtungen ergibt sich dies bereits durch die interprofessionelle
+Zusammenarbeit, die Anbindung an die lokale Gemeinwesenarbeit, die
+Einbeziehung unterschiedlicher Anspruchs- und Interessensgruppen sowie
+Ehrenamtlichen und durch die Auswahl von Leitungskräften, die neben
+betriebswirtschaftlichem Know-how auch eine Sensibilität für nicht
+sofort verwertbare, aber gesellschaftlich relevante Themen mitbringen.
+
+Darüber hinaus kann eine Hybridität von Unternehmen der Sozialwirtschaft
+noch an anderer Stelle -- der Asymmetriezwischen Anbietern und
+Nachfragern -- beobachtet werden. Während Anbieter über ein Mehrwissen
+um die qualitative Gestaltung des Dienstleistungsprozesses verfügen,
+sind (insbesondere) junge Klienten\*innen häufig verschiedenen
+Zugangsbarrieren ausgeliefert oder können größtenteils nicht die in
+Anspruch genommenen Dienstleistungen auswählen (z. B. Jugendhilfe). Eine
+hohe Regulierungsdichte existiert auch in der Altenpflege, wo zwar eine
+Transparenz durch Qualitätsberichte und Pflegenoten erreicht werden
+soll, aber ein Großteil der Finanzierung von Pflegedienstleistungen nur
+anhand von Leistungsentgelten organisiert ist. Gründer\*innen sindebenso
+nicht selten mit institutionellen Hürden und häufig geschlossenen
+Märkten konfrontiert [vgl. z. B. SGB VIII, wo der Marktzutritt und auch
+die Beteiligung an Entscheidungsgremien wie dem Jugendhilfeausschuss
+reglementiert wird, @heinze2011social, S. 95].
+
+### Digitale Transformation sozialer Organisationen und Dienstleistungen {#digitale-transformation}
+
+Einrichtungen der Sozialwirtschaft sind zunehmend auch durch die
+Digitalisierung herausgefordert. Der digitale Wandel betrifft nicht mehr
+nur gewerbliche Unternehmen, sondern alle Einrichtungen und
+Organisationen quer durch sämtliche Branchen, Sektoren und
+Gesellschaftsbereiche. Vor diesem Hintergrund entsteht letztlich die
+Frage, welche Auswirkungen, Herausforderungen und Chancen die digitale
+Transformation in sozialenOrganisationen und für Dienstleistungen mit
+sich bringt. Die Digitalisierung stellt eine Querschnittsaufgabe
+inUnternehmen zu den allgemein bekannten Megatrends -- wie z. B. der
+Individualisierung, New Work, Globalisierung, Mobilität, Konnektivität,
+Gender Shift -- dar. Digitalisierung beinhaltet in diesem Zusammenhang
+eine Durchdringung der Gesellschaft mit digitalen Technologien,
+Produkten (z. B. VR, AR, 3D-Druck) und Prozessen (z. B. BigData,
+Robotics) sowie nimmt Einfluss auf die Zusammenarbeit und das
+Zusammenleben von Menschen (z.B. Social Networks, Crowdsourcing)
+[@bmwi2015industrie; @bowersox2005digital; @pousttchi2017digitale]. Unter *Digitalisierung
+*versteht man den seit Ausgang des 20. Jahrhunderts in
+allen Lebensbereichen bzw. der gesamten Gesellschaft zu beobachtenden
+Wandel, der durch die fortschreitende technische Revolution in der
+Informationstechnik ebenso bewirkt wird wie durch disruptive und
+innovative Geschäftsmodelle, die eine zunehmende Automatisierung,
+Flexibilität und Individualisierung ermöglichen. Digitalisierung in der
+Sozialwirtschaft birgt verschiedene Herausforderungen, sie
+
+-   stellt einen durch digitale Technologie angetriebenen
+    kontinuierlichen Prozess in der Gesellschaft, Wirtschaft, im
+    Sozial-, Bildungs- und Gesundheitssektor dar;
+
+-   beinhaltet einen Wandel von Strukturen, Prozessen, Strategien von
+    Organisationen und der gesamten Wertschöpfungskette (Digitale
+    Ökonomie);
+
+-   bringt neue Herausforderungen durch smarte Vernetzung, Austausch und
+    intelligente Analysen von Daten mit sich;
+
+-   fordert insbesondere von Fach- und Führungskräften Digital Literacy
+    und Leadership Skills.
+
+Nach @Kreidenweis_2018[S. 9ff.] kann die Digitalisierung
+in der Sozialwirtschaft assoziiert werden mit Plattform-Ökonomie,
+digitalen Produkten und Dienstleistungen sowie dem Einsatz von neuen
+Technologien wie Robotik oderkünstliche Intelligenz: Auf *digitalen
+Plattformen *entwickeln sich in allen Branchen neue Geschäftsmodelle, um
+ein besseres Daten-, Interessens- und Kontraktmanagement zwischen
+Anbieter und Kunde zu ermöglichen (vgl. z. B. die weltweit, teilweise
+gewerblich operierenden Plattformen [www.care.com
+](http://www.care.com/ "null") und
+[www.betreut.de](http://www.betreut.de/ "null")). *Digitale Produkte und
+Dienstleistungen *liefern dank einer Integration von smarten
+Technologien einen Mehrwert gegenüber „klassischen" Angeboten für
+Menschen mit und ohne Beeinträchtigungen (z. B. Text-to-Speech,
+Translate-to-Speech oder Bedienbarkeit bei motorischen Einschränkungen).
+Diese neuen digitalen Angebote entfalten meist interessante Wirkung: es
+stärkt das Autonomievermögen, die Teilhabe und Selbständigkeit; Begriffe
+wie Behinderung bzw. Hilfsbedürftigkeit ändern sich in ihrer Bedeutung.
+
+Schließlich ermöglichen *neue Technologien wie Robotik und künstliche
+Intelligenz *eine Erschließung von in der„analogen Welt" meist
+aufwendiger umsetzbaren Anwendungen wie z. B. durch Einsatz von
+Robotern, Smartphones mit Bedienhilfen, intelligenteren
+Spracherkennungs- und Dialogsystemen, Servicerobotern im
+Sozialbetreuungs- und Pflegebereich. Beispielhaft sei nur auf die
+bereits in vielen Privathaushalten vorzufindenden Smart Speaker bzw.
+sprachgesteuerten, internetbasierten, intelligenten, persönlichen
+Assistenzsysteme hingewiesen, über die nicht nur Audio- und Videos
+gestreamt, die Haustechnik gesteuert, Artikel gekauft, Termine
+vereinbart, Listen geführt, Telefonate geführt, Betreuungs- und
+Assistenzbedarf angefordert, Informationen abgefragt und
+humanoideLaufroboter gesteuert werden können. Digitalisierung hilft
+dabei, die eigenen Zielgruppen besser zu erreichen, adressaten- und
+bedarfsgerechte Dienste zu konfigurieren und vorzuhalten sowie die
+eigene Einrichtung effektiver zu gestalten und zu steuern.
+
+Existenzgründungen müssen von vornherein bedenken, wie der digitale und
+soziale Wandel in der neu gegründeten Organisation zusammen gedacht und
+digitale Teilhabe ermöglicht werden kann, denn die 
+
+> „\[d\]igitale Teilhabe wird elementare Voraussetzung
+> gesellschaftlicher Teilhabe. Die digitale Transformation erfordert
+> Anpassungsleistungen in allen Lebensbereichen; sie kann nur gelingen,
+> wenn die Richtung der Entwicklungsdynamik als gestaltbar erlebt wird
+> und unterschiedliche Geschwindigkeiten nicht zu uneinholbaren
+> Vorsprüngen kleiner digitaler Eliten führen" [@bagfw2017digitale, S. 2].
+
+Konkret sollten im Gründungsprozess die jeweils angestrebten
+Kommunikationswege, Angebotsformen undArbeitsweisen dahingehend
+überprüft werden, ob diese für die Herausforderungen einer durch
+Hybridität zwischen analoger als auch digitaler sozialer Welt gewappnet
+sind. Zu konkreten Geschäftsfeldern, die derzeit zunehmenddurch die
+digitale und soziale Transformation zugleich geprägt sind, zählen u. a.:
+
+-   Service-Robotik und künstliche Intelligenz in der Altenpflege zur
+    Unterstützung von Menschen mit eingeschränkten Möglichkeiten, z. B.
+    digitale Dienstleistungsmodelle wie Ambient Assisted Living (AAL),
+    die durch digitale Sprachtechnologien gestützt werden;
+
+-   Fortbildung, Coachings und andere Unterstützungsangebote für
+    pädagogische Fachkräfte zum Aufbau bzw.zur Entwicklung digitaler
+    Kompetenzen, die über Medienkompetenzen und das
+
+-   Lernen von und in neuen Medien hinausgeht;
+
+-   Entwicklung, Umsetzung und Evaluation von Konzepten zur virtuell
+    aufsuchenden Jugendarbeit (auch: Cyberstreetwork oder virtuelle
+    Jugendarbeit 2.0);
+
+-   Betreuungs- und Beratungsplattformen für hilfesuchende Menschen;
+
+-   Blockchain-Technologien im Rahmen des Datenaustauschs zwischen
+    öffentlichen und freien Trägern der Jugendhilfe bzw. bei der
+    Organisation von wirtschaftlichen Hilfen.
+
+Wie die bisherigen Ausführungen gezeigt haben, müssen bei
+einer Existenzgründung verschiedene unternehmerische Rahmenbedingungen
+in der Sozialwirtschaft beachtet werden. Unternehmensgründungen sind in
+verschiedenen Formen möglich: als Outsourcing, gewerbliches Unternehmen,
+Freiberufler oder Social Entrepreneur. Schließlich stellen soziale
+Einrichtungen ebenso auch hybride Unternehmen dar, die sich mit einer
+Vielzahl von Stakeholdern, Finanzierungsquellen (Welfare-Mix) und
+bereichsspezifischen Logiken auseinandersetzen. Bei der Gründung von
+Sozialunternehmen muss unmittelbar auch bedacht werden, in welcher Form
+und in welchem Umfang bestimmte personenbezogene soziale
+Dienstleistungen ggf. auch durch Digitalisierung weiterentwickelt werden
+können.
+
+## Schritte des Start-Up-Managements {#schritte-startup}
+
+In diesem Abschnitt wird ein Überblick über die wichtigsten Schritte in
+die Selbständigkeit dargestellt (in Anlehnung an [@kolhoff2002, S. 54ff.;
+@bmwi2018starthilfe], die anhand konkreter Leitfragen ausführlicher
+beschrieben werden.
+
+### STEP 1: Persönliche Kompetenzen -- Was ist meine Motivation? {#step-1-persoenliche-kompetenzen-was-ist-meine-motivation}
+
+Im ersten Schritt gilt es, die persönlichen Voraussetzungen, Fähigkeiten
+und Fertigkeiten zu prüfen, die für die Existenzgründung benötigt
+werden. Dabei müssen die eigenen Stärken und Schwächen ebenso betrachtet
+werden wie die emotionalen, kognitiven und verhaltensbezogenen
+Kompetenzen der Unternehmer\*innen. Die Gründungsforschung hat gezeigt,
+dass bestimmte persönliche Dispositionen für eine Existenzgründung von
+nachhaltiger Bedeutung sind: z. B. Ambiguitätstoleranz, emotionale
+Stabilität, Leistungsbereitschaft, Risikobereitschaft, Offenheit für
+neue Erfahrungen. Vor allem aber sind die besondere Selbstkompetenzen
+gefragt, wie z. B. die Fähigkeit, die eigenen Stärken und Schwächen,
+Chancen und Risiken einzuschätzen, abzuwägen und zu reflektieren.
+
+### STEP 2: Entwicklung einer Gründungsidee -- Funktioniert die Geschäftsidee? {#step-2-entwicklung-einer-gruendungsidee-funktioniert-die-geschaeftsidee}
+
+Für eine erfolgreiche Existenzgründung ist neben der Klärung der
+persönlichen Dispositionen im zweiten Schritt die Formulierung einer
+soliden Gründungsidee von entscheidender Bedeutung. In der einschlägigen
+Fachliteratur werden verschiedene Prinzipien und Wegevorgeschlagen, wie
+man neue und vor allem marktfähige Geschäftsmöglichkeiten entwickelt.
+Für eine möglichst frühzeitige Überprüfung und Bewertung der
+Erfolgschancen, ob sich die entwickelte Geschäftsidee auch realistisch
+umsetzen lässt und entsprechende Ressourcen zur Verfügung stehen, gibt
+es hilfreiche Prüfkriterien, die in Form von Fragen und Checklisten auf
+das eigene Vorhaben angewendet werden können. Im Prozess der
+Identifikation von Gründungsideen können schließlich verschiedene
+Kreativ- und Ideenfindungstechniken genutzt werden [z. B. @daalhuizen2014].
+
+### STEP 3: Von Konzept zum Businessplan -- Ist das Konzept umsetzbar? {#step-3-von-konzept-zum-businessplan}
+
+Die entwickelte Gründungsidee muss schließlich im dritten Schritt in
+einen Businessplan bzw. Geschäftsplan transformiert werden. Dieser
+stellt eine schriftliche Ausformulierung des Konzepts der
+Unternehmensgründung dar und sollte alle notwendigen Seiten beleuchten,
+die für den Gründungsprozess bedeutsam sind. Denn nur eine
+betriebswirtschaftlich solide und marktfähige, d. h. an den
+Kundenanforderungen ausgerichtete Geschäftsidee wird sich im Wettbewerb
+bewähren.
+
+### STEP 4: Finanzierung -- Woher bekomme ich notwendige finanzielle Mittel? {#step-4-finanzierung}
+
+Ein wesentlicher Bestandteil des Businessplans ist neben der
+Beschreibung der Problemlösung, des Marktes und des zu gründenden
+Unternehmens insbesondere dessen Finanzteil, den es in einem gesonderten
+vierten Arbeitsschritt zu eruieren gilt. Neben einer Kosten- und
+Kapitalbedarfsplanung müssen auch die Umsätze, die Liquidität, die
+Rentabilität geplant werden. Der Businessplan ist die Voraussetzung für
+die Unternehmensgründung und dient u. a. dazu, die Höhe des
+Startkapitals zu ermitteln, Finanzierungsquellen ausfindig zu machen und
+z. B. Banken oder andere Fördermittelgeber von der Wirtschaftlichkeit
+des Unternehmens zu überzeugen, um Möglichkeiten der Fremdfinanzierung
+(z. B. durch Kredite, Bürgschaften, öffentliche Fördermittel) nutzen zu
+können.
+
+### STEP 5: Start-up-Management -- Wie gründe ich mein Unternehmen? {#step-5-start-up-management-wie-grnde-ich-mein-unternehmen}
+
+Im fünften und letzten Schritt kann schließlich mit der
+Unternehmensgründung selbst begonnen werden. Je nach Art und Umfang der
+Geschäftsidee sowie den zur Verfügung stehenden Ressourcen muss geklärt
+werden, welcher Weg der Gründung eingeschlagen werden soll, z. B. ob es
+sich (lediglich) um einen Nebenverdienst als Kleinunternehmer handelt,
+eine Einzel- bzw. Kollektivgründung oder ein bestimmtes Beteiligungs-
+bzw. Franchisemodell umgesetzt werden soll. Darüber hinaus muss eine
+geeignete Rechtsform gefunden und dabei Fragen hinsichtlich
+Haftungsrisiken, steuerlicher Belastung, Buchführungspflichten,
+Startkapital, notwendige Behördenanmeldungen, Genehmigungen und
+Registereintragungen geklärt werden. Abschließend wird ein Überblick zum
+Start-up-Management von Einrichtungen der Sozial- und
+Gesundheitswirtschaft gegeben, wobei hauptsächlich die operative und
+strategische Unternehmensführung beleuchtet wird.
+
+## Aufbau und Bestandteile des Businessplans {#aufbau-bestandteile-businessplan}
+
+Haben sich die Gründer\*innen über ihre Qualifikationen und Kompetenzen
+vergewissert bzw. sich notwendiges Wissen angeeignet sowie eine
+innovative Geschäftsidee entwickelt, kann im nächsten Schritt ein
+Businessplan entworfen werden. Damit beschäftigt sich dieses Kapitel.
+
+Ein *Businessplan *bzw. Geschäftsplan stellt die schriftlich fixierte
+Ausformulierung und  Konkretisierung der entwickelten  Gründungsidee 
+dar, mithin  bildet er die Grundlage für die Planung und Umsetzung der
+Existenzgründung. Dieses standardisierte Dokument ist in verschiedene
+Bereiche untergliedert und enthält sowohl einen qualitativen alsauch
+quantitativen Teil [@Nagl2018, S. 1-2]. Während im
+qualitativen Teil die Geschäftsidee im Detail beschrieben und in Markt,
+Organisation und Unternehmensführung eingeordnet werden muss (u. a.
+Produkt-/Leistungsbeschreibung, Personal, Marktentwicklung, Management
+und Organisation und Chancen-Risiken-Analyse), beinhaltet der
+quantitative Teil die Finanz-, Erfolgs- und Liquiditätsplanung. Der
+Businessplan dienteinerseits der Selbstvergewisserung über die Vision,
+Strategien und Ziele des zu gründenden Unternehmens bzw. dessen
+Produkten bzw. Dienstleistungen. Andererseits wird er aber auch als ein
+Kommunikationsmittel gegenüber Gläubigern zur Finanzmittelakquise,
+Kundenwerbung etc. verwendet. Businesspläne
+unterstützenEntscheidungsprozesse, aber nicht nur im Rahmen von
+(Neu-)Gründungen, sondern sind ebenso hilfreich bei derPlanung von
+Strukturveränderungen, Merger & Akquisitions, Fusionen,
+Produktneueinführungen, Markterschließungen, Börsengang oder
+Kapitalerhöhung, Fremdkapitalfinanzierung und Investitionen.
+
+In der Praxis haben sich bestimmte Bestandteile des Businessplans
+durchgesetzt, die im Folgenden in Anlehnung an die empfehlenswerte
+Praxisanleitung von @Nagl2018[S. 2-73] sowie @Hermanni2016[S. 33-37] im Detail
+vorgestellt werden:
+
+1.  Executive Summary
+
+2.  Geschäftsmodell
+
+3.  Zielmarkt
+
+4.  Ziele und Strategien
+
+5.  Leistungs- und Produktportfolio
+
+6.  Marketing und Vertrieb
+
+7.  Management, Organisation und Personal
+
+8.  Chancen und Risiken
+
+9.  Finanzplanung
+
+Die Reihenfolge, Schwerpunktsetzungen und Bezeichnungen der einzelnen
+Teile können je nach Adressatengruppe, Kommunikationsziel und Umfang
+durchaus abweichen bzw. angepasst werden. In der folgenden Darstellung
+der jeweiligen Bestandteile des Businessplans werden nach einer kurze
+Erläuterung Orientierungs- und Leitfragen für die Ausformulierung des
+entsprechenden Teils gegeben sowie mögliche Fehlerquellen benannt [vgl.
+dazu im Folgenden @Nagl2018, S. 2-73].
+
+### Executive Summary {#executive-summary}
+
+Die Executive Summary stellt eine kurze, komprimierte und prägnante
+Zusammenfassung des Geschäftsplans dar, der im Regelfall nicht mehr als
+zwei Seiten umfassen sollte. Darin wird ein Überblick über die
+Unternehmensgründung gegeben und es muss ausgeführt werden, welche kurz-
+und langfristigen Ziele verfolgt, welche Marktchancen genutzt und wie
+das angebotene Produkt oder die Dienstleistung die Kundenanforderungen
+bestmöglich erfüllen. Dieser erste Abschnitt des Geschäftsplans ist mit
+größter Sorgfalt zu erstellen, da viele Investoren darauf basierend
+häufig ihre Entscheidungen treffen (vgl. [Tab. 8.1](#table81)).
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Was ist die Zielsetzung des  | -   Die Informationen im         |
+|     Start-ups/Pro- jekts?        |     Executive Summary finden     |
+|                                  |     sich nicht im Hauptteil des  |
+| -   Mit welchem                  |     Business-/ Geschäftsplans    |
+|     Nutzenversprechen tritt das  |     wieder.                      |
+|     Unternehmen an?              |                                  |
+|                                  | -   Im Executive Summary sind    |
+| -   Mit welchen Produkten und    |     keine Angaben über den       |
+|     Leistungen werden welche     |     Investitionsbedarf           |
+|     Märkte/Segmente bedient?     |     enthalten.                   |
+|                                  |                                  |
+| -   Wer sind die                 | -   Das Executive Summary ist zu |
+|     Zielkunden/Umsatzträger?     |     lang.                        |
+|                                  |                                  |
+| -   Wie soll der Marktzugang     | -   Das Executive Summary hat    |
+|     erreicht werden?             |     nicht den Charakter eines    |
+|                                  |     eigenständigen Dokuments.    |
+| -   Wie ist die                  |                                  |
+|     Wertschöpfungsarchitektur    | -   Das Executive Summary wurde  |
+|     geplant?                     |     mittels Copy-and-paste aus   |
+|                                  |     den einzelnen Modulen        |
+| -   Wie groß ist das derzeitige  |     zusammengefügt und ist kein  |
+|     und zukünftige               |     in sich schlüssiges          |
+|     Marktpotenzial?              |     Dokument.                    |
+|                                  |                                  |
+| -   Welche                       | -   Im Executive Summary werden  |
+|     Alleinstellungsmerkmale      |     zu viele Zahlen genannt.     |
+|     besitzt das Unternehmen und  |                                  |
+|     wo liegt der Kundennutzen?   | -   Das Executive Summary        |
+|                                  |     enthält nur Stichpunkte.     |
+| -   Welche Ziele werden kurz-,   |                                  |
+|     mittel- und langfristig      | -   Das Executive Summary wird   |
+|     angestrebt?                  |     in der „Ich-Form"            |
+|                                  |     geschrieben.                 |
+| -   Gibt es besondere Risiken?   |                                  |
+|                                  |                                  |
+| -   Welche wichtigen             |                                  |
+|     Meilensteine der             |                                  |
+|     Unternehmensentwicklung sind |                                  |
+|     bis jetzt erreicht wor- den? |                                  |
+|                                  |                                  |
+| -   Wie setzt sich das           |                                  |
+|     Management-Team zusammen?    |                                  |
+|                                  |                                  |
+| -   Wie sieht die Umsatz- und    |                                  |
+|     Gewinnplanung für die        |                                  |
+|     nächsten drei bis fünf Jahre |                                  |
+|     aus?                         |                                  |
+|                                  |                                  |
+| -   Wie hoch ist der             |                                  |
+|     Kapitalbedarf?               |                                  |
+|                                  |                                  |
+| -   Wie hoch ist die Verzinsung  |                                  |
+|     des eingesetzten Kapitals    |                                  |
+|     (ROI = Return on             |                                  |
+|     Investment)?                 |                                  |
++----------------------------------+----------------------------------+
+
+: Tab. 8.1: Checkliste Executive Summary [@Nagl2018, S. 3-4]
+
+### Geschäftsmodell {#geschaeftsmodell}
+
+In diesem ersten Teil des Businessplans wird dargestellt, welche
+Geschäftsidee der Gründung zugrunde liegt und wiediese umgesetzt werden
+kann. Als hilfreiche Orientierung können dabei verschiedene Ansätze der
+Geschäftsmodellentwicklung dienen: z. B. St. Galler Business Model
+Navigator [@gassmann2013geschaeftsmodelle], Business Model Canvas [@osterwalder2010business] und
+Business Model Builder [@NaglBozen2018]. Es sollte darauf
+geachtet werden, dass nicht nur die jeweilige Produkt- bzw.
+Dienstleistungsidee vorgestellt wird, sondern auch beschrieben wird, wie
+diese zur Erfüllung des Kundennutzens beiträgt und welcher Mehrwert
+gegenüber Wettbewerbern (Unique Selling Proposition) geboten wird. Im
+Einzelnen sollte man sich Gedankenmachen über folgende Aspekte:
+Geschäftsfeld, Vision, Strategie und Ziele, Wertschöpfungstiefe und
+Netzwerknutzung, Unique Selling Proposition (= Wettbewerbsvorteile bzw.
+Kernkompetenzen), Erfolgs- undErtragspotenzial [@Nagl2018, S. 4-5]. Die Geschäftsidee und das
+Geschäftsmodell werden nur dann überzeugen, wenn deutlich wird, dass
+gezielt der prognostizierte Bedarf der Kunden erfüllt wird, ein
+entsprechender Zielmarkt vorliegt und die Unternehmung insgesamt
+wirtschaftlich ist. Darüber hinaus können bereits hier die notwendigen
+Information zum Unternehmen gegeben werden (z. B. Firma, Rechtsform,
+Sitz, Standort, Gesellschafterverhältnisse undGründungsplanung) (vgl.
+[Tab. 8.2](#table82)).
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Was ist das Neuartige und    | -   Die Gefahr, sich bei der     |
+|     Nutzbringende?               |     modellhaften Beschreibung in |
+|                                  |     Details zu verlieren.        |
+| -   Werden Megatrends, wie z. B. |                                  |
+|     Digitalisierung,             | -   Die Alleinstellungsmerkmale  |
+|     entsprechend berücksichtigt? |     sind nicht klar              |
+|                                  |     herausgearbeitet.            |
+| -   Wie sehen die Vision, die    |                                  |
+|     Ziele und die Strategie des  | -   Das Projekt ist nicht klar   |
+|     Unternehmens aus             |     und eindeutig den relevanten |
+|                                  |     Abteilungen zugeordnet.      |
+| -   Welcher Bereich/welche       |                                  |
+|     Abteilung verantwortet das   | -   Die Beschreibung der         |
+|     Projekt im Unternehmen?      |     Kernkompetenzen fehlt.       |
+|                                  |                                  |
+| -   Wie passt das Projekt in das | -   Eigene Ressourcen werden in  |
+|     bestehende Portfolio des     |     Bereichen mit geringer       |
+|     Unternehmens                 |     Wertschöpfung und            |
+|                                  |     Zukunftsorientierung         |
+| -   Welches Bedürfnis wird beim  |     gebunden.                    |
+|     Kunden erfüllt?              |                                  |
+|                                  | -   Es besteht eine Abhängigkeit |
+| -   Was ist die Kernkompetenz    |     von einzelnen Partnern.      |
+|     des Unternehmens?            |                                  |
+|                                  |                                  |
+| -   Wie wird die Kernkompetenz   |                                  |
+|     geschützt?                   |                                  |
+|                                  |                                  |
+| -   Lässt sich mit dem           |                                  |
+|     Geschäftsmodell der geplante |                                  |
+|     Erfolg erreichen?            |                                  |
+|                                  |                                  |
+| -   Kann das Geschäftsmodell mit |                                  |
+|     relativ wenig Aufwand an     |                                  |
+|     Veränderungen des            |                                  |
+|     wirtschaftlichen Umfeldes    |                                  |
+|     angepasst werden?            |                                  |
++----------------------------------+----------------------------------+
+
+: Tab. 8.2: Checkliste Geschäftsmodell [@Nagl2018, S. 5-6]
+
+### Zielmarkt {#zielmarkt}
+
+Im Rahmen dieses Teils des Businessplans ist darzustellen, in welchem
+Markt bzw. Marktsegment das Produkt oder die Dienstleistung angeboten
+werden soll. Dabei ist zwischen Marktpotenzial und Marktvolumen zu
+unterscheiden. Während das *Marktpotenzial *die Höhe der maximal
+erzielbaren Absatzmenge bzw. das Umsatzvolumen einesProduktes oder einer
+Dienstleistung im Zielmarkt darstellt, wird unter dem *Marktvolumen *die
+Summe der tatsächlichrealisierbaren bzw. prognostizierten Absatzmengen
+bzw. Umsatzvolumen von allen im Zielmarkt im Wettbewerb stehenden
+Unternehmen verstanden. Daten über Marktpotenzial und Marktvolumen
+können über verschiedene Wege gewonnen werden:
+
+> „Erste generelle Informationen über den Markt und die
+> Branchenentwicklung können meist schnell und kostengünstig über
+> Fachverbände, volkswirtschaftliche Abteilungen der Kreditinstitute,
+> statistische Landes- und Bundesämter, wirtschaftswissenschaftliche
+> Institute (z. B. Deutsches Institut für Wirtschaftsforschung),
+> Industrie- und Handelskammern, Handwerkskammern und generell natürlich
+> über Internetrecherchen gewonnen werden" [@Nagl2018, S. 7].
+
+Weiterhin sind auch verschiedene Analysetools (z. B. Google Trends,
+Genios-Datenbank, Reports von Marktforschungsinstituten und
+Beratungsgesellschaften), die statistischen Landesämter und das
+Statistische Bundesamt sehr hilfreich, um Trendprognosen zu erstellen.
+Wenn keine Informationen recherchiert werden können,bleibt meist noch
+die Option zur Durchführung einer eigenen Studie, in der neben einer
+statistischen Erhebung die Bedürfnisse und Erwartungen sowie
+Preisvorstellungen der potenziellen Kunden erfragt und kategorisiert
+werdenmüssen.
+
+Im Mittelpunkt der Beschreibung des Zielmarktes steht eine Beschreibung
+der Zielgruppen (Klein- oder Großkunden,Privat- oder Geschäftskunden),
+Prognose zur Marktentwicklung und Wettbewerbsanalyse. Zur Einschätzung
+der *Marktentwicklung *sollte die Marktattraktivität (u. a. Marktgröße,
+Marktqualität, Marktzusammensetzung, exogene Einflussfaktoren)
+analysiert werden. Im Rahmen einer *Wettbewerbsanalyse *steht die
+Untersuchung der eigenen Wettbewerbsfähigkeit, des Umfeldes sowie der
+Leistungsfähigkeit von direkten, indirekten oder potenziellen
+Wettbewerbern im Vordergrund. Es sollten dabei „Daten über Größe,
+Umsatz, Absatz, Mitarbeiter, Marktanteil, Marketingkonzept und
+Machtverhältnisse der Wettbewerber eingeholt und analysiert werden, um
+dadurch „mehr über die Stärken und Schwächen der Mitbewerber zu erfahren"
+[@Nagl2018, S. 8]. Zur Wettbewerbsanalyse können
+verschiedene Ansätze, Methoden und Instrumente der
+Betriebswirtschaftslehre eingesetzt werden wie z. B. Benchmarking,
+Branchenstrukturanalyse nach Michael Porter @porter2013wettbewerbsstrategie und die
+Stärken-Schwächen-Chancen-Risiken- bzw. SWOT-Analyse [vgl. für eine
+ausführliche Darstellung @Nagl2018, S. 10-14]. Diese dienen
+dazu, „ökonomische Komponenten (u. a. Geld-Kapitalmarkt,
+Konjunkturlage), technologische (u. a. Stand der
+Informationstechnologien), rechtlich-politische (u. a.
+Wirtschaftsordnung, Gewerbepolitik), soziokulturelle (Normen,
+Wertesysteme) und physische (Infrastruktur, klimatische Bedingungen)" zu
+identifizieren [@Hermanni2016, S. 35, vgl. [Tab. 8.3](#table83)].
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Wie entwickelte sich die     | -   Die Angaben zu Marktvolumen  |
+|     Branche in der Vergangenheit |     und -wachstum sind nicht     |
+|     und wie sehen die Prognosen  |     nachvollziehbar.             |
+|     aus? Welche Markttrends      |                                  |
+|     zeichnen sich ab?            | -   Es fehlen Informationen über |
+|                                  |     die Entwicklung der Branche  |
+| -   Welches mengenmäßige und     |     und deren Einflussfaktoren.  |
+|     wertmäßige Marktpotenzial    |                                  |
+|     und Marktvolumen wird für    | -   Es fehlen Informationen über |
+|     die einzelnen Marktsegmente  |     vergleichbare Produkte und   |
+|     prognostiziert?              |     zu erwartende                |
+|                                  |     Neuentwicklungen.            |
+| -   Ist der adressierte          |                                  |
+|     Markt/die Nische groß genug? | -   Die Reaktionen der           |
+|                                  |     Wettbewerber auf den         |
+| -   Was sind die Erfolgsfaktoren |     Markteintritt werden nicht   |
+|     der Branche?                 |     erkannt bzw. unterschätzt.   |
+|                                  |                                  |
+| -   Welche Rolle spielen         |                                  |
+|     Innovation, Digitalisierung  |                                  |
+|     und technischer Fortschritt? |                                  |
+|                                  |                                  |
+| -   Welche Unternehmen treten    |                                  |
+|     als Wettbewerber um die      |                                  |
+|     Gunst der Käufer im Markt    |                                  |
+|     auf?                         |                                  |
+|                                  |                                  |
+| -   Welche Ziele/Strategien      |                                  |
+|     verfolgen die Mitbewerber?   |                                  |
+|                                  |                                  |
+| -   Über welches Know-how        |                                  |
+|     verfügen die Wettbewerber?   |                                  |
+|                                  |                                  |
+| -   Wie hoch sind die            |                                  |
+|     finanziellen Ressourcen der  |                                  |
+|     Wettbewerber?                |                                  |
+|                                  |                                  |
+| -   Was sind die Gründe für      |                                  |
+|     Erfolge und Misserfolge der  |                                  |
+|     Wettbewerber?                |                                  |
+|                                  |                                  |
+| -   Wie werden die Wettbewerber  |                                  |
+|     gegebenenfalls auf den       |                                  |
+|     Markteintritt des            |                                  |
+|     Unternehmens reagieren?      |                                  |
+|                                  |                                  |
+| -   Inwieweit ist das            |                                  |
+|     Unternehmen von einzelnen    |                                  |
+|     Lieferanten und Kunden       |                                  |
+|     abhängig?                    |                                  |
+|                                  |                                  |
+| -   Wie werden die aktuelle und  |                                  |
+|     zukünftige Rendite in den    |                                  |
+|     Marktsegmenten beurteilt?    |                                  |
++----------------------------------+----------------------------------+
+
+: Tab. 8.3: Checkliste Zielmarkt [@Nagl2018, 14-15]
+
+### Ziele und Strategien {#ziele-strategien}
+
+Nachdem die Geschäftsidee bzw. das Geschäftsmodell und der Zielmarkt
+konkretisiert wurden, müssen im nächsten Schritt nun die die
+Unternehmensführung leitenden Geschäftsziele konkretisiert werden. Aus
+der im vorherigenBusinessplanabschnitt (Zielmarkt) durchgeführten
+SWOT-Analyse können -- wie in [Abb. 3](#figure83) dargestellt --
+anschließend die Ziele Grund-, Wettbewerbs- und Marktbearbeitungs- und
+Bereichsstrategien abgeleitet werden [@Nagl2018, S. 15]:
+
+-   In der *Grundstrategie *wird festgelegt, auf welcher Grundlage
+    zukünftige Entscheidungen über dieProduktentwicklung,
+    Marktbearbeitung und Unternehmensführung getroffen werden
+    sollen: z. B. Wachstums-, Konsolidierungs- oder Rückzugsstrategie.
+
+-   Die *Wettbewerbsstrategie *fokussiert die strategische
+    Positionierung des Unternehmens gegenüber den Wettbewerbern und wie
+    sich die eigenen Angebote, Marktnutzung, Erfüllung der Kundennutzen
+    von anderen Mitwettbewerbern abhebt. Grundsätzlich können nach
+    @porter2013wettbewerbsstrategie drei wesentliche, voneinander
+    abzugrenzende Wettbewerbsstrategien verfolgt werden: Branchenweit
+    kommt die Qualitätsführerschaft (Differenzierungsstrategie) oder
+    Kostenführerschaft (Preis-Mengen-Strategie) in Steht nur
+    eineingeschränktes Marktsegment zur Verfügung, dann kann eine
+    Nischenstrategie (Konzentration auf Schwerpunkte) verfolgt werden.
+
+-   Im Rahmen der *Marktfeld- bzw. Zielgruppenstrategie *wird nach der
+    Ansoff-Matrix [@ansoff1965checklist] -- in Abhängigkeit davon, ob ein
+    Produkt neu eingeführt wird oder anders positioniert werden soll
+    sowie welche Marktwachstumsmöglichkeiten bestehen -- eine von vier
+    Möglichkeiten gewählt: *Marktdurchdringung *(z. B.
+    Produktverbesserung, Verwendung neuer Marketinginstrumente),
+    *Produkt(neu)entwicklung *(Produktinnovation),
+    *Markt(weiter)entwicklung *(Erschließung neuer Märkte und
+    Kundengruppen), *Diversifikation *(Einstieg in neue Produkte und
+    Märkte, Sortimenterweiterung, Risikostreuung).
+
+![Abb. 8.3: Modell für die Strategiebildung [@Nagl2018, S. 15]](images/figure83.png){width=75% #figure83}
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Wurden messbare und          | -   Die Ziele sind unrealistisch |
+|     erreichbare Ziele definiert? |     geplant.                     |
+|                                  |                                  |
+| -   Sind die Ziele und           | -   Wachstumsperspektiven        |
+|     Strategien nachvollziehbar?  |     reichen für Investoren nicht |
+|                                  |     aus.                         |
+| -   Sind die gewählten           |                                  |
+|     Strategien                   | -   Die geplante Strategie ist   |
+|     erfolgversprechend?          |     mit den finanziellen und     |
+|                                  |     personellen Ressourcen nicht |
+| -   Lassen sich die Strategien   |     umsetzbar.                   |
+|     in die Praxis umsetzen?      |                                  |
+|                                  | -   Bei Start-up-Unternehmen und |
+| -   Bieten die gewählten         |     innovativen Projekten fehlt  |
+|     Strategien eine Basis für    |     eine                         |
+|     das geplante Wachstum?       |     Markteintrittsstrategie.     |
++----------------------------------+----------------------------------+
+
+: Tab. 8.4: Checkliste Ziele und Strategien [@Nagl2018, S. 20]
+
+### Leistungs- und Produktportfolio {#leistungs-und-produktportfolio}
+
+Ausgehend vom Prinzip eines Portfolios, d. h. einer Sammlung
+verschiedener Objekte, muss in diesem Abschnitt des Businessplans
+herausgearbeitet werden, inwieweit sich die angebotenen Produkte bzw.
+Leistungen von denen am Markt bereits angebotenen unterscheiden (Unique
+Selling Proposition) und welcher Nutzen bzw. welche Wertschöpfung durch
+das gewählte Leistungs- und Produktportfolio generiert werden kann.
+Dabei sollten die Produkte und Dienstleistungen möglichst präzise
+beschrieben werden, z. B. „um welche Art von Produkten und Leistungen es
+sich handelt, welche Funktionen und Eigenschaften diese besitzen und was
+als neu an dieser Innovationzu betrachten ist" [@Nagl2018, S. 21]. Für die Darstellung des Portfolios ist
+möglicherweise die 4-Felder-Matrix derBoston Consulting Group (BCG)
+nützlich, in der Produkte, Leistungen und Geschäftsfelder anhand der
+beiden Kriterien Marktwachstum und relativer Marktanteil dargestellt
+werden können [vgl. z. B. @Bruhn2016]. Darüber hinaus
+ist in diesem Abschnitt auch auszuführen, welche Serviceleistungen die
+Kunden in Anspruch nehmen können, ob bestimmte rechtliche Voraussetzungen
+erfüllt bzw. Genehmigungen eingeholt, Patente oder
+Schutzrechteangemeldet werden müssen und wie die Portfolioentwicklung
+und Qualitätssicherung umgesetzt werden soll.Letzteres kann am besten
+gezeigt werden in Form von Machbarkeitsstudien, Prototypen, Pilotkunden
+und Testmärkten [vgl. @Nagl2018, S. 25-26, vgl. [Tab. 8.5](#table85)].
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Worin besteht der innovative | -   Die Erläuterung und die      |
+|     Charakter des Leistungs- und |     Quantifizierung des          |
+|     Produktportfolios?           |     Kundennutzens fehlen.        |
+|                                  |                                  |
+| -   Wie sieht der aktuelle Stand | -   Es liegt keine erkennbare    |
+|     der Technik aus?             |     Überlegenheit der Produkte   |
+|                                  |     und Leistungen gegenüber dem |
+| -   Welche Garantie- und         |     Wettbewerb vor.              |
+|     Servicepolitik wird          |                                  |
+|     verfolgt?                    | -   Mitbewerber sind schneller   |
+|                                  |     und erfolgreicher auf dem    |
+| -   Durch welche Merkmale        |     Gebiet der Digitalisierung   |
+|     erringt das Produkt oder die |     „unterwegs".                 |
+|     Dienstleistung eine          |                                  |
+|     Alleinstellung?              | -   Die Ausführungen enthalten   |
+|                                  |     zu viele technische          |
+| -   Sind Partnerschaften oder    |     Ausdrücke.                   |
+|     zusätzliche Dienstleistungen |                                  |
+|     erforderlich, um das Produkt |                                  |
+|     und die Dienstleistung voll  |                                  |
+|     zur Geltung zu bringen?      |                                  |
+|                                  |                                  |
+| -   Welche gesetzlichen          |                                  |
+|     Vorschriften, Normen oder    |                                  |
+|     Standards sind zu erfüllen?  |                                  |
+|                                  |                                  |
+| -   Wie ist die Patent- bzw.     |                                  |
+|     Schutzrechtsituation?        |                                  |
+|                                  |                                  |
+| -   In welchem                   |                                  |
+|     Entwicklungsstadium befinden |                                  |
+|     sich die Produkte und        |                                  |
+|     Dienstleistungen?            |                                  |
+|                                  |                                  |
+| -   Welche weiteren              |                                  |
+|     Entwicklungsschritte sind    |                                  |
+|     geplant und welche           |                                  |
+|     Möglichkeiten ergeben sich   |                                  |
+|     aus der Digitalisierung?     |                                  |
+|                                  |                                  |
+| -   Welche Ressourcen sind für   |                                  |
+|     eine Weiterentwicklung       |                                  |
+|     vorhanden?                   |                                  |
+|                                  |                                  |
+| -   In welchen Bereichen liegen  |                                  |
+|     Entwicklungsrisiken und wie  |                                  |
+|     wird diesen Risiken          |                                  |
+|     begegnet?                    |                                  |
++----------------------------------+----------------------------------+
+
+: Tab. 8.5: Checkliste Leistungs- und Produktportfolio [@Nagl2018, S. 26]
+
+### Marketing und Vertrieb {#marketing-und-vertrieb}
+
+Die Planung der Marketing-, Vertriebs- und Kommunikationsaufgaben im
+Rahmen der Existenzgründung sowie für die zukünftige Unternehmensführung
+ist von existenzieller Bedeutung. Marketing ist als alle Bereiche der
+Unternehmung umfassende und integrative Aufgabe zu verstehen, in deren
+Ergebnis neue Kunden gewonnen und existierende Kunden zufriedengestellt
+werden können. Es gilt, dabei sowohl operative, das
+Tagesgeschäftumfassende als auch strategische, langfristig orientierte
+Ziele und Aufgaben zu unterscheiden (vgl. [Tab. 8.6](#table86)).
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Welchen Absatz (Menge) und   | -   Die Marketingplanung und     |
+|     Umsatz (Wert) strebt das     |     Marketingbudgets sind zu     |
+|     Unternehmen an (Prognose)?   |     wenig detailliert.           |
+|                                  |                                  |
+| -   Welche Preise sollen erzielt | -   Der Einsatz der              |
+|     werden?                      |     Marketinginstrumente ist     |
+|                                  |     nicht genügend aufeinander   |
+| -   Nach welchen Kriterien       |     abgestimmt.                  |
+|     werden die Preise gebildet?  |                                  |
+|                                  | -   Es fehlen vor allem IT- und  |
+| -   Wie hoch soll die            |     Algorithmenbasierte          |
+|     Gewinnspanne sein            |     Kundenbindungsmaßnahmen.     |
+|     (Schätzung)?                 |                                  |
+|                                  |                                  |
+| -   Welche Zahlungsziele räumt   |                                  |
+|     das Unternehmen ein?         |                                  |
+|                                  |                                  |
+| -   Welche Zielgruppen werden    |                                  |
+|     durch welche Vertriebskanäle |                                  |
+|     am besten erreicht?          |                                  |
+|                                  |                                  |
+| -   Wie wird die Aufmerksamkeit  |                                  |
+|     der Zielgruppenkunden auf    |                                  |
+|     die Produkte und Leistungen  |                                  |
+|     gelenkt?                     |                                  |
+|                                  |                                  |
+| -   Wie sieht die Online- und    |                                  |
+|     Offline-Werbeplanung und     |                                  |
+|     Kundenbindung aus?           |                                  |
+|                                  |                                  |
+| -   Welche                       |                                  |
+|     Abs                          |                                  |
+| atz-/Verkaufsförderungsmaßnahmen |                                  |
+|     werden genutzt?              |                                  |
+|                                  |                                  |
+| -   Wie hoch sind die Kosten, um |                                  |
+|     einen Kunden dauerhaft zu    |                                  |
+|     binden?                      |                                  |
+|                                  |                                  |
+| -   Welche Anforderungen         |                                  |
+|     (Anzahl, Qualifikation und   |                                  |
+|     Ausrüstung der Mitarbeiter)  |                                  |
+|     sind seitens des Vertriebs   |                                  |
+|     zu erfüllen, um die          |                                  |
+|     Marketingstrategie           |                                  |
+|     erfolgreich umzusetzen?      |                                  |
+|                                  |                                  |
+| -   Welche Ausgaben sind dafür   |                                  |
+|     eingeplant?                  |                                  |
+|                                  |                                  |
+| -   Wie werden sich der Absatz   |                                  |
+|     und das Ergebnis auf die     |                                  |
+|     einzelnen Vertriebskanäle    |                                  |
+|     verteilen (Schätzung)?       |                                  |
+|                                  |                                  |
+| -   Welcher Marktanteil je       |                                  |
+|     Vertriebskanal kann erreicht |                                  |
+|     werden?                      |                                  |
+|                                  |                                  |
+| -   Welche Ausgaben werden bei   |                                  |
+|     der Einführung der Produkte  |                                  |
+|     und Dienstleistungen sowie   |                                  |
+|     im weiteren Verlauf          |                                  |
+|     voraussichtlich anfallen?    |                                  |
++----------------------------------+----------------------------------+
+
+: Tab. 8.6: Checkliste Marketing und Vertrieb [@Nagl2018, S. 42-43]
+
+Im Marketing kann dabei der erweiterte Marketing-Mix (7 Ps) zur
+Anwendung kommen [vgl. im Folgenden @Nagl2018, S. 27-28;
+@Nagl2016]:
+
+-   *Product *(Produkt- und Leistungspolitik): Hierbei gilt es,
+    festzulegen, welche Eigenschaften die Produktebzw. Dienstleistungen
+    haben sollten (z. B. Produktname, Qualität, Ausstattung,
+    Komplementärprodukte).Auf Basis von realistischen Kundenprofilen
+    (wer kauft was, wann und warum, in welchem Umfang, nach welchen
+    Kriterien und wo) kann der Versuch unternommen werden, den
+    Gesamtmarkt in einzelne Teilsegmente zu zerlegen. Die Kundenprofile
+    können entlang von soziodemographischen Kriterien wie z. B.Alter,
+    Geschlecht, soziales Umfeld oder Haushaltseinkommen definiert
+    werden. Außerdem sollte man sich Gedanken über die Servicepolitik
+    machen (welche Serviceleistungen sind kostenlos/-pflichtig, in
+    welcher Art und in welchem Umfang und in welchen rechtlichen
+    Rahmenbedingungen werden diese erbracht).
+
+-   *Price *(Preispolitik): Die Preisstrategie gibt vor, was für das
+    Produkt bzw. für die Dienstleistung gezahlt werden muss und ob
+    es z. B. Rabatte, Nachlässe, Ratenzahlungen oder andere Konditionen
+    gibt. AlsMethoden zur Preisfestlegung können z. B. die
+    Zahlungsbereitschaft der Kunden (Nachfrageorientierung), die Höhe
+    der variablen und fixen Kosten (Kostenorientierung), der Preis
+    anderer Wettbewerber oder desMarktführers (Wettbewerbsorientierung)
+    oder das Nutzen-Mehrwertverhältnis (Value-based-Pricing)
+    herangezogen werden.
+
+-   *Placement *(Distributionspolitik): Dabei muss einerseits festgelegt
+    werden, wie das Produkt bzw. die Dienstleistung an den Kunden
+    gebracht werden kann wie z. B. über direkte Vertriebskanäle oder
+    indirekt über Absatzmittler bzw. Meinungsführer. Außerdem können
+    Kooperationen und Netzwerke mit anderenUnternehmen,
+    Franchisinglösungen oder Onlinehandel genutzt werden. Andererseits
+    ist auch die Standortwahl und -entwicklung von entscheidender
+    Bedeutung.
+
+-   *Promotion *(Kommunikationspolitik): Hierbei gilt es, festzulegen,
+    welche Kommunikationsziele unter zielgerichteten Einsatzes von
+    Kommunikationsmitteln (z. B. Werbung durch Print- und
+    Onlinemedien,Verkaufsförderungen, Öffentlichkeitsarbeit/Public
+    Relations für den Dialog mit den Kunden und Stakeholdern, Messen,
+    Suchmaschinenoptimierung, Social Media, Influencer-Marketing,
+    Markenpolitik) erreicht werden können, um den Kunden vom Nutzen des
+    Produktes bzw. der Dienstleistung zu überzeugen.
+
+Diese 4 Ps können schließlich erweitert werden um die folgenden 3
+Aspekte:
+
+-   *People *(Personalpolitik): Die Personalstrategie sollte u. a.
+    beinhalten, wie die Kompetenzen der Mitarbeitenden weiterentwickelt
+    (Personalentwicklung) und wie das Arbeitgebermarketing (inkl. der
+    Mitarbeiterbindung) positiv beeinflusst werden können.
+
+-   *Processes *(Prozesspolitik): Wenn nicht bereits in der Produkt- und
+    Leistungspolitik erfasst, muss dargestellt werden, wie die
+    Qualitätssicherung und Optimierung von Verfahren, Vorgängen und
+    Abläufenstattfindet.
+
+-   *Physical Facilities *(Ausstattungspolitik): In Weiterführung der
+    Kommunikationspolitik ist im Businessplanauch darzustellen, wie das
+    äußere und innere Erscheinungsbild des Unternehmens strategisch
+    entwickelt werden soll (z. B. Ausschilderungen, Corporate Identity
+    zur Vereinheitlichung von Unternehmensauftritt, Leitbild und
+    Verhalten).
+
+Die Standortwahl für das Gründungsunternehmen sollte in diesem Teil
+ebenso erläutert werden (vgl. [Tab. 8.7](#figure87)). Die
+Entscheidung über den idealen *Standort *des Unternehmens ist häufig
+nicht trivial. Es geht nicht nur darum, wie das immobileVermögen des
+Unternehmens langfristig gebunden werden kann. Einfluss auf die
+Standortwahl haben auch noch andere Faktoren, die es zu analysieren
+gilt: u. a. Marktlage, Anzahl der Betriebsstätten, Kundenbedürfnisse
+(Kundennähe, Kaufkraft, Lage und Umgebung, Konsumentengewohnheiten),
+Mitwettbewerber (Zahl, Größe, Marktanteil, Dynamik), Objektgröße und
+Mietpreisniveau, Steuersatz (Grund-/Gewerbesteuer), Subventionen,
+Genehmigungen (Gebietslizenzen), Zugang zu Beschaffungsmärkten (Nähe zu
+Lieferanten, Qualifikation/Kosten Personal, Logistik), Herkunfts-
+Goodwill(Standorte mit Tradition), Umweltschutz/-belastung,
+Infrastruktur (Verkehrsanbindung, Kommunikationstechnik),
+Wachstumsmöglichkeiten [vgl. @Hermanni2016, S. 35]. Für
+Sozialunternehmen sind nicht alle diese Faktoren gleichmäßig relevant,
+aber beispielsweise muss bei der Gründung eines Pflegeheims überlegt
+werden, ob ein Gebäude in der Innenstadt oder auf dem Land gesucht wird,
+bei einer Kita bzw. Beratungsstelle die Kunden in Wohnortnähe zu finden
+sind und ggf. ein günstigeres Grundstück in ähnlicher Lage verfügbar und
+bei ambulantenAngeboten die Erreichbarkeit, Parkmöglichkeiten und
+Anbindung an den öffentlichen Personennahverkehr gegeben ist.
+
+| **Leitfragen** | **Fehlerquellen** |
+| -------------- | ----------------- |
+| - Welcher Bedarf besteht am jeweiligen Standort? (Kundenbedarfe, Informationen von Einwohnermeldeamt, statistische Ämter) | - Die Standortwahl ist zu wenig detailliert dargestellt. |
+| - Wie sieht die kommunale, regionale, nationale Wettbewerbssituation aus? (Unternehmensumfeldanalyse, Preisgefüge, Marketingpolitik) | - Es wurde keine Analyse der Standortfaktoren und damit zusammenhängender Rahmenbedingungen vorgenommen. |
+| - Über welche Kaufkraft verfügen Kunden\*innen/Klienten\*innen? (vgl. Statistisches Jahrbuch zu örtlicher Kaufkraft, GfK Nürnberg, Kaufkraftkarte der Nielsen-Marktforschung Frankfurt a. M., Analysetools BFS Service Köln) |  |
+| - Wie sieht die Grundstücks-/Raumsituation aus? (Genehmigungen, Baurecht, Betriebsstätten-VO, Infos über Stadtverwaltung, Fläche, Zuschnitte, Zugänglichkeit der Räume, Mietkosten/Mietspiegel) |  |
+| - In welcher Lage befindet sich das Unternehmen? (Verkehrsanbindung, Parkplätze, Nähe anderer Branchen/Angebote, z. B. Innenstadt vs. im Grünen, Verfügbarkeit von Personal) |  |
+
+
+: Tab. 8.7: Checkliste Standort (eigene Darstellung)
+
+### Management, Organisation und Personal {#management-organisation-personal}
+
+Für eine erfolgreiche Unternehmensführung ist neben der Geschäftsidee
+insbesondere die Zusammensetzung des Gründungsteams und aller
+Mitarbeitenden von entscheidender Bedeutung. Um dies im Businessplan
+geeignet darzustellen, muss eine realistische und ehrliche
+Gegenüberstellung der vorhandenen und notwendigen bzw. nochzu
+entwickelnden Kompetenzen der Gründer\*innen und des eingesetzten
+Personals erfolgen und ggf. personelle Engpässe durch gezielte Maßnahmen
+ausgeglichen werden können. Die Schlüsselpersonen der Unternehmung
+sindsowohl hinsichtlich ihrer fachlichen Kompetenzen, kaufmännischen
+Qualifikationen, Marktkenntnisse, Kommunikations-, Führungs- und
+Sozialkompetenzen, Motivation und Networkingskills vorzustellen.
+Außerdemsind neben der Aufbau- und Strukturorganisation (z. B. in Form
+eines Organigramms) und des Controllings- bzw. Berichtswesens auch
+Angaben zur Personalstruktur (z. B. Anzahl von Mitarbeitenden und
+Anstellungsverhältnisse) sowie Maßnahmen der Personalentwicklung und des
+Wissensmanagements zu beschreiben.
+
+Um ein stabiles Unternehmen aufzubauen, braucht es auch verlässliche
+Partner bzw. kooperierende Unternehmen. So können z. B. folgende
+Kooperationsformen gewählt werden [@Nagl2018, S. 45-46]:
+
+-   *Kooperationen/Strategische Allianzen*: rechtlich und wirtschaftlich
+    selbständige Unternehmen übernehmen in der Zusammenarbeit
+    unterschiedliche Aufgaben (z. B. Einkaufgemeinschaften);
+
+-   *Virtuelle Unternehmen*: temporäre Zusammenarbeit im Rahmen eines
+    Auftrags gegenüber einem Dritten (z. B. Anbietergemeinschaft bei
+    Ausschreibungen);
+
+-   *Joint*--*Venture*: mehrere Unternehmer halten an einem gemeinsamen
+    Unternehmen Beteiligungen;
+
+-   *Konzentration*: Zusammenschluss von Unternehmen, bei dem die
+    einzelnen Unternehmen ihre wirtschaftliche Selbstständigkeit
+    aufgeben, aber eigenständige Rechtsobjekte bleiben;
+
+-   *Fusion*: Verschmelzung von mindestens zwei vormals rechtlich und
+    wirtschaftlich selbständigen Unternehmen zu einer neuen
+    Wirtschaftseinheit bzw. Rechtsobjekt.
+
+Ob man die richtigen Partner gewählt hat, ergibt sich aus einer Analyse
+der „Wertschöpfungsarchitektur" [@barbian2016digitale], die zum Ziel hat, die
+in einer Branche bzw. in einem Unternehmen arbeitsteilig
+erbrachten,miteinander verbundenen Wertschöpfungsaktivitäten zu koppeln
+und zu koordinieren. Dabei muss untersucht werden:Wertbeitrag (Nutzen
+der Partnerschaft), Werttreiber (mehrwertbezogene Potenziale des
+Partners), Verlässlichkeit(Zuverlässigkeit, Qualität und Sicherheit der
+Partnerschaft) und Integration (Voraussetzungen des Partners) (vgl.
+[Tab. 8.8](#table88)).
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Über welche komplementären   | -   Schlüsselpositionen, z. B.   |
+|     Fähigkeiten verfügt das      |     Finanzen, sind nicht         |
+|     Führungsteam                 |     ausgewogen besetzt. Es       |
+|                                  |     fehlen Vertretungsregelungen |
+| -   Bestehen Lücken im           |     für Schlüsselpositionen. Es  |
+|     Führungsteam?                |     wird nicht ausreichend in    |
+|                                  |     die Personalentwicklung      |
+| -   Welche entscheidenden        |     investiert.                  |
+|     Positionen müssen noch       |                                  |
+|     besetzt werden?              |                                  |
+|                                  |                                  |
+| -   Was sind die                 |                                  |
+|     Schlüsselpositionen des      |                                  |
+|     Unternehmens?                |                                  |
+|                                  |                                  |
+| -   Welche Qualifikationen und   |                                  |
+|     Erfahrungen besitzen die     |                                  |
+|     Mitarbeiter in               |                                  |
+|     Schlüsselpositionen?         |                                  |
+|                                  |                                  |
+| -   Welches Entlohnungssystem    |                                  |
+|     wird angewendet?             |                                  |
++----------------------------------+----------------------------------+
+
+: Tab. 8.8: Checkliste Management und Personal [@Nagl2018, S. 48-49]
+
++----------------------------------+----------------------------------+
+| **Leitfragen**                   | **Fehlerquellen**                |
++==================================+==================================+
+| -   Wo liegen die                | -   Prozessrisiken werden nicht  |
+|     Kernkompetenzen?             |     systematisch analysiert.     |
+|                                  |                                  |
+| -   Welche Leistungen werden     | -   Eine systematische Bewertung |
+|     selbst erbracht, was wird    |     der Kooperationspartner      |
+|     zugekauft                    |     fehlt.                       |
+|     (Make-or-buy-Entscheidung)?  |                                  |
+|                                  | -   Keine Abgrenzung von         |
+| -   Welche Geschäftspartner      |     Aufgaben und                 |
+|     werden in den                |     Verantwortlichkeiten.        |
+|     Leistungserstellungsprozess  |                                  |
+|     einbezogen?                  |                                  |
+|                                  |                                  |
+| -   Können Kapazitäten           |                                  |
+|     kurzfristig angepasst        |                                  |
+|     werden?                      |                                  |
+|                                  |                                  |
+| -   Existieren Maßnahmen zur     |                                  |
+|     Qualitätssicherung?          |                                  |
+|                                  |                                  |
+| -   Wie sieht die                |                                  |
+|     Organisationsstruktur des    |                                  |
+|     Unternehmens aus?            |                                  |
+|                                  |                                  |
+| -   Wo liegen die Schwachpunkte  |                                  |
+|     der derzeitigen              |                                  |
+|     Organisationsstruktur?       |                                  |
++----------------------------------+----------------------------------+
+
+: Tab. 8.9: Checkliste Prozess- und Aufbauorganisation [@Nagl2018, S. 49-50]
+
+### Chancen und Risiken {#chancen-und-risiken}
+
+Dieser Teil des Businessplans unternimmt eine realistische Einschätzung
+von Erfolgspotenzialen (Chancen) undmöglichen negativen Entwicklungen
+und Ereignissen, die die Unternehmensentwicklung maßgeblich beeinflussen
+werden. Es geht dabei darum, mögliche Probleme darzustellen und, sollten
+diese einmal eintreten, entsprechendeLösungswege vorzuzeichnen. Es
+lassen sich im diesem Zusammenhang verschiedene Risikoarten
+identifizieren [@Hermanni2016, S. 36; @Nagl2018, S. 50]: z. B. *Umfeldrisiken
+*(Gesetzesänderungen, Wegfall von Fördermitteln, bessere Entwicklungen
+bei Mitwettbewerbern, Personalmangel, Kundenrückgang), *operative
+Risiken *(fehlerhafte Einschätzungen, menschliches Versagen,
+Naturkatastrophen) und *Finanzierungsrisiken
+*(Forderungsausfälle,Liquiditätsengpässe, zu hohe Fremdfinanzierung). Um
+die Chancen und Risiken und deren Eintrittswahrscheinlichkeit geeignet
+darstellen zu können, hat sich in der Praxis die Szenariotechnik
+durchgesetzt. Dabei erfolgt eine Risikobewertung alternativer
+Geschäftsverläufe, die sich aufgrund verschiedener möglicherweise
+eintretender Ergebnisse und Begleitumständeergeben können: z. B. der
+günstigste (Best Case), ungünstigste (Worst Case) oder der am
+wahrscheinlichsten (Most Likely Case) eintretende Fall. Dies kann
+beispielsweise anhand der Verläufe der Umsätze, Kosten, Gewinne,Cashflow
+dargestellt werden und sollte mit geeigneten Maßnahmen auf
+wahrscheinliche Störereignisse untermauertwerden (vgl. [Tab. 8.10](#table810)).
+
+| **Leitfragen**                                                                                               | **Fehlerquellen**                                                        |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| - Welche außerordentlichen Chancen bieten sich?                                                             | - Die Chancen werden überbewertet.                                       |
+| - Existieren grundsätzliche Risiken (Markt, Wettbewerb, Technologie)?                                         | - Relevante Risiken in den Bereichen Markt, Wettbewerb und Technologie werden nicht berücksichtigt. |
+| - Sind die möglichen Unwägbarkeiten allen Führungskräften bekannt?                                            | - Es fehlt eine Quantifizierung der Risiken.                             |
+| - Sind deren Auswirkungen auf Kapitalbedarf, Cashflow und Rendite bekannt?                                    |                                                                          |
+| - Wurde in Szenarien geplant?                                                                                   |                                                                          |
+| - Wie realistisch sind diese Szenarien?                                                                       |                                                                          |
+| - Gibt es eine ausreichende Variation, d. h. Sensitivitätsanalyse, dieser Szenarien?                          |                                                                          |
+
+: Tab. 8.10: Checkliste Chancen und Risiken [@Nagl2018, S. 52]
+
+### Finanzplanung {#finanzplanung}
+
+Der quantitative Teil des Businessplans beinhaltet schließlich die
+Finanzplanung. Aufgabe dieses Teils ist es, alle in den vorherigen
+Abschnitten dargestellten wirtschaftlichen Zusammenhänge in konkreten
+betriebswirtschaftlichen Kennzahlen, Tabellen und Planungsrechnungen
+darzustellen, damit Aussagen und Schlussfolgerungen über die zukünftige
+Entwicklung des zu gründenden Unternehmens sowie seiner
+Erfolgsaussichten möglich wird. Inhalt des Finanzteils sind insbesondere
+Kapitalausstattung und -bedarfsplanung (inkl. Gründungskosten),
+Betriebsmittelbedarf, Planbilanz und Plan-Gewinn- und Verlustrechnung
+(Umsatz- und Rentabilitätsvorschau) sowie die Liquiditäts- und
+Cashflowrechnung über einen Zeitraum von meist drei bis fünf Jahren. Wie
+in [Abb. 8.4](#figure84) dargestellt, wird dabei von Einzelplänen
+für die Absatz- und Preis-, Produktions-, Beschaffungs-, Personal- und
+Investitionsplanung ausgegangen. Daraus werden dann drei miteinander
+zusammenhängende Rechnungen (doppelte Buchführung) -- die geplante
+Gewinn- und Verlustrechnung, Planbilanz und Liquiditätsrechnung --
+abgeleitet. Schließlich wird in Form von Kennzahlen, d. h. aggregierten
+Verhältniszahlen, dargestellt, wie die allgemeine wirtschaftliche
+Entwicklung im Zeitverlauf geplant wird. Eine ausführliche Darstellung
+der dabei verwendeten Instrumente und betrieblichen Rechnungsformen wird
+ausführlich in [Kapitel 3 (Rechnungswesen)](3_funktionsbereiche.qmd#rechnungswesen) und [Kapitel 5 (Finanzierung)](5_finanzierung.qmd#betriebswirtschaftliche-finanzierungsformen).
+
+![Abb. 8.4: Komponenten der quantitativen Unternehmensplanung [@Nagl2018, S. 53]](images/figure84.png){width=75% #figure84}
+
+## Finanzteil des Businessplans {#finanzteil-des-businessplans}
+
+Im quantitativen Teil des Businessplans müssen verschiedene betriebliche
+Rechnungen durchgeführt werden, die Aussagen darüber treffen lassen, ob
+die entwickelte Geschäftsidee wirtschaftlich tragfähig ist. Dazu zählen
+insbesondere die folgenden Instrumente, die im Folgenden näher
+vorgestellt werden sollen:
+
+-   Finanzplanung: Kapital- und Finanzierungsplan (inkl. Investitionen)
+
+-   Erfolgsplanung: Umsatz- und Rentabilitätsvorschau
+
+-   Liquiditätsplanung: Cashflow-Entwicklung
+
+-   Vermögens- und Schuldenübersicht: Planbilanz
+
+### Finanzplanung: Kapital- und Finanzierungsbedarf {#finanzplanung-kapital-und-finanzierungsbedarf}
+
+Im Rahmen der Finanzplanung wird ermittelt, welcher Kapital- und
+Finanzierungsbedarf vorliegt, ins- besondere welche Gründungs- und
+Betriebskosten sowie Investitionskosten notwendig sind, um das
+Unternehmen starten zu können.
+
+Im Kapitalbedarfsplan muss festgehalten werden, wie viel Startkapital
+benötigt wird, wie hoch die Grün- dungskosten sind und welcher Kapital-
+und Finanzbedarf insbesondere in der Anlaufphase benötigt wird. Dabei
+gilt es, die folgenden Informationen und Daten genau zu ermitteln [vgl.
+im Folgenden @bmwi2018starthilfe, S. 17, erläutert am Beispiel Kapitalbedarfsplan in
+[Abb. 8.5](#figure85)]:
+
+-   *Gründungskosten*: Hierbei muss ermittelt werden, welche Kosten für
+    die Vorbereitung der Gründung notwendig sind: z. B. Beratungskosten,
+    Notarkosten, Gebühren für Genehmigungen.
+
+-   *Betriebliche Aufwendungen für die Anlaufphase*: Personalkosten,
+    Beratungskosten, Miete, Leasing, Verwaltung, Werbung und Vertrieb,
+    Steuern und Versicherung sowie eine kleine finanzielle Reserve für
+    unvorhergesehene Ereignisse.
+
+-   *Persönliche Lebenshaltungskosten*: Im Rahmen der Selbstständigkeit
+    müssen die Gründer\*innen auch auf die Absicherung ihres privaten
+    Lebensunterhaltes achten. Hierfür sollten sowohl ein Gehalt und
+    Beiträge für die Sozialversicherungen als auch andere private
+    Ausgaben kalkuliert werden, wie z. B. Miete und Nebenkosten, private
+    Versicherungen, Kosten für Unterhaltsverpflichtungen, Kindergarten
+    und Freizeitaktivitäten.
+
+-   *Kapitalbedarf*: Dieser setzt sich aus dem Anlage- und
+    Umlaufvermögen zusammen. Zum Anlagevermögen zählen z. B. Lizenzen,
+    Grundstücke, Gebäude, Maschinen, Fahrzeuge und Büroeinrichtungen.
+    Zum Umlaufvermögen werden die Beschaffung von Material- und
+    Warenlager, Roh-, Hilfs- und Betriebsstoffen gerechnet.
+
+-   *Kapitaldienst für Fremdkapital*: Im Rahmen der Gründung werden
+    meist nicht nur eigene finanzielle Mittel eingesetzt, sondern es
+    bedarf auch verschiedener Fremdkapitalien wie z. B.
+    (Förder-)Darlehen, Bankkredite etc. Aus dem jeweiligen Kreditvertrag
+    ergeben sich bestimmt Zins- und Tilgungszahlungen, die ebenfalls
+    eingeplant werden müssen.
+
+![Abb. 8.5: Kapitalbeschaffungsplan [@bmwi2018starthilfe, S. 38]](images/figure85.png){width=75% #figure85}
+
+Im Kapitalbedarfsplan wurde kalkuliert, wie viel Kapital für die
+Gründung und die Anlaufphase benötigt wird. Dagegen wird im
+Finanzierungsplan festgehalten, wie die benötigte Summe finanziert
+werden kann (vgl. [Abb. 8.6](#figure86)). Die Gesamtsumme muss dem
+Kapitalbedarf entsprechen.
+
+![Abb. 8.6: Finanzierungsplan (nach Vorlage des BMWi)](images/figure86.png){width=75% #figure86}
+
+### Erfolgsplanung: Umsatz- und Rentabilitätsvorschau {#erfolgsplanung-umsatz-und-rentabilittsvorschau}
+
+Eine Erfolgsplanung wird in Form einer Umsatz- und Rentabilitätsvorschau
+durchgeführt. Dieser liegt eine Gewinn- und Verlustrechnung nach dem
+Gesamtkosten- (§ 275 Abs. 2 HGB) oder Umlaufkostenverfahren (§ 275 Abs.
+3 HGB) zugrunde. Die prognostizierten Umsatzerlöse ergeben sich aus den
+Erträgen aus Leistungsentgelten, Projektmitteln, Spenden,
+Mitgliedsbeiträgen. Die Erträge können mit branchenüblichen Daten z. B.
+der Wohlfahrtsverbände bzw. anderen Sozialunternehmen in der Region
+verglichen werden. Die Umsatzerwartungen sind im ersten Jahr aufgrund
+der Anlaufphase zunächst niedriger und müssen ab dem 2. Geschäftsjahr
+stetig gesteigert werden. Unter dem Wareneinsatz können betriebliche
+Erträge erfasst werden, die sich durch Veränderungen im Lagerbestand
+ergeben haben, wenn es z. B. zu einer Erhöhung des Bestands an fertigen
+oder unfertigen Erzeugnissen gekommen ist. Zu sonstigen betrieblichen
+Erträgen zählen z. B. Mieteinnahmen aus der Vermietung und Verpachtung
+von eigenen Räumen oder Gebäuden. Wenn die Umsätze geschätzt wurden,
+müssen im nächsten Schritt alle betriebsnotwendigen Aufwendungen
+kalkuliert werden. Dazu zählen z. B. Personal-, Sach-, Dienst-
+leistungs-, Instandhaltungs-, Werbungs-, Verwaltungs-, Vertriebs-, Miet-
+und Leasingkosten sowie zu leistende Versicherungsbeiträge und Steuern.
+Schließlich sind auch die Kosten für den Kapitaldienst (Zinsen) sowie
+Aufwendungen für Abschreibungen von Vermögensgegenständen zu planen.
+
+Abschließend lässt sich für jedes Geschäftsjahr das Betriebsergebnis aus
+der Differenz der aufsummierten Umsatzerlöse und der aufsummierten
+Aufwendungen errechnen. Das Betriebsergebnis ermöglicht es, zu prüfen,
+ob sowohl die in der Kapitalbedarfsrechnung geplanten Kosten für die
+Lebensführung als auch die Gründungskosten, die Kosten für Anlaufphase
+und Kapitaldienst gedeckt sind (vgl. [Abb. 8.7](#figure87)).
+
+![Abb. 8.7: Umsatz- und Rentabilitätsvorschau nach Gesamtkostenverfahren [@bmwi2018starthilfe, S. 38]](images/figure87.png){width=75% #figure87}
+
+### Liquiditätsplanung: Cashflowrechnung {#liquidittsplanung-cashflowrechnung}
+
+Im Rahmen der Liquiditätsplanung wird ermittelt, ob und inwieweit das
+Unternehmen regelmäßig seinen laufenden Rechnungen nachkommen kann und
+wann entsprechende Einnahmen erwartet werden. Die Überwachung der
+Liquiditäts- und Cashflowentwicklung ist eine Pflichtaufgabe für jede\*n
+Unternehmer\*in und sollte im Regelfall eine Vorausschau für ein
+Geschäftsjahr erlauben. Eine fehlende Zahlungsfähigkeit ist ein
+gewichteter Grund für eine drohende Insolvenz des Unternehmens.
+
+Im Gegensatz zur Erfolgsplanung mit Hilfe der Gewinn- und
+Verlustrechnung geht es bei der Liquiditätsplanung um die monatlich
+erwarteten Ein- und Auszahlungen. Die Summe aus dem Bestand an flüssigen
+Mitteln (= aktuell verfügbarer Bestand von Bank- und Kassenguthaben) und
+den Zahlungseingängen des Monats ergeben in Summe die verfügbaren
+Mittel. Danach müssen alle Auszahlungen erfasst werden, die sich aus den
+Aufwendungen -- wie in der Gewinn- und Verlustrechnung erfasst --
+ergeben. Aus der Differenz der verfügbaren Mittel und der Summe der
+Auszahlungen, korrigiert um den Überschuss bzw. Fehlbetrag des
+Vormonats, ergibt sich als Ergebnis der Liquiditätssaldo: Ist dieser
+gleich null oder positiv, so kann allen laufenden Zahlungen regelmäßig
+nachgekommen werden. Ist dieser negativ, so muss eine Finanzierung für
+nicht verfügbare Mittel gesucht werden (z. B. Ausgleich von negativem
+Zahlungsmittelbestand auf dem Kontokorrentkonto, kurzfristiger Kredit
+oder Auflösung von Anlagen wie z. B. Tagesgeld). Mithin sollte für
+Zeitpunkte, in denen ein negativer Zahlungsmittelbe- stand zu erwarten
+ist, entsprechend mit einer „Reserve" vorgesorgt werden (vgl. [Abb. 8.8](#figure88)).
+
+![Abb. 8.8: Liquiditätsrechnung [@bmwi2018starthilfe, S. 68]](images/figure88.png){width=75% #figure88}
+
+Ein Liquiditätsplan sollte immer dahingehend geprüft werden, ob alle
+tatsächlichen Ein- und Auszahlungen in der richtigen Höhe und zum
+richtigen Zeitpunkt erfasst wurden: Personalkosten, Kapitaldienst,
+Verbindlichkeiten für Lieferanten, Liquidation von Forderungen, Höhe des
+Kontokorrentkontos und finanzielle Reserven.
+
+### Vermögens- und Schuldenübersicht: Planbilanz {#vermgens--und-schuldenbersicht-planbilanz}
+
+Eine Bilanz (lat. *bilancia* mit *bi* „doppelt" und *lanx* „Schale") ist
+eine detaillierte Übersicht über die wirtschaftliche Vermögens- und
+Schuldenlage des Unternehmens, gegliedert nach bestimmten Kriterien und
+dargestellt nach dem Prinzip der summarischen Ausgeglichenheit beider
+Seiten [vgl. [Abb. 8.9](#figure89) nach @ihk2019rechtsformen].
+
+Nach § 242 Abs. 1 HGB ist jedes bilanzierungspflichtige Unternehmen dazu
+verpflichtet, zur Eröffnung und am Schluss eines jeden Geschäftsjahres
+sowie bei Geschäftsaufgabe oder Veräußerung des Geschäftsbetriebs eine
+Bilanz zu erstellen. Diese wird aus dem Inventarverzeichnis abgeleitet
+und nach dem folgenden Prinzip gebildet. Der Grundaufbau bzw. die
+Gliederung für die kaufmännische Bilanz ist grundsätzlich in § 266 II
+und III HGB festgelegt:
+
+-   Auf der *Aktivseite* werden alle Vermögensgegenstände dargestellt,
+    die nach ihrer Liquidität geordnet sind. Diese Seite der Bilanz
+    stellt die Mittelverwendung dar.
+
+-   Auf der *Passivseite* werden die Kapitalquellen (z. B. Eigen- und
+    Fremdkapital), d. h. Schulden, geordnet nach Fälligkeiten,
+    abgebildet. Diese Seite der Bilanz stellt die Mittelherkunft dar.
+    Dort wird der Bilanzgewinn verbucht und das Fremdkapital detailliert
+    dargestellt.
+
+-   Die Bilanz ist so konstruiert, dass die *Gesamtsumme der Bestände
+    auf beiden Seiten* immer übereinstimmen müssen, wie bei einer
+    zweiseitigen (Balken-)Waage. D. h., die Summe der Aktiva-Positionen
+    entspricht stets der Summe der Passiva-Positionen.
+
+![Abb. 8.9: Planbilanz [@ihk2019rechtsformen, S. 55]](images/figure89.png){width=75% #figure89}

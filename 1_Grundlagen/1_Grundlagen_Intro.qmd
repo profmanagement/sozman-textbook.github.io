@@ -1,0 +1,19 @@
+---
+title: "Teil I: Grundlagen"
+lightbox: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Teil I: Grundlagen
+
+Das Kapitel bietet einen umfassenden Überblick über das Themenfeld Sozialmanagement und Sozialwirtschaft. Zunächst veranschaulicht eine Fachlandkarte das komplexe Arbeitsfeld. Anschließend werden die Geschichte sowie die statistische Einordnung des Sektors dargestellt. Zentrale Begriffe und Abgrenzungen, etwa zwischen Sozialmanagement und Non-Profit-Management, werden erläutert. Mithilfe von Abbildungen und Tabellen werden verschiedene Bereiche wie Finanzbuchhaltung, Organisations- und Führungsstrukturen sowie strategische Ansätze und hybride Managementkonzepte aufgezeigt. Das Kapitel bildet so die Grundlage für ein tiefergehendes Verständnis der sozialen Organisationen und ihrer Herausforderungen.
+
+:::: aside
+![Cover](../images/sozialmanagement_cover.jpg)
+
+::: figure-caption
+[Grundlagen des Sozialmanagements by Maik Arnold CC-BY-NC 3.0 (Au)]()
+:::
+::::

@@ -5,6 +5,8 @@ git add .
 git commit -m "Comment"
 git push origin main
 
+Passwort for SSH key Github: Start2024#
+
 #####
 
 This error occurs because Git needs to know your identity before it can commit changes. Git uses this information to associate commits with an author. Let me help you resolve this issue.

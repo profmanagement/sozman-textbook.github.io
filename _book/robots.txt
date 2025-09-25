@@ -1,1 +1,1 @@
-Sitemap: https://maik-arnold.github.io/sozman-textbook.github.io/sitemap.xml
+Sitemap: https://sozman.profmanagement.de/sitemap.xml

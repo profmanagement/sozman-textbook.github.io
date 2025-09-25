@@ -308,7 +308,7 @@ versuchen festzumachen:
 
 ## Herausforderungen in der Sozialwirtschaft {#herausforderungen-sozialwirtschaft}
 
-### Ausgangspunkt {#sozialwirtschaft-ausgangspunkt}
+### Ausgangslage {#sozialwirtschaft-ausgangslage}
 
 Träger und Einrichtungen in der Sozialwirtschaft müssen stärker
 ökonomische Fragen beachten und sich auch am marktwirtschaftlichen
@@ -394,93 +394,5 @@ zusammengeführt werden?
 Die Herausforderung, die sich für die Sozialwirtschaft, also für
 Sozialunternehmen ergeben, sind mindestens zweiteilig. Auf der einen
 Seite kann man von Multirationalität, auf der anderen Seite von Hybrid
-sprechen. Was ist mit diesen Konzepten gemeint? Darauf soll im Folgenden
+sprechen. Was ist mit diesen Konzepten gemeint? Darauf soll im Folgenden Kapitel
 näher eingegangen werden.
-
-### Multirationalität und Hybridität {#multirationalitt-und-hybriditaet}
-
-#### Multirationalität {#sozialwirtschat-multirationalitaet}
-
-Multirationalität[^1_einfuehrung-3] ist ein Begriff, der insbesondere
-vom Autorenteam @Schedler2013multirationales geprägt wurde, die sich mit der Frage
-auseinandergesetzt haben, wie die verschiedenen Rationalitäten, mit
-anderen Worten die verschiedenen Ansprüche, Zielstellungen, Wünsche
-sowie Interessen, die innerhalb und außerhalb einer Organisation
-existieren, zusammengebracht werden können. Sie meinen, dass dauerhaft
-und zeitgleich immer mehrere dieser Rationalitäten und Logiken
-existieren und es dabei durchaus auch zu Widersprüchen kommen kann in
-einer Organisation. All das gilt es zu „managen", in den Blick zu nehmen
-und sozusagen als Motivation für die Zusammenarbeit aufzufassen.
-
-[^1_einfuehrung-3]: Ein Einführungsvideo gibt es an dieser Stelle:
-    <https://www.youtube.com/watch?v=L_Mf-tNNFJc>
-
-Zum Beispiel gibt es verschiedene Fachsprachen in der Einrichtung, d. h.
-bei professionellem Zusammenarbeiten gibt es unterschiedliche
-Stakeholder-Interessen. Dies sind die Interessen der Mitarbeitenden, die
-Sie vertreten, die der Leitung und auch die der Klient\*innen.
-
-Es sind noch Rahmenbedingungen der Politik und Ökonomie zu beachten. All
-das sind unterschiedliche Perspektiven, die immer gleichzeitig
-betrachtet werden müssen, wenn es um die Aufgabenkoordination und die
-Lösung von Problemen im Arbeitsalltag geht.
-
-#### Hybridität {#hybriditaet}
-
-Neben der Multirationalität gibt es noch ein anderes Prinzip, nämlich
-das der Hybridität. Dieses geht stärker auf die Autoren @Evers2010 zurück. Der Begriff
-Hybridität kommt aus den Kulturwissenschaften und meint, dass Dinge, die
-miteinander zusammengeführt werden, ineinanderfließen und dass es zu
-Überschneidungen kommt. Im Kontext der Sozialwirtschaft geht es dabei um
-den Einfluss unterschiedlicher, wechselseitig bedingender Werte und
-Logiken, die aber nicht nur innerhalb einer Organisation existieren,
-sondern auch zwischen den verschiedenen Sektoren der Gesellschaft
-vorliegen können. Mit Sektoren der Gesellschaft ist gemeint, dass es
-einerseits soziale Leistungen im sozialen Markt gibt und gleichzeitig
-auch der öffentliche Bereich mitgedacht werden muss. Also der
-Kostenträger bzw. die öffentlichen Einrichtungen, die die angebotenen
-personenbezogenen sozialen Dienstleistungen finanzieren, sind
-einzubeziehen. Darüber hinaus kann es auch noch andere gesellschaftliche
-Interessen geben, nämlich wie die Leistungen angeboten werden und wer
-die Bedürftigen bzw. Anspruchsgruppen sind. Es sind darüber hinaus auch
-die rechtlichen Rahmenbedingungen zu beachten, der Bereich der
-Jurisprudenz, und so könnte man diese Beispiele noch ewig weiterführen.
-
-Was hier zu beachten ist, ist, dass mit Hybridität nicht die des
-(internen) Organisationsgeschehens betrachtet wird. Vielmehr werden
-unter diesem Konzept die verschiedenen Sektoren der Gesellschaft -- also
-die Organisationsumwelt -- in den Blick genommen. Ein Beispiel stellt
-hier die Gemeinwesenarbeit dar. Diese kann man als eine „Bearbeitung"
-und Gestaltung von Hybridität ansehen, weil das Zusammenarbeiten
-verschiedenster Organisationen, Personen und Gruppen im Vordergrund
-steht, ob dies nun die Stadt, ein freier Träger oder ein Kommunalverband
-ist. Hier muss, um ein soziales Problem möglichst von unterschiedlichen
-Perspektiven anzugehen, die Hybridität beachtet werden, also die
-Zusammenarbeit von unterschiedlichen Sektoren der Gesellschaft
-organisiert werden.
-
-#### Konsequenzen {#sozialwirtschat-konsequenzen}
-
-Einerseits sind Ressourcen von Sozialunternehmen aus unterschiedlichen
-Quellen zu nutzen, was oben unter dem Stichpunkt Finanzierungsmix
-bereits ausgeführt wurde. Zweitens müssen verschiedene
-Interessensgruppen miteinander ausgehandelt werden. Im Sinne des
-Partizipationsprinzips und der Beteiligung von unterschiedlichen
-Interessensgruppen ist es hilfreich, hier auch Selbstvertretungen in
-Organisationen zu organisieren.
-
-Darüber hinaus muss man die Formalziele mit den Sachzielen abwägen, d.
-h. auf der einen Seite gibt es natürlich eine Gewinnerzielungsabsicht
-und am Ende des Jahres muss mindestens plus/minus null erreicht werden.
-Gleichzeitig muss aber auch der ideelle Auftrag, die Vision und der
-Unternehmenszweck umgesetzt und erreicht werden (z. B. Betreuungs-,
-Beratungs- und Bildungsleistungen).
-
-Damit ist gemeint, dass Organisationen nach innen und nach außen
-vertreten werden müssen und sich eine Organisationsidentität entwickelt:
-Wofür stehen wir? Was ist unser Auftrag? Wer ist unsere Zielgruppe? All
-diese Fragen müssen im Leitbild geklärt werden. Damit beschäftigen wir
-uns noch einmal ausführlicher an späterer Stelle. Beide Konzepte, die
-Multirationalität und die Hybridität, gewinnen in der Praxis zunehmend
-an Bedeutung, insbesondere in der Abgrenzung zwischen Einrichtungen und
-in der Gestaltung der Arbeitsbedingungen selbst.

@@ -31,7 +31,6 @@ date_rendered <- Sys.Date()
 
 ```
 
-
 **Dieses Buch wurde zuletzt gerendert am `r date_rendered`.**
 
 ## Lizenz
@@ -49,7 +48,7 @@ werden.
 
 Arnold, M. (2020). *Grundlagen des Sozialmanagements: Ein Open
 Educational Textbook* (2. Aufl.). Hochschule Nordhausen.
-https://doi.org/XXX.
+<https://doi.org/10.5281/zenodo.17200773>.
 
 ## Acknowledgement
 

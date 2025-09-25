@@ -62,4 +62,4 @@ Auf das Buch kann über folgende Links zugegriffen werden:
     Repository](https://github.com/maik-arnold/sozman-textbook.github.io)
 
 -   [GitHub
-    Pages](https://maik-arnold.github.io/sozman-textbook.github.io/)
+    Pages](https://profmanagement.github.io/sozman-textbook.github.io/)
